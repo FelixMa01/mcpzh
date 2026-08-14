@@ -1620,7 +1620,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 28,
-    "last_commit": "2026-08-14T07:44:14Z",
+    "last_commit": "2026-08-14T15:15:29Z",
     "gh_forks": 7,
     "gh_open_issues": 17,
     "gh_license": "MIT",
@@ -3006,13 +3006,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-06-10T06:04:24Z",
-    "gh_forks": 2,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "jaspertvdm/mcp-server-ollama-bridge",
@@ -3052,13 +3047,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-06-10T06:03:25Z",
-    "gh_forks": 2,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "jaspertvdm/mcp-server-openai-bridge",
@@ -3098,13 +3088,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-06-10T06:02:01Z",
-    "gh_forks": 2,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Jovancoding/Network-AI",
@@ -3144,34 +3129,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 69,
-    "last_commit": "2026-08-10T23:10:16Z",
-    "gh_forks": 12,
-    "gh_open_issues": 2,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-framework",
-      "agent-orchestration",
-      "ai-agents",
-      "autogen",
-      "blackboard",
-      "blackboard-architecture",
-      "crewai",
-      "hermes",
-      "hermes-agent",
-      "langchain",
-      "llm",
-      "mcp",
-      "multi-agent",
-      "nemoclaw",
-      "nodejs",
-      "openclaw",
-      "orchestration",
-      "rlm",
-      "typescript",
-      "workflow-engine"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "julien040/anyquery",
