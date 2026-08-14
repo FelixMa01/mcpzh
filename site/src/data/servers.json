@@ -2821,9 +2821,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 176,
-    "last_commit": "2026-08-12T11:04:41Z",
+    "last_commit": "2026-08-14T15:36:02Z",
     "gh_forks": 11,
-    "gh_open_issues": 9,
+    "gh_open_issues": 10,
     "gh_license": "AGPL-3.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3211,7 +3211,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1749,
+    "stars": 1750,
     "last_commit": "2026-08-06T12:17:09Z",
     "gh_forks": 128,
     "gh_open_issues": 4,
@@ -12861,13 +12861,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 294,
-    "last_commit": "2025-05-28T17:57:12Z",
-    "gh_forks": 166,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "ndthanhdev/mcp-browser-kit",
