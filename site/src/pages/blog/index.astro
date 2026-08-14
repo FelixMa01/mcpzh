@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import { articles } from '../../data/articles';
+import { comparePairs } from '../../data/compare';
+---
+<Base title="MCP 中文评测与选型指南 — MCP中文" description="数据库、浏览器自动化、记忆、安全、搜索和编码 Agent MCP 的中文比较与选型指南。">
+  <h1>MCP 中文评测</h1>
+  <p class="section-sub">基于 GitHub 元数据、维护活跃度、权限边界和安装证据的独立分析</p>
+  <div class="card-grid">
+    {articles.map((a) => (
+      <article class="card">
+        <h3><a href={`/blog/${a.slug}`}>{a.title}</a></h3>
+        <div class="meta"><span class="tag tag-accent">{a.intent === 'best' ? '推荐' : a.intent === 'compare' ? '对比' : '指南'}</span></div>
+        <p>{a.description}</p>
+      </article>
+    ))}
+  </div>
+
+  <h2 class="section-title">横评对比</h2>
+  <div class="card-grid">
+    {comparePairs.map((p) => (
+      <article class="card">
+        <h3><a href={`/compare/${p.slug}`}>{p.left} vs {p.right}</a></h3>
+        <div class="meta"><span class="tag tag-accent">对比</span></div>
+        <p>{p.context}</p>
+      </article>
+    ))}
+  </div>
+</Base>

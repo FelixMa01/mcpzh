@@ -1,0 +1,19 @@
+/* eslint-disable */
+/*
+  Cloudflare Pages _redirects
+  - Directory access without trailing slash → add slash (which serves /index.html)
+  - /server → /category (legacy alias)
+
+  Astro with trailingSlash: 'never' emits /foo/index.html; request /foo returns 404.
+  This redirect forces the trailing slash for directory routes so internal links work.
+*/
+
+/server         /category           301
+
+/category       /category/          301
+/client         /client/            301
+/blog           /blog/              301
+
+/best           /best/              301
+/about          /about/             301
+/search         /search/            301

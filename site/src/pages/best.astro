@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import { getAllServers, formatDate, formatStars } from '../lib/data';
+const top = getAllServers().filter((s) => s.stars > 0).sort((a,b) => b.stars - a.stars).slice(0,100);
+---
+<Base title="Top 100 MCP Servers GitHub 排行 — MCP中文" description="按 GitHub stars 排序的 MCP Server Top 100，附最近提交、分类和维护状态。">
+  <h1>Top 100 MCP Servers</h1>
+  <p class="section-sub">GitHub stars 代表社区关注度；安全、兼容与实际质量需要独立验证。</p>
+  <table class="compare-table">
+    <thead><tr><th>#</th><th>项目</th><th>Stars</th><th>分类</th><th>最近提交</th></tr></thead>
+    <tbody>{top.map((s,i) => <tr><td>{i+1}</td><td><a href={`/server/${s.slug}`}>{s.name}</a></td><td>⭐ {formatStars(s.stars)}</td><td>{s.category}</td><td>{formatDate(s.last_commit)}</td></tr>)}</tbody>
+  </table>
+</Base>

@@ -1,0 +1,60 @@
+---
+import Base from '../../layouts/Base.astro';
+import ServerCard from '../../components/ServerCard.astro';
+import { getCategories, getByCategory } from '../../lib/data';
+import { slugify } from '../../lib/data';
+
+export function getStaticPaths() {
+  return getCategories().map((c) => ({
+    params: { slug: c.slug },
+    props: { category: c.name },
+  }));
+}
+const { category } = Astro.props;
+const servers = getByCategory(category);
+const ranked = [...servers].sort((a, b) => (b.stars - a.stars) || (b.last_commit || '').localeCompare(a.last_commit || ''));
+const verified = ranked.filter((s) => s.stars > 0 || s.description.length >= 100 || s.is_chinese_friendly);
+const others = ranked.filter((s) => !(s.stars > 0 || s.description.length >= 100 || s.is_chinese_friendly));
+const indexable = verified.length > 0 || ranked.length >= 5;
+const catSlug = slugify(category);
+const breadcrumbs = [
+  { name: '首页', item: '/' },
+  { name: '分类', item: '/category' },
+  { name: category, item: `/category/${catSlug}` },
+];
+---
+<Base title={`${category} MCP Servers 中文目录（${ranked.length}个）— MCP中文`} description={`精选 ${ranked.length} 个 ${category} MCP server，包含 GitHub 活跃度、客户端兼容性和中文说明。`} noindex={!indexable} breadcrumbs={breadcrumbs}>
+  <nav class="breadcrumbs" aria-label="面包屑">
+    <a href="/">首页</a><span class="sep">/</span>
+    <a href="/category">分类</a><span class="sep">/</span>
+    <span>{category}</span>
+  </nav>
+  <h1>{category} MCP Servers</h1>
+  <p class="section-sub">共 {ranked.length} 个 · {verified.length} 条经过质量筛选 · 按 GitHub 星标与活跃度排序</p>
+  <div class="alert">兼容性标识代表 MCP 协议级兼容。具体安装命令、认证方式和客户端版本仍需在原仓库核验。</div>
+
+  {verified.length > 0 && <>
+    <h2 class="section-title">推荐条目</h2>
+    <div class="card-grid">
+      {verified.slice(0, 24).map((s) => <ServerCard server={s} compact={true} />)}
+    </div>
+  </>}
+
+  {verified.length > 24 && <details class="more">
+    <summary>展开其余 {verified.length - 24} 条推荐</summary>
+    <div class="card-grid">
+      {verified.slice(24).map((s) => <ServerCard server={s} compact={true} />)}
+    </div>
+  </details>}
+
+  {others.length > 0 && <details class="more">
+    <summary>查看其余 {others.length} 条（GitHub 元数据较少）</summary>
+    <div class="card-grid">
+      {others.map((s) => <ServerCard server={s} compact={true} />)}
+    </div>
+  </details>}
+
+  {verified.length === 0 && others.length === 0 && (
+    <div class="empty-state">该分类暂无数据。请尝试 <a href="/category">查看全部分类</a>。</div>
+  )}
+</Base>

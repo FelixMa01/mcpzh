@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="关于 MCP中文 — 数据口径与商业披露" description="MCP中文的独立评测方法、数据来源、更新机制和商业合作披露。">
+  <article class="prose">
+    <h1>关于 MCP中文</h1>
+    <p>MCP中文帮助中文开发者筛选 MCP server。目录数据来自公开 GitHub 仓库，站点每天同步并保留原始来源链接。</p>
+    <h2>数据口径</h2>
+    <ul>
+      <li>Stars、Forks、Issue 和最近提交来自 GitHub API。</li>
+      <li>分类与描述来自公开 README，自动解析后人工抽查。</li>
+      <li>“活跃”代表近 365 天有提交，体现维护信号。</li>
+      <li>“协议级兼容”代表项目声明实现 MCP，具体客户端安装仍需实测。</li>
+    </ul>
+    <h2>评测原则</h2>
+    <p>本站把可验证证据和主观判断分开。GitHub stars、提交时间、许可证属于事实；推荐理由会注明评价标准。涉及凭据、资金、生产数据和文件系统的 server，默认按高风险工具评估。</p>
+    <h2>商业披露</h2>
+    <p>未来部分链接可能属于联盟链接，产生佣金时会在页面明确标记。付费推荐位会显示“赞助”标签，付费不会改变独立评测结论。</p>
+    <h2>数据来源</h2>
+    <ul><li><a href="https://github.com/punkpeye/awesome-mcp-servers">punkpeye/awesome-mcp-servers</a></li><li><a href="https://github.com/yzfly/Awesome-MCP-ZH">yzfly/Awesome-MCP-ZH</a></li><li><a href="https://github.com/modelcontextprotocol/registry">Model Context Protocol Registry</a></li></ul>
+  </article>
+</Base>

@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCategories } from '../../lib/data';
+const categories = getCategories();
+---
+<Base title="MCP Server 分类目录 — MCP中文" description={`按用途浏览 ${categories.length} 个 MCP server 分类：开发工具、数据库、安全、搜索、知识库、浏览器自动化等。`}>
+  <h1>全部 MCP 分类</h1>
+  <p class="section-sub">{categories.length} 个分类 · 从 3,300+ 个开源 MCP server 自动整理</p>
+  <div class="category-grid">
+    {categories.map((c) => (
+      <a class="category-card" href={`/category/${c.slug}`}>
+        <div>{c.name}</div><div class="count">{c.count} 个 server</div>
+      </a>
+    ))}
+  </div>
+</Base>

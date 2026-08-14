@@ -1,0 +1,69 @@
+name: Sync & Build
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours: sync + rebuild
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync-build
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Sync awesome-mcp-servers → JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p scripts
+          # fetch upstream READMEs
+          curl -sSL "https://raw.githubusercontent.com/punkpeye/awesome-mcp-servers/main/README.md" -o /tmp/punkpeye.md
+          curl -sSL "https://raw.githubusercontent.com/yzfly/Awesome-MCP-ZH/main/README.md" -o /tmp/yzfly.md
+          python3 scripts/parse_punkpeye.py /tmp/punkpeye.md /tmp/punkpeye.json
+          python3 scripts/enrich_github.py /tmp/punkpeye.json /tmp/punkpeye_enriched.json 500
+          cp /tmp/punkpeye_enriched.json site/src/data/servers.json
+      - name: Check for changes
+        id: diff
+        run: |
+          git diff --quiet site/src/data/servers.json && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Commit if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/src/data/servers.json
+          git commit -m "sync: update MCP server catalog $(date -u +%Y-%m-%dT%H:%M:%SZ)" || true
+          git push
+
+  build-and-deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: cd mcpzh/site && npm ci && npm run check && npm test && npm run build && npm run validate
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mcpzh-dist
+          path: site/dist
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          projectName: mcpzh
+          directory: site/dist
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}

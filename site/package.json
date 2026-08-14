@@ -1,0 +1,25 @@
+{
+  "name": "mcpzh",
+  "version": "0.4.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0 --port 4321",
+    "build": "astro build",
+    "preview": "astro preview",
+    "preview:headers": "node scripts/preview-headers.mjs",
+    "astro": "astro",
+    "test": "vitest run",
+    "check": "astro check",
+    "validate": "python3 scripts/validate_dist.py && python3 scripts/check_links.py"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.10"
+  }
+}

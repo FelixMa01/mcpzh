@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+import { articles } from '../../data/articles';
+import { articleJsonLd, faqJsonLd } from '../../lib/jsonld';
+import { getByCategory, getByClient, formatDate, formatStars } from '../../lib/data';
+
+export function getStaticPaths() {
+  return articles.map((article) => ({ params: { slug: article.slug }, props: { article } }));
+}
+const { article } = Astro.props;
+const candidates = (article.category ? getByCategory(article.category) : getByClient(article.client || 'claude_code'))
+  .filter((s) => s.description.length >= 60)
+  .sort((a,b) => (b.stars - a.stars) || (b.last_commit || '').localeCompare(a.last_commit || ''))
+  .slice(0,10);
+const updated = new Date().toISOString().slice(0,10);
+const url = new URL(`/blog/${article.slug}`, Astro.site ?? 'https://mcpzh.com').toString();
+const faqs = [
+  { question: `哪类 MCP server 适合${article.intent === 'best' ? '排名推荐' : article.intent === 'compare' ? '横向对比' : '选型'}？`, answer: `优先评估 ${article.criteria.join('、')}。这些标准来自 ${article.category || article.client || 'MCP'} 场景的真实约束。` },
+  { question: '如何降低 MCP 接入风险？', answer: '在测试环境逐个安装，核对权限边界、日志输出和退出码。涉及数据库、文件系统、浏览器登录态和资金时，使用最小权限凭据并保留人工确认环节。' },
+];
+const breadcrumb = [
+  { name: '首页', item: '/' },
+  { name: '评测', item: '/blog' },
+  { name: article.title, item: `/blog/${article.slug}` },
+];
+---
+<Base title={`${article.title} — MCP中文`} description={article.description} breadcrumbs={breadcrumb} jsonLdExtra={[articleJsonLd({ site: (Astro.site ?? new URL('https://mcpzh.com')).toString(), url, title: article.title, description: article.description, dateModified: updated, category: article.category || article.client }), faqJsonLd(faqs)]}>
+  <article class="prose">
+    <p><a href="/blog">← 全部评测</a></p>
+    <h1>{article.title}</h1>
+    <p class="section-sub">更新于 {updated} · 数据来源：GitHub API 与公开 README</p>
+    <div class="alert"><strong>结论：</strong>{article.thesis}</div>
+
+    <h2>选择标准</h2>
+    <ul>{article.criteria.map((c) => <li>{c}</li>)}</ul>
+
+    <h2>候选项目数据对比</h2>
+    <table class="compare-table">
+      <thead><tr><th>项目</th><th>Stars</th><th>最近提交</th><th>状态</th></tr></thead>
+      <tbody>{candidates.map((s) => <tr><td><a href={`/server/${s.slug}`}>{s.name}</a></td><td>{s.stars ? formatStars(s.stars) : '待同步'}</td><td>{formatDate(s.last_commit)}</td><td>{s.is_active ? '活跃' : '待核验'}</td></tr>)}</tbody>
+    </table>
+
+    <h2>怎么选</h2>
+    <p>先按权限和部署边界淘汰高风险候选，再检查最近提交、Issue 响应与许可证。GitHub stars 只能代表关注度，不能代替安全审计和安装实测。涉及数据库、文件系统、浏览器登录态、钱包或生产环境时，使用最小权限凭据，并保留人工确认环节。</p>
+
+    <h2>数据口径</h2>
+    <p>本站自动同步公开仓库的描述、GitHub stars、最近提交、许可证和分类。标注“协议级兼容”的项目实现 MCP 标准；标注“待实测”的项目尚未在对应客户端完成端到端验证。排行榜不会把 stars 换算成质量评分。</p>
+
+    <h2>下一步</h2>
+    <p>打开候选项目详情页，核对原仓库安装命令、所需权限和客户端配置。优先从只读、低权限、可卸载的项目开始验证。</p>
+  </article>
+</Base>

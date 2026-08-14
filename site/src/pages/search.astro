@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="搜索 MCP Server — MCP中文" description="搜索 3,300+ MCP server，按名称、描述和分类匹配。" noindex={true}>
+  <h1>搜索 MCP Server</h1>
+  <div class="searchbar"><input id="q" type="search" placeholder="输入关键词，如 postgres、figma、browser" autofocus /><button class="btn" id="search-btn">搜索</button></div>
+  <p id="status" class="section-sub">正在加载目录...</p>
+  <div id="results" class="card-grid"></div>
+  <script>
+    type IndexItem = {
+      name: string;
+      slug: string;
+      description: string;
+      category: string;
+      stars: number;
+      tags: string[];
+      clients: string[];
+    };
+    let data: IndexItem[] = [];
+    const input = document.querySelector<HTMLInputElement>('#q')!;
+    const status = document.querySelector<HTMLElement>('#status')!;
+    const results = document.querySelector<HTMLElement>('#results')!;
+    const esc = (s: unknown) => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c] || c));
+    async function load() {
+      data = await fetch('/search-index.json').then(r => r.json());
+      const params = new URLSearchParams(location.search);
+      const q = params.get('q') || '';
+      input.value = q;
+      run(q);
+    }
+    function run(raw: string) {
+      const q = raw.trim().toLowerCase();
+      const items = q ? data.filter(x => `${x.name} ${x.description} ${x.category}`.toLowerCase().includes(q)).sort((a,b)=>b.stars-a.stars).slice(0,100) : [];
+      status.textContent = q ? `找到 ${items.length} 个结果（最多显示 100 个）` : `目录已加载，共 ${data.length} 个 server`;
+      results.innerHTML = items.map(x => `<article class="card"><h3><a href="/server/${esc(x.slug)}">${esc(x.name)}</a></h3><div class="meta"><span>⭐ ${x.stars}</span><span class="tag tag-accent">${esc(x.category)}</span></div><p>${esc(x.description.slice(0,140))}</p></article>`).join('');
+    }
+    document.querySelector('#search-btn')?.addEventListener('click', () => run(input.value));
+    input.addEventListener('keydown', (e: KeyboardEvent) => { if(e.key==='Enter') run(input.value); });
+    load().catch(() => { status.textContent = '目录加载失败，请刷新页面重试。'; });
+  </script>
+</Base>

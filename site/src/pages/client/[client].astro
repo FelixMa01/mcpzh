@@ -1,0 +1,19 @@
+---
+import Base from '../../layouts/Base.astro';
+import ServerCard from '../../components/ServerCard.astro';
+import { CLIENT_LABELS, getByClient } from '../../lib/data';
+
+export function getStaticPaths() {
+  return Object.entries(CLIENT_LABELS).map(([key,label]) => ({
+    params: { client: key.replace(/_/g,'-') }, props: { key, label },
+  }));
+}
+const { key, label } = Astro.props;
+const servers = getByClient(key).sort((a,b) => b.stars - a.stars).slice(0,100);
+---
+<Base title={`${label} MCP Server 推荐与兼容候选 — MCP中文`} description={`适用于 ${label} 的 MCP server 候选清单，含 GitHub 活跃度与安装线索。`}>
+  <p><a href="/client">← 所有客户端</a></p>
+  <h1>{label} MCP Server</h1>
+  <div class="alert"><strong>兼容性口径：</strong>这些项目实现标准 MCP 协议，具备协议级兼容基础。本站尚未逐个完成 {label} 端到端安装测试，详情页会明确标记实测状态。</div>
+  <div class="card-grid">{servers.map((s) => <ServerCard server={s} compact={true} />)}</div>
+</Base>

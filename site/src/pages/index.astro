@@ -1,0 +1,97 @@
+---
+import BaseLayout from '../layouts/Base.astro';
+import { getAllServers, getTopByStars, getRecentlyUpdated, getCategories, formatDate, formatStars } from '../lib/data';
+import { getVerifiedServerNames } from '../lib/verification';
+import { faqJsonLd } from '../lib/jsonld';
+
+const total = getAllServers().length;
+const top = getTopByStars(6);
+const recent = getRecentlyUpdated(4);
+const faqs = [
+  { question: 'MCP 是什么？', answer: 'MCP（Model Context Protocol）是 Anthropic 提出的开放协议，让 AI 模型通过标准化 server 获取本地文件、数据库、API 和工具。它相当于 AI 应用的 USB-C 接口，统一了大模型与外部资源的连接方式。' },
+  { question: '本目录与 mcp.so 的差别？', answer: '本目录专注于中文开发者：①中文界面与说明 ②按 Claude Code、Cursor、Codex、Windsurf 等客户端筛选 ③真实协议测试证据 ④同类对比页面 ⑤完整开源可自部署。' },
+  { question: '如何选择安全的 MCP server？', answer: '优先选择协议级兼容、安装命令清晰、最近 90 天有提交、GitHub stars 较高、许可证明确的仓库。涉及数据库、文件系统、浏览器登录态或资金时，使用最小权限凭据并保留人工确认环节。' },
+  { question: '如何把 MCP server 接入 Claude Code？', answer: '使用 `claude mcp add <name> -- <command>` 把 server 注册到 Claude Code，之后在 `~/.claude.json` 中查看生效配置。本站的详情页会展示原仓库 README 中可提取的安装命令。' },
+];
+const categories = getCategories().slice(0, 12);
+const verifiedCount = getVerifiedServerNames().length;
+---
+<BaseLayout title="MCP中文 — 选 MCP server 的中文决策站" jsonLdExtra={[faqJsonLd(faqs)]}>
+  <section class="hero">
+    <div class="registry-kicker">mcp://registry.zh · live index</div>
+    <h1>选 MCP server<br/>用中文决策</h1>
+    <p>3,300+ MCP servers · 按客户端兼容筛选 · 中文评测 + 同行对比 · 数据 24h 同步自 GitHub</p>
+    <form class="searchbar" action="/search" method="get">
+      <input type="search" name="q" placeholder="搜 MCP server：postgres / figma / 高德 / notion..." />
+      <button class="btn" type="submit">搜索</button>
+    </form>
+    <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:14px;">
+      <a href="/client/claude-code" class="btn btn-secondary">Claude Code 兼容</a>
+      <a href="/client/cursor" class="btn btn-secondary">Cursor 兼容</a>
+      <a href="/blog" class="btn btn-secondary">看中文评测</a>
+    </div>
+    <div class="data-rail" aria-label="目录数据状态">
+      <div class="datum"><strong>{total}</strong><span>去重条目</span></div>
+      <div class="datum"><strong>{getCategories().length}</strong><span>用途分类</span></div>
+      <div class="datum"><strong>{verifiedCount}</strong><span>端到端实测</span></div>
+      <div class="datum"><strong>24h</strong><span>同步周期</span></div>
+    </div>
+  </section>
+
+  <h2 class="section-title">🏆 Top 6 高星 MCP Server</h2>
+  <p class="section-sub">按 GitHub stars 实时排序 · {formatDate(new Date().toISOString())} 更新</p>
+  <div class="card-grid top-grid">
+    {top.map((s) => (
+      <article class="card">
+        <h3><a href={`/server/${s.slug}`}>{s.name}</a></h3>
+        <div class="meta">
+          <span>⭐ {formatStars(s.stars)}</span>
+          <span class="tag tag-accent">{s.category}</span>
+          {s.language && <span class="tag">{s.language}</span>}
+          {s.is_active && <span class="tag tag-success">活跃</span>}
+        </div>
+        <p>{s.description.slice(0, 140)}{s.description.length > 140 ? '...' : ''}</p>
+      </article>
+    ))}
+  </div>
+
+  <h2 class="section-title">📂 热门分类</h2>
+  <p class="section-sub">{categories.length} 个主分类 · 共 {total} 个 server</p>
+  <div class="category-grid home-categories">
+    {categories.map((c) => (
+      <a class="category-card" href={`/category/${c.slug}`}>
+        <div>{c.name}</div>
+        <div class="count">{c.count} 个 server</div>
+      </a>
+    ))}
+    <a class="category-card view-all" href="/category" style="border-color: var(--accent); color: var(--accent);">
+      <div>查看全部 →</div>
+      <div class="count">{getCategories().length} 个分类</div>
+    </a>
+  </div>
+
+  <h2 class="section-title">🆕 最近活跃</h2>
+  <p class="section-sub">近 30 天有提交的 MCP server</p>
+  <div class="card-grid recent-grid">
+    {recent.map((s) => (
+      <article class="card">
+        <h3><a href={`/server/${s.slug}`}>{s.name}</a></h3>
+        <div class="meta">
+          <span>⭐ {formatStars(s.stars)}</span>
+          <span class="tag tag-success">活跃 {formatDate(s.last_commit)}</span>
+          <span class="tag tag-accent">{s.category}</span>
+        </div>
+        <p>{s.description.slice(0, 120)}{s.description.length > 120 ? '...' : ''}</p>
+      </article>
+    ))}
+  </div>
+
+  <div class="alert">
+    💡 <strong>这是 MCP 中文目录 — 选 MCP server 用中文决策</strong>。本站比 mcp.so 多 5 个能力：①中文友好 ②按客户端兼容筛选（Claude Code / Cursor / Codex）③真人评测 ④同类对比页（SEO 长尾）⑤开源可自部署。
+  </div>
+
+  <h2 class="section-title">❓ 常见问题</h2>
+  <dl class="faq">
+    {faqs.map((q) => <><dt>{q.question}</dt><dd>{q.answer}</dd></>)}
+  </dl>
+</BaseLayout>

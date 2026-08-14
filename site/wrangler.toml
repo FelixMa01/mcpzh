@@ -1,0 +1,9 @@
+name = "mcpzh"
+compatibility_date = "2025-08-14"
+pages_build_output_dir = "./dist"
+
+[build]
+command = "cd site && npm ci && npm run build"
+
+[build.environment]
+NODE_VERSION = "22"

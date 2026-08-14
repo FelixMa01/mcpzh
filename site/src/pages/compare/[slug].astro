@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import { comparePairs } from '../../data/compare';
+
+export function getStaticPaths() {
+  return comparePairs.map((p) => ({ params: { slug: p.slug }, props: { pair: p } }));
+}
+const { pair } = Astro.props;
+const breadcrumbs = [
+  { name: '首页', item: '/' },
+  { name: '评测', item: '/blog' },
+  { name: `${pair.left} vs ${pair.right}`, item: `/compare/${pair.slug}` },
+];
+---
+<Base title={`${pair.left} vs ${pair.right}：选哪个 MCP server？ — MCP中文`} description={pair.context} breadcrumbs={breadcrumbs}>
+  <article class="prose">
+    <nav class="breadcrumbs" aria-label="面包屑">
+      <a href="/">首页</a><span class="sep">/</span>
+      <a href="/blog">评测</a><span class="sep">/</span>
+      <span>{pair.left} vs {pair.right}</span>
+    </nav>
+    <h1>{pair.left} vs {pair.right}</h1>
+    <p class="section-sub">{pair.context}</p>
+
+    <table class="compare-table">
+      <thead><tr><th>维度</th><th>{pair.left}</th><th>{pair.right}</th></tr></thead>
+      <tbody>
+        {pair.rows.map((r) => <tr><td>{r.label}</td><td>{r.left}</td><td>{r.right}</td></tr>)}
+      </tbody>
+    </table>
+
+    <div class="alert"><strong>选型建议：</strong>{pair.recommendation}</div>
+
+    <h2>下一步</h2>
+    <p>先用只读、低权限、可回滚的方式在测试环境接入，再根据日志判断是否进入正式工作流。具体安装命令仍以原仓库 README 为准。</p>
+
+    <h2>为什么这些对比不可线性外推</h2>
+    <p>MCP server 的能力还在快速演进：协议版本、客户端实现、安全限制都可能在半年内变化。本页基于 2026-08 公开数据整理，不替代真实安装测试。</p>
+  </article>
+</Base>

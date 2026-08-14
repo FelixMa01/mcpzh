@@ -1,0 +1,84 @@
+---
+import '../styles/global.css';
+import { breadcrumbJsonLd, websiteJsonLd, organizationJsonLd } from '../lib/jsonld';
+export interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+  noindex?: boolean;
+  breadcrumbs?: { name: string; item: string }[];
+  jsonLdExtra?: Record<string, unknown>[];
+  ogImage?: string;
+}
+const { title, description = 'MCP 中文目录 — 选 MCP server 的中文决策站', canonical, noindex = false, breadcrumbs, jsonLdExtra = [], ogImage } = Astro.props;
+const url = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
+const siteUrl = (Astro.site ?? new URL('https://mcpzh.com')).toString().replace(/\/$/, '');
+const graph: Record<string, unknown>[] = [
+  organizationJsonLd(siteUrl),
+  websiteJsonLd(siteUrl),
+  ...(breadcrumbs ? [breadcrumbJsonLd(breadcrumbs.map((b) => ({ name: b.name, item: new URL(b.item, siteUrl).toString() })))] : []),
+  ...jsonLdExtra,
+];
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#0b0d12" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex,follow" />}
+    <link rel="canonical" href={url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={url} />
+    <meta property="og:site_name" content="MCP中文" />
+    <meta property="og:locale" content="zh_CN" />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <link rel="alternate" type="application/rss+xml" title="MCP 中文目录" href="/rss.xml" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script type="application/ld+json" set:html={JSON.stringify(graph)} is:inline />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">跳转到主要内容</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a href="/" class="logo" aria-label="MCP中文 首页">🧠 MCP中文</a>
+        <nav class="desktop-nav">
+          <a href="/category">分类</a>
+          <a href="/client">按客户端</a>
+          <a href="/blog">评测</a>
+          <a href="/best">Top 排行</a>
+          <a href="/about">关于</a>
+        </nav>
+        <details class="mobile-nav">
+          <summary aria-label="打开导航">菜单</summary>
+          <nav>
+            <a href="/category">分类</a>
+            <a href="/client">按客户端</a>
+            <a href="/blog">评测</a>
+            <a href="/best">Top 排行</a>
+            <a href="/about">关于</a>
+          </nav>
+        </details>
+      </div>
+    </header>
+    <main id="main" class="wrap">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>共 <strong>{Math.floor(3300)}+</strong> 个 MCP server · 数据每 24h 同步自 <a href="https://github.com/punkpeye/awesome-mcp-servers">punkpeye/awesome-mcp-servers</a> · 部署在 Cloudflare Pages · <a href="https://github.com/mcpzh/mcpzh">开源</a></p>
+        <p><a href="/about">数据口径与商业披露</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

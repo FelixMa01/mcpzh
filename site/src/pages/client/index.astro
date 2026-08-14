@@ -1,0 +1,13 @@
+---
+import Base from '../../layouts/Base.astro';
+import { CLIENT_LABELS } from '../../lib/data';
+---
+<Base title="按客户端筛选 MCP Server — MCP中文" description="按 Claude Code、Cursor、Codex、Windsurf、Continue、Cline 浏览 MCP server。">
+  <h1>按客户端筛选</h1>
+  <p class="section-sub">协议级兼容是初筛；安装命令、传输方式和客户端版本仍需逐项实测。</p>
+  <div class="category-grid">
+    {Object.entries(CLIENT_LABELS).map(([key,label]) => (
+      <a class="category-card" href={`/client/${key.replace(/_/g,'-')}`}><div>{label}</div><div class="count">查看兼容候选 →</div></a>
+    ))}
+  </div>
+</Base>

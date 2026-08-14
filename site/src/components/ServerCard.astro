@@ -1,0 +1,20 @@
+---
+import type { ProcessedServer } from '../lib/data';
+import { formatStars } from '../lib/data';
+interface Props { server: ProcessedServer; compact?: boolean; }
+const { server: s, compact = false } = Astro.props;
+const catSlug = s.category.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const maxDesc = compact ? 100 : 160;
+const desc = s.description.length > maxDesc ? `${s.description.slice(0, maxDesc - 1)}…` : s.description;
+---
+<article class="card" data-search={`${s.name} ${s.description} ${s.category}`.toLowerCase()}>
+  <h3><a href={`/server/${s.slug}`}>{s.name}</a></h3>
+  <div class="meta">
+    {s.stars > 0 && <span>⭐ {formatStars(s.stars)}</span>}
+    <a class="tag tag-accent" href={`/category/${catSlug}`}>{s.category}</a>
+    {s.language && <span class="tag">{s.language}</span>}
+    {s.is_active && <span class="tag tag-success">活跃</span>}
+    {s.is_chinese_friendly && <span class="tag tag-warning">中文友好</span>}
+  </div>
+  <p>{desc}</p>
+</article>
