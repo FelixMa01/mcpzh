@@ -629,7 +629,7 @@
     "stars": 6,
     "last_commit": "2026-08-03T18:54:06Z",
     "gh_forks": 0,
-    "gh_open_issues": 0,
+    "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": []
@@ -1620,9 +1620,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 29,
-    "last_commit": "2026-08-16T05:06:12Z",
+    "last_commit": "2026-08-16T12:27:30Z",
     "gh_forks": 7,
-    "gh_open_issues": 25,
+    "gh_open_issues": 26,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2009,7 +2009,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 4,
-    "last_commit": "2026-08-02T13:00:37Z",
+    "last_commit": "2026-08-16T13:00:16Z",
     "gh_forks": 1,
     "gh_open_issues": 3,
     "gh_license": "MIT",
@@ -2189,7 +2189,7 @@
     "stars": 59,
     "last_commit": "2026-08-16T09:59:59Z",
     "gh_forks": 6,
-    "gh_open_issues": 2,
+    "gh_open_issues": 3,
     "gh_license": "NOASSERTION",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2247,7 +2247,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1208,
+    "stars": 1209,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 152,
     "gh_open_issues": 94,
@@ -3098,8 +3098,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-10T06:02:01Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Jovancoding/Network-AI",
@@ -3139,8 +3144,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 69,
+    "last_commit": "2026-08-10T23:10:16Z",
+    "gh_forks": 12,
+    "gh_open_issues": 2,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-framework",
+      "agent-orchestration",
+      "ai-agents",
+      "autogen",
+      "blackboard",
+      "blackboard-architecture",
+      "crewai",
+      "hermes",
+      "hermes-agent",
+      "langchain",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "nemoclaw",
+      "nodejs",
+      "openclaw",
+      "orchestration",
+      "rlm",
+      "typescript",
+      "workflow-engine"
+    ]
   },
   {
     "name": "julien040/anyquery",
@@ -3180,8 +3211,33 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1756,
+    "last_commit": "2026-08-16T07:37:47Z",
+    "gh_forks": 128,
+    "gh_open_issues": 5,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "analytics",
+      "api",
+      "business-intelligence",
+      "chatgpt",
+      "csv",
+      "data-visualization",
+      "database",
+      "github",
+      "go",
+      "json",
+      "llm",
+      "mcp",
+      "mysql",
+      "notion",
+      "parquet",
+      "salesforce",
+      "sql",
+      "sqlite"
+    ]
   },
   {
     "name": "juspay/neurolink",
@@ -8592,13 +8648,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 8,
-    "last_commit": "2026-05-04T04:45:33Z",
-    "gh_forks": 0,
-    "gh_open_issues": 3,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "flowzap-xyz/flowzap-mcp",
@@ -11959,8 +12010,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 16,
+    "last_commit": "2026-05-16T09:45:26Z",
+    "gh_forks": 4,
+    "gh_open_issues": 1,
+    "gh_license": "",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "browser-automation",
+      "claude",
+      "firefox",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "webdriver-bidi",
+      "websocket",
+      "zen-browser"
+    ]
   },
   {
     "name": "getrupt/ashra-mcp",
