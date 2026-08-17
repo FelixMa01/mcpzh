@@ -817,7 +817,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-08-16T03:03:45Z",
+    "last_commit": "2026-08-17T03:03:00Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1619,7 +1619,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 29,
+    "stars": 28,
     "last_commit": "2026-08-17T00:28:40Z",
     "gh_forks": 7,
     "gh_open_issues": 25,
@@ -1687,9 +1687,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-08-13T18:36:05Z",
+    "last_commit": "2026-08-17T03:11:10Z",
     "gh_forks": 10,
-    "gh_open_issues": 0,
+    "gh_open_issues": 2,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1956,7 +1956,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 390,
-    "last_commit": "2026-08-13T18:08:35Z",
+    "last_commit": "2026-08-17T06:06:27Z",
     "gh_forks": 44,
     "gh_open_issues": 3,
     "gh_license": "MIT",
@@ -3211,7 +3211,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1757,
+    "stars": 1758,
     "last_commit": "2026-08-16T07:37:47Z",
     "gh_forks": 129,
     "gh_open_issues": 5,
@@ -3278,7 +3278,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 121,
-    "last_commit": "2026-08-16T20:46:12Z",
+    "last_commit": "2026-08-17T02:16:12Z",
     "gh_forks": 124,
     "gh_open_issues": 63,
     "gh_license": "MIT",
@@ -3431,30 +3431,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1,
-    "last_commit": "2026-08-16T03:41:54Z",
-    "gh_forks": 1,
-    "gh_open_issues": 21,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "aeo",
-      "agent-tools",
-      "ai-agent",
-      "claude-code",
-      "cursor",
-      "developer-tools",
-      "japan",
-      "japanese-business",
-      "japanese-saas",
-      "local-first",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "saas",
-      "sqlite",
-      "token-optimization"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "khalidsaidi/ragmap",
@@ -3494,28 +3472,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 6,
-    "last_commit": "2026-06-01T18:40:49Z",
-    "gh_forks": 2,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-tools",
-      "ai-agents",
-      "claude",
-      "cursor",
-      "discovery",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "rag",
-      "registry",
-      "retrieval",
-      "retrieval-augmented-generation",
-      "semantic-search",
-      "subregistry"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "malamutemayhem/unclick",
@@ -3596,13 +3554,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1,
-    "last_commit": "2026-08-13T08:17:56Z",
-    "gh_forks": 0,
-    "gh_open_issues": 6,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Markgatcha/universal-mcp-toolkit",
@@ -5979,25 +5932,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 88,
-    "last_commit": "2026-08-14T23:33:37Z",
-    "gh_forks": 23,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "assistants",
-      "authors",
-      "books",
-      "internet-archive",
-      "mcp",
-      "mcp-server",
-      "modelcontextprotocol",
-      "open-library",
-      "open-library-api",
-      "openlibrary"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "abhiemj/manim-mcp-server",
