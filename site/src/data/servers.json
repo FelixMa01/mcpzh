@@ -470,7 +470,7 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
     "last_commit": "2026-08-07T17:02:29Z",
-    "gh_forks": 1,
+    "gh_forks": 2,
     "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
@@ -817,7 +817,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-08-20T03:00:00Z",
+    "last_commit": "2026-08-21T03:06:26Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1620,8 +1620,8 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 28,
-    "last_commit": "2026-08-20T19:18:32Z",
-    "gh_forks": 6,
+    "last_commit": "2026-08-21T04:23:30Z",
+    "gh_forks": 5,
     "gh_open_issues": 11,
     "gh_license": "MIT",
     "gh_default_branch": "main",
@@ -3052,8 +3052,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-06-10T06:03:25Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "jaspertvdm/mcp-server-openai-bridge",
@@ -3093,8 +3098,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-10T06:02:01Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Jovancoding/Network-AI",
