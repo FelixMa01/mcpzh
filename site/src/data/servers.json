@@ -1743,9 +1743,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-08-22T12:10:16Z",
+    "last_commit": "2026-08-22T13:10:03Z",
     "gh_forks": 3,
-    "gh_open_issues": 7,
+    "gh_open_issues": 8,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2247,7 +2247,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1222,
+    "stars": 1221,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 155,
     "gh_open_issues": 98,
@@ -2820,7 +2820,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 179,
+    "stars": 180,
     "last_commit": "2026-08-17T07:52:55Z",
     "gh_forks": 11,
     "gh_open_issues": 9,
@@ -3278,9 +3278,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 122,
-    "last_commit": "2026-08-22T12:16:13Z",
+    "last_commit": "2026-08-22T18:02:14Z",
     "gh_forks": 125,
-    "gh_open_issues": 74,
+    "gh_open_issues": 63,
     "gh_license": "MIT",
     "gh_default_branch": "release",
     "gh_topics": [
@@ -3431,8 +3431,30 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-08-22T07:13:14Z",
+    "gh_forks": 2,
+    "gh_open_issues": 23,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "aeo",
+      "agent-tools",
+      "ai-agent",
+      "claude-code",
+      "cursor",
+      "developer-tools",
+      "japan",
+      "japanese-business",
+      "japanese-saas",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "saas",
+      "sqlite",
+      "token-optimization"
+    ]
   },
   {
     "name": "khalidsaidi/ragmap",
@@ -11549,28 +11571,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 7,
-    "last_commit": "2026-07-10T16:00:26Z",
-    "gh_forks": 0,
-    "gh_open_issues": 4,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-coding-agent",
-      "apache-2",
-      "chrome-extension",
-      "claude-code",
-      "cursor",
-      "cypress",
-      "mcp",
-      "model-context-protocol",
-      "monorepo",
-      "playwright",
-      "rrweb",
-      "session-replay",
-      "testing",
-      "webdriverio"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Custodia-Admin/pagebolt-mcp",
@@ -19236,8 +19238,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 8,
+    "last_commit": "2026-07-30T05:08:37Z",
+    "gh_forks": 1,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agents",
+      "ai-agents",
+      "code-agents",
+      "document-exchange",
+      "l-l-m",
+      "llm",
+      "m-c-p",
+      "multi-agent",
+      "publish-subscribe",
+      "software-engineering"
+    ]
   },
   {
     "name": "agentic-mcp-tools/owlex",
