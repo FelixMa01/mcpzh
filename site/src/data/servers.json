@@ -1743,7 +1743,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-08-22T13:10:03Z",
+    "last_commit": "2026-08-22T18:55:59Z",
     "gh_forks": 3,
     "gh_open_issues": 8,
     "gh_license": "",
@@ -2247,7 +2247,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1221,
+    "stars": 1222,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 155,
     "gh_open_issues": 98,
@@ -3278,9 +3278,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 122,
-    "last_commit": "2026-08-22T18:02:14Z",
+    "last_commit": "2026-08-23T00:39:21Z",
     "gh_forks": 125,
-    "gh_open_issues": 63,
+    "gh_open_issues": 61,
     "gh_license": "MIT",
     "gh_default_branch": "release",
     "gh_topics": [
@@ -3385,13 +3385,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 398,
-    "last_commit": "2026-07-20T18:02:06Z",
-    "gh_forks": 73,
-    "gh_open_issues": 0,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "kansei-link/kansei-mcp-server",
@@ -3431,30 +3426,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1,
-    "last_commit": "2026-08-22T07:13:14Z",
-    "gh_forks": 2,
-    "gh_open_issues": 23,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "aeo",
-      "agent-tools",
-      "ai-agent",
-      "claude-code",
-      "cursor",
-      "developer-tools",
-      "japan",
-      "japanese-business",
-      "japanese-saas",
-      "local-first",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "saas",
-      "sqlite",
-      "token-optimization"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "khalidsaidi/ragmap",
@@ -19238,24 +19211,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 8,
-    "last_commit": "2026-07-30T05:08:37Z",
-    "gh_forks": 1,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agents",
-      "ai-agents",
-      "code-agents",
-      "document-exchange",
-      "l-l-m",
-      "llm",
-      "m-c-p",
-      "multi-agent",
-      "publish-subscribe",
-      "software-engineering"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "agentic-mcp-tools/owlex",
