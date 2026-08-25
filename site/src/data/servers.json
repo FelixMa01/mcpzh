@@ -1620,9 +1620,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 29,
-    "last_commit": "2026-08-25T06:14:44Z",
+    "last_commit": "2026-08-25T07:13:11Z",
     "gh_forks": 5,
-    "gh_open_issues": 10,
+    "gh_open_issues": 12,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2067,7 +2067,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 10,
+    "stars": 11,
     "last_commit": "2026-05-26T19:28:40Z",
     "gh_forks": 4,
     "gh_open_issues": 4,
@@ -2247,7 +2247,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1224,
+    "stars": 1225,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 156,
     "gh_open_issues": 100,
@@ -2821,9 +2821,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 182,
-    "last_commit": "2026-08-24T07:48:38Z",
+    "last_commit": "2026-08-25T06:31:15Z",
     "gh_forks": 11,
-    "gh_open_issues": 8,
+    "gh_open_issues": 7,
     "gh_license": "AGPL-3.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3278,9 +3278,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 123,
-    "last_commit": "2026-08-25T06:26:00Z",
+    "last_commit": "2026-08-25T11:01:52Z",
     "gh_forks": 125,
-    "gh_open_issues": 60,
+    "gh_open_issues": 58,
     "gh_license": "MIT",
     "gh_default_branch": "release",
     "gh_topics": [
@@ -3642,34 +3642,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 12,
-    "last_commit": "2026-08-23T03:31:27Z",
-    "gh_forks": 1,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "ai-agent",
-      "ai-tools",
-      "bun",
-      "claude",
-      "cli",
-      "cursor",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "mcp-aggregator",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "monorepo",
-      "npx",
-      "pnpm",
-      "turborepo",
-      "typescript",
-      "zod"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "MastadoonPrime/sylex-search",
@@ -3709,13 +3683,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-04-24T21:29:05Z",
-    "gh_forks": 1,
-    "gh_open_issues": 0,
-    "gh_license": "AGPL-3.0",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "mediiiiium/mcp-jp",
@@ -3756,22 +3725,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-08-24T01:09:11Z",
-    "gh_forks": 0,
-    "gh_open_issues": 8,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "japan",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "python",
-      "saas"
-    ]
+    "last_commit": ""
   },
   {
     "name": "merterbak/Grok-MCP",
@@ -3811,18 +3765,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 50,
-    "last_commit": "2026-08-12T19:53:19Z",
-    "gh_forks": 17,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "grok",
-      "mcp",
-      "mcp-server",
-      "xai"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "metatool-ai/metatool-app",
@@ -3862,29 +3806,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2623,
-    "last_commit": "2026-06-22T16:50:50Z",
-    "gh_forks": 418,
-    "gh_open_issues": 106,
-    "gh_license": "MIT",
-    "gh_default_branch": "ai-dev",
-    "gh_topics": [
-      "mcp",
-      "mcp-gateway",
-      "mcp-host",
-      "mcp-middleware",
-      "mcp-server",
-      "mcp-servers",
-      "mcp-to-openapi",
-      "mcp-tools",
-      "model-context-protocol",
-      "model-context-protocol-server",
-      "model-context-protocol-servers",
-      "open-webui",
-      "openapi",
-      "self-hosted",
-      "vibe-coding"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "MikkoParkkola/mcp-gateway",
@@ -3924,24 +3847,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 54,
-    "last_commit": "2026-08-24T06:10:11Z",
-    "gh_forks": 14,
-    "gh_open_issues": 13,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "anthropic",
-      "claude",
-      "gateway",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "multiplexer",
-      "proxy",
-      "rust"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "mindsdb/mindsdb",
@@ -3981,29 +3888,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 39638,
-    "last_commit": "2026-08-21T23:50:38Z",
-    "gh_forks": 6235,
-    "gh_open_issues": 2,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agents",
-      "ai",
-      "anton",
-      "artificial-inteligence",
-      "claude",
-      "claude-cowork",
-      "codex",
-      "cowork",
-      "deepseek",
-      "glm",
-      "hermes",
-      "hermes-agent",
-      "kimi",
-      "mcp",
-      "mindsdb"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "mroops0111/openapi-mcp-gateway",
@@ -17983,8 +17869,25 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 874,
+    "last_commit": "2026-08-14T16:08:01Z",
+    "gh_forks": 154,
+    "gh_open_issues": 25,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "2fa",
+      "ai",
+      "apigateway",
+      "chatgpt",
+      "dashboard",
+      "k8s",
+      "k8s-gpt",
+      "mcp",
+      "ollama",
+      "openai",
+      "openkruise"
+    ]
   },
   {
     "name": "weibaohui/kom",
