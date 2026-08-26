@@ -574,9 +574,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 490,
-    "last_commit": "2026-08-26T11:48:08Z",
+    "last_commit": "2026-08-26T13:13:11Z",
     "gh_forks": 59,
-    "gh_open_issues": 33,
+    "gh_open_issues": 28,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1403,7 +1403,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-08-26T10:00:59Z",
+    "last_commit": "2026-08-26T13:14:04Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2823,7 +2823,7 @@
     "stars": 183,
     "last_commit": "2026-08-25T06:31:15Z",
     "gh_forks": 11,
-    "gh_open_issues": 7,
+    "gh_open_issues": 8,
     "gh_license": "AGPL-3.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3211,7 +3211,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1766,
+    "stars": 1768,
     "last_commit": "2026-08-16T07:37:47Z",
     "gh_forks": 132,
     "gh_open_issues": 8,
@@ -11641,32 +11641,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 621,
-    "last_commit": "2026-08-23T14:41:30Z",
-    "gh_forks": 73,
-    "gh_open_issues": 3,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent",
-      "ai",
-      "automation",
-      "bot",
-      "chatgpt",
-      "claude",
-      "cli",
-      "docker",
-      "gemini",
-      "linux",
-      "macos",
-      "mcp",
-      "openclaw",
-      "shorts",
-      "skills",
-      "video",
-      "windows",
-      "youtube"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "executeautomation/playwright-mcp-server",
