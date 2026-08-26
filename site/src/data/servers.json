@@ -817,7 +817,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-08-25T03:02:05Z",
+    "last_commit": "2026-08-26T03:08:43Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1620,9 +1620,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 29,
-    "last_commit": "2026-08-25T21:37:38Z",
+    "last_commit": "2026-08-26T01:13:17Z",
     "gh_forks": 5,
-    "gh_open_issues": 9,
+    "gh_open_issues": 10,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1743,7 +1743,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-08-23T13:09:03Z",
+    "last_commit": "2026-08-26T06:14:11Z",
     "gh_forks": 3,
     "gh_open_issues": 8,
     "gh_license": "",
@@ -1955,7 +1955,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 391,
+    "stars": 392,
     "last_commit": "2026-08-21T22:32:32Z",
     "gh_forks": 39,
     "gh_open_issues": 2,
@@ -2491,8 +2491,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-03-17T11:16:23Z",
+    "gh_forks": 2,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "carlosahumada89/govrider-mcp-server",
@@ -2532,8 +2537,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 6,
+    "last_commit": "2026-03-12T22:59:03Z",
+    "gh_forks": 1,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "government",
+      "govtech",
+      "grants",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "procurement",
+      "tenders"
+    ]
   },
   {
     "name": "gzoonet/cortex",
@@ -2573,8 +2593,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 21,
+    "last_commit": "2026-08-04T08:14:11Z",
+    "gh_forks": 3,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "cli",
+      "developer-tools",
+      "gzoo",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "ollama",
+      "sqlite",
+      "web-dashboard"
+    ]
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -2614,8 +2650,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 68,
+    "last_commit": "2025-05-03T15:02:35Z",
+    "gh_forks": 21,
+    "gh_open_issues": 5,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": []
   },
   {
     "name": "hashgraph-online/hashnet-mcp-js",
@@ -2655,8 +2696,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 13,
+    "last_commit": "2026-05-08T14:15:15Z",
+    "gh_forks": 4,
+    "gh_open_issues": 2,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "a2a",
+      "agent",
+      "agent-discovery",
+      "agentverse",
+      "ai-agents",
+      "erc-8004",
+      "hashgraph",
+      "hedera",
+      "mcp",
+      "mcp-server",
+      "nanda",
+      "openrouter",
+      "registry-broker",
+      "virtuals"
+    ]
   },
   {
     "name": "hedging8563/tokenlab-mcp-server",
@@ -2697,7 +2758,29 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-07-25T14:17:35Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-api",
+      "anthropic-messages",
+      "embeddings",
+      "gemini",
+      "image-generation",
+      "llm-gateway",
+      "mcp",
+      "model-context-protocol",
+      "model-routing",
+      "multimodal",
+      "native-endpoints",
+      "openai-compatible",
+      "responses-api",
+      "text-to-speech",
+      "tokenlab",
+      "video-generation"
+    ]
   },
   {
     "name": "HelpCode-ai/anythingmcp",
@@ -2737,8 +2820,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 183,
+    "last_commit": "2026-08-25T06:31:15Z",
+    "gh_forks": 11,
+    "gh_open_issues": 7,
+    "gh_license": "AGPL-3.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "api-gateway",
+      "chatgpt",
+      "chatgpt-apps",
+      "claude",
+      "claude-connectors",
+      "database-mcp-server",
+      "gemini",
+      "graphql-to-mcp",
+      "mcp",
+      "mcp-gateway",
+      "mcp-servers",
+      "model-context-protocol",
+      "no-code",
+      "openapi-to-mcp",
+      "rest-to-mcp",
+      "self-hosted",
+      "soap-to-mcp",
+      "sql-to-mcp",
+      "typescript"
+    ]
   },
   {
     "name": "isaac-levine/forage",
@@ -2778,8 +2887,21 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 16,
+    "last_commit": "2026-02-21T23:02:09Z",
+    "gh_forks": 4,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "claude",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "tool-discovery"
+    ]
   },
   {
     "name": "jabbawocky/proposalcraft",
@@ -2819,8 +2941,32 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-22T20:24:59Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "ai-tools",
+      "anthropic",
+      "business-development",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "consultant",
+      "cursor-ai",
+      "freelance",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "npx",
+      "productivity",
+      "proposal-generator",
+      "proposal-writing",
+      "typescript"
+    ]
   },
   {
     "name": "jaspertvdm/mcp-server-gemini-bridge",
@@ -2860,8 +3006,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-06-10T06:04:24Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "jaspertvdm/mcp-server-ollama-bridge",
@@ -2901,8 +3052,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-06-10T06:03:25Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "jaspertvdm/mcp-server-openai-bridge",
@@ -2942,8 +3098,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-10T06:02:01Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Jovancoding/Network-AI",
@@ -2983,8 +3144,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 71,
+    "last_commit": "2026-08-24T23:09:37Z",
+    "gh_forks": 12,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-framework",
+      "agent-orchestration",
+      "ai-agents",
+      "autogen",
+      "blackboard",
+      "blackboard-architecture",
+      "crewai",
+      "hermes",
+      "hermes-agent",
+      "langchain",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "nemoclaw",
+      "nodejs",
+      "openclaw",
+      "orchestration",
+      "rlm",
+      "typescript",
+      "workflow-engine"
+    ]
   },
   {
     "name": "julien040/anyquery",
@@ -3024,8 +3211,33 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1766,
+    "last_commit": "2026-08-16T07:37:47Z",
+    "gh_forks": 132,
+    "gh_open_issues": 8,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "analytics",
+      "api",
+      "business-intelligence",
+      "chatgpt",
+      "csv",
+      "data-visualization",
+      "database",
+      "github",
+      "go",
+      "json",
+      "llm",
+      "mcp",
+      "mysql",
+      "notion",
+      "parquet",
+      "salesforce",
+      "sql",
+      "sqlite"
+    ]
   },
   {
     "name": "juspay/neurolink",
@@ -3065,8 +3277,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 123,
+    "last_commit": "2026-08-26T05:24:33Z",
+    "gh_forks": 125,
+    "gh_open_issues": 62,
+    "gh_license": "MIT",
+    "gh_default_branch": "release",
+    "gh_topics": [
+      "agents",
+      "ai",
+      "ai-development",
+      "ai-platform",
+      "ai-sdk",
+      "anthropic",
+      "automation",
+      "developer-tools",
+      "enterprise",
+      "llm",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "neurolink",
+      "openai",
+      "rag",
+      "stt",
+      "tts",
+      "typescript",
+      "voice-ai"
+    ]
   },
   {
     "name": "codeislaw101/katzilla",
