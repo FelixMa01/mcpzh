@@ -1459,7 +1459,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 2,
-    "last_commit": "2026-08-31T02:09:43Z",
+    "last_commit": "2026-09-02T13:41:42Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1754,9 +1754,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-02T09:45:18Z",
+    "last_commit": "2026-09-02T12:36:42Z",
     "gh_forks": 3,
-    "gh_open_issues": 8,
+    "gh_open_issues": 9,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1967,9 +1967,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 393,
-    "last_commit": "2026-09-02T04:44:24Z",
-    "gh_forks": 38,
-    "gh_open_issues": 3,
+    "last_commit": "2026-09-02T14:54:29Z",
+    "gh_forks": 39,
+    "gh_open_issues": 4,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2258,7 +2258,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1241,
+    "stars": 1242,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 156,
     "gh_open_issues": 104,
@@ -2885,9 +2885,9 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 188,
+    "stars": 190,
     "last_commit": "2026-08-31T07:59:30Z",
-    "gh_forks": 13,
+    "gh_forks": 14,
     "gh_open_issues": 7,
     "gh_license": "AGPL-3.0",
     "gh_default_branch": "main",
@@ -3117,13 +3117,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-06-10T06:03:25Z",
-    "gh_forks": 2,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "jaspertvdm/mcp-server-openai-bridge",
@@ -3163,13 +3158,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-06-10T06:02:01Z",
-    "gh_forks": 2,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Jovancoding/Network-AI",
@@ -3209,34 +3199,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 72,
-    "last_commit": "2026-08-31T23:10:44Z",
-    "gh_forks": 12,
-    "gh_open_issues": 4,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-framework",
-      "agent-orchestration",
-      "ai-agents",
-      "autogen",
-      "blackboard",
-      "blackboard-architecture",
-      "crewai",
-      "hermes",
-      "hermes-agent",
-      "langchain",
-      "llm",
-      "mcp",
-      "multi-agent",
-      "nemoclaw",
-      "nodejs",
-      "openclaw",
-      "orchestration",
-      "rlm",
-      "typescript",
-      "workflow-engine"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "julien040/anyquery",
@@ -3276,33 +3240,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1772,
-    "last_commit": "2026-08-16T07:37:47Z",
-    "gh_forks": 134,
-    "gh_open_issues": 7,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "analytics",
-      "api",
-      "business-intelligence",
-      "chatgpt",
-      "csv",
-      "data-visualization",
-      "database",
-      "github",
-      "go",
-      "json",
-      "llm",
-      "mcp",
-      "mysql",
-      "notion",
-      "parquet",
-      "salesforce",
-      "sql",
-      "sqlite"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "juspay/neurolink",
@@ -3342,34 +3281,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 129,
-    "last_commit": "2026-09-02T07:09:00Z",
-    "gh_forks": 125,
-    "gh_open_issues": 62,
-    "gh_license": "MIT",
-    "gh_default_branch": "release",
-    "gh_topics": [
-      "agents",
-      "ai",
-      "ai-development",
-      "ai-platform",
-      "ai-sdk",
-      "anthropic",
-      "automation",
-      "developer-tools",
-      "enterprise",
-      "llm",
-      "local-first",
-      "mcp",
-      "model-context-protocol",
-      "neurolink",
-      "openai",
-      "rag",
-      "stt",
-      "tts",
-      "typescript",
-      "voice-ai"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "codeislaw101/katzilla",
