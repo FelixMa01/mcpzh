@@ -1699,8 +1699,8 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
     "last_commit": "2026-09-03T07:02:10Z",
-    "gh_forks": 10,
-    "gh_open_issues": 8,
+    "gh_forks": 11,
+    "gh_open_issues": 10,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1754,7 +1754,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-02T16:43:21Z",
+    "last_commit": "2026-09-04T12:58:03Z",
     "gh_forks": 3,
     "gh_open_issues": 9,
     "gh_license": "",
@@ -1806,7 +1806,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 122,
+    "stars": 123,
     "last_commit": "2025-10-06T04:11:43Z",
     "gh_forks": 18,
     "gh_open_issues": 7,
@@ -1967,7 +1967,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 393,
-    "last_commit": "2026-09-02T17:50:57Z",
+    "last_commit": "2026-09-04T15:16:34Z",
     "gh_forks": 39,
     "gh_open_issues": 5,
     "gh_license": "MIT",
@@ -3163,8 +3163,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-10T06:02:01Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Jovancoding/Network-AI",
@@ -3204,8 +3209,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 72,
+    "last_commit": "2026-08-31T23:10:44Z",
+    "gh_forks": 12,
+    "gh_open_issues": 4,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-framework",
+      "agent-orchestration",
+      "ai-agents",
+      "autogen",
+      "blackboard",
+      "blackboard-architecture",
+      "crewai",
+      "hermes",
+      "hermes-agent",
+      "langchain",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "nemoclaw",
+      "nodejs",
+      "openclaw",
+      "orchestration",
+      "rlm",
+      "typescript",
+      "workflow-engine"
+    ]
   },
   {
     "name": "julien040/anyquery",
