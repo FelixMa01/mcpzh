@@ -573,8 +573,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 497,
-    "last_commit": "2026-09-04T19:13:53Z",
+    "stars": 498,
+    "last_commit": "2026-09-05T02:06:23Z",
     "gh_forks": 57,
     "gh_open_issues": 29,
     "gh_license": "Apache-2.0",
@@ -817,7 +817,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-04T07:04:46Z",
+    "last_commit": "2026-09-05T06:48:22Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1631,7 +1631,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 35,
-    "last_commit": "2026-09-04T23:40:16Z",
+    "last_commit": "2026-09-05T09:32:55Z",
     "gh_forks": 5,
     "gh_open_issues": 8,
     "gh_license": "MIT",
@@ -1806,7 +1806,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 123,
+    "stars": 124,
     "last_commit": "2025-10-06T04:11:43Z",
     "gh_forks": 18,
     "gh_open_issues": 7,
@@ -2260,7 +2260,7 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1243,
     "last_commit": "2026-08-02T15:15:01Z",
-    "gh_forks": 156,
+    "gh_forks": 157,
     "gh_open_issues": 104,
     "gh_license": "MPL-2.0",
     "gh_default_branch": "main",
@@ -3117,8 +3117,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-06-10T06:03:25Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "jaspertvdm/mcp-server-openai-bridge",
@@ -3158,8 +3163,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-10T06:02:01Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Jovancoding/Network-AI",
