@@ -1003,7 +1003,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-08T07:03:22Z",
+    "last_commit": "2026-09-09T07:12:16Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1820,7 +1820,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 143,
+    "stars": 145,
     "last_commit": "2026-09-09T01:17:44Z",
     "gh_forks": 30,
     "gh_open_issues": 105,
@@ -2004,9 +2004,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 36,
-    "last_commit": "2026-09-09T01:05:00Z",
+    "last_commit": "2026-09-09T02:41:51Z",
     "gh_forks": 6,
-    "gh_open_issues": 7,
+    "gh_open_issues": 8,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2393,9 +2393,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-08T19:53:20Z",
+    "last_commit": "2026-09-09T06:19:03Z",
     "gh_forks": 0,
-    "gh_open_issues": 0,
+    "gh_open_issues": 1,
     "gh_license": "MIT-0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3325,10 +3325,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 196,
-    "last_commit": "2026-09-08T19:03:53Z",
-    "gh_forks": 14,
-    "gh_open_issues": 6,
+    "stars": 197,
+    "last_commit": "2026-09-09T09:23:24Z",
+    "gh_forks": 15,
+    "gh_open_issues": 9,
     "gh_license": "AGPL-3.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3392,8 +3392,21 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 16,
+    "last_commit": "2026-02-21T23:02:09Z",
+    "gh_forks": 4,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "claude",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "tool-discovery"
+    ]
   },
   {
     "name": "jabbawocky/proposalcraft",
