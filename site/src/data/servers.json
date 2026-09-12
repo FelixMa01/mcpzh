@@ -1003,7 +1003,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-11T07:08:14Z",
+    "last_commit": "2026-09-12T06:59:55Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1206,9 +1206,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 15,
-    "last_commit": "2026-09-10T16:20:06Z",
+    "last_commit": "2026-09-12T08:07:44Z",
     "gh_forks": 0,
-    "gh_open_issues": 2,
+    "gh_open_issues": 3,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1313,7 +1313,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 4,
-    "last_commit": "2026-09-12T01:54:06Z",
+    "last_commit": "2026-09-12T07:45:42Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1820,8 +1820,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 149,
-    "last_commit": "2026-09-12T00:54:01Z",
+    "stars": 150,
+    "last_commit": "2026-09-12T08:38:58Z",
     "gh_forks": 30,
     "gh_open_issues": 105,
     "gh_license": "Apache-2.0",
@@ -2004,9 +2004,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 37,
-    "last_commit": "2026-09-11T21:52:32Z",
+    "last_commit": "2026-09-12T06:43:47Z",
     "gh_forks": 7,
-    "gh_open_issues": 14,
+    "gh_open_issues": 16,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2698,7 +2698,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1251,
+    "stars": 1252,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 158,
     "gh_open_issues": 105,
@@ -18740,8 +18740,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 7,
+    "last_commit": "2026-09-10T19:13:00Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "docker",
+      "docker-api",
+      "docker-compose",
+      "docker-swarm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "python"
+    ]
   },
   {
     "name": "Labs64/NetLicensing-MCP",
