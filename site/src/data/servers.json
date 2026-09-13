@@ -668,9 +668,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 503,
-    "last_commit": "2026-09-10T15:06:33Z",
+    "last_commit": "2026-09-13T19:57:55Z",
     "gh_forks": 59,
-    "gh_open_issues": 20,
+    "gh_open_issues": 22,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -905,7 +905,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-07-29T22:55:35Z",
+    "last_commit": "2026-09-13T15:28:33Z",
     "gh_forks": 0,
     "gh_open_issues": 2,
     "gh_license": "MIT",
@@ -1820,10 +1820,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 151,
-    "last_commit": "2026-09-13T15:00:42Z",
+    "stars": 152,
+    "last_commit": "2026-09-13T15:24:07Z",
     "gh_forks": 30,
-    "gh_open_issues": 106,
+    "gh_open_issues": 105,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2004,9 +2004,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 37,
-    "last_commit": "2026-09-13T15:10:43Z",
+    "last_commit": "2026-09-13T19:53:14Z",
     "gh_forks": 7,
-    "gh_open_issues": 8,
+    "gh_open_issues": 7,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2342,7 +2342,7 @@
     "stars": 395,
     "last_commit": "2026-09-09T21:52:30Z",
     "gh_forks": 40,
-    "gh_open_issues": 1,
+    "gh_open_issues": 2,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2393,9 +2393,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-10T21:41:52Z",
+    "last_commit": "2026-09-13T19:13:10Z",
     "gh_forks": 0,
-    "gh_open_issues": 1,
+    "gh_open_issues": 2,
     "gh_license": "MIT-0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3098,24 +3098,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 21,
-    "last_commit": "2026-09-05T16:10:24Z",
-    "gh_forks": 3,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "cli",
-      "developer-tools",
-      "gzoo",
-      "knowledge-graph",
-      "llm",
-      "local-first",
-      "mcp",
-      "ollama",
-      "sqlite",
-      "web-dashboard"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -3155,13 +3139,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 69,
-    "last_commit": "2025-05-03T15:02:35Z",
-    "gh_forks": 23,
-    "gh_open_issues": 5,
-    "gh_license": "",
-    "gh_default_branch": "master",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "hashgraph-online/hashnet-mcp-js",
@@ -3201,28 +3180,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 13,
-    "last_commit": "2026-09-06T18:55:54Z",
-    "gh_forks": 4,
-    "gh_open_issues": 2,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "master",
-    "gh_topics": [
-      "a2a",
-      "agent",
-      "agent-discovery",
-      "agentverse",
-      "ai-agents",
-      "erc-8004",
-      "hashgraph",
-      "hedera",
-      "mcp",
-      "mcp-server",
-      "nanda",
-      "openrouter",
-      "registry-broker",
-      "virtuals"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "hedging8563/tokenlab-mcp-server",
@@ -3263,29 +3222,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-13T13:19:23Z",
-    "gh_forks": 1,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-api",
-      "anthropic-messages",
-      "embeddings",
-      "gemini",
-      "image-generation",
-      "llm-gateway",
-      "mcp",
-      "model-context-protocol",
-      "model-routing",
-      "multimodal",
-      "native-endpoints",
-      "openai-compatible",
-      "responses-api",
-      "text-to-speech",
-      "tokenlab",
-      "video-generation"
-    ]
+    "last_commit": ""
   },
   {
     "name": "HelpCode-ai/anythingmcp",
@@ -10952,7 +10889,24 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-07T23:36:27Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "aec",
+      "aec-knowledge",
+      "architecture",
+      "building-codes",
+      "construction",
+      "knowledge-curation",
+      "knowledge-graph",
+      "korea",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ]
   },
   {
     "name": "posecode-dev/posecode",
