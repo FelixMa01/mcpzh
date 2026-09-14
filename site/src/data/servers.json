@@ -668,9 +668,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 503,
-    "last_commit": "2026-09-13T19:57:55Z",
+    "last_commit": "2026-09-13T20:47:09Z",
     "gh_forks": 59,
-    "gh_open_issues": 22,
+    "gh_open_issues": 23,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1820,10 +1820,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 152,
+    "stars": 153,
     "last_commit": "2026-09-13T15:24:07Z",
-    "gh_forks": 30,
-    "gh_open_issues": 105,
+    "gh_forks": 31,
+    "gh_open_issues": 106,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2004,9 +2004,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 37,
-    "last_commit": "2026-09-13T19:53:14Z",
+    "last_commit": "2026-09-14T01:34:02Z",
     "gh_forks": 7,
-    "gh_open_issues": 7,
+    "gh_open_issues": 8,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2518,7 +2518,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 12,
+    "stars": 13,
     "last_commit": "2026-05-26T19:28:40Z",
     "gh_forks": 4,
     "gh_open_issues": 4,
@@ -2698,7 +2698,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1254,
+    "stars": 1255,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 158,
     "gh_open_issues": 105,
@@ -3098,8 +3098,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 21,
+    "last_commit": "2026-09-05T16:10:24Z",
+    "gh_forks": 3,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "cli",
+      "developer-tools",
+      "gzoo",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "ollama",
+      "sqlite",
+      "web-dashboard"
+    ]
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -3139,8 +3155,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 69,
+    "last_commit": "2025-05-03T15:02:35Z",
+    "gh_forks": 23,
+    "gh_open_issues": 5,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": []
   },
   {
     "name": "hashgraph-online/hashnet-mcp-js",
@@ -3180,8 +3201,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 13,
+    "last_commit": "2026-09-06T18:55:54Z",
+    "gh_forks": 4,
+    "gh_open_issues": 2,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "a2a",
+      "agent",
+      "agent-discovery",
+      "agentverse",
+      "ai-agents",
+      "erc-8004",
+      "hashgraph",
+      "hedera",
+      "mcp",
+      "mcp-server",
+      "nanda",
+      "openrouter",
+      "registry-broker",
+      "virtuals"
+    ]
   },
   {
     "name": "hedging8563/tokenlab-mcp-server",
@@ -10889,24 +10930,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-07T23:36:27Z",
-    "gh_forks": 0,
-    "gh_open_issues": 1,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "master",
-    "gh_topics": [
-      "aec",
-      "aec-knowledge",
-      "architecture",
-      "building-codes",
-      "construction",
-      "knowledge-curation",
-      "knowledge-graph",
-      "korea",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol"
-    ]
+    "last_commit": ""
   },
   {
     "name": "posecode-dev/posecode",
@@ -11438,8 +11462,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 9,
+    "last_commit": "2026-08-29T10:35:53Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent-tools",
+      "ai-agents",
+      "anthropic",
+      "barcode",
+      "calorie-tracker",
+      "claude",
+      "claude-desktop",
+      "cursor",
+      "food-data",
+      "health-data",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nutrition",
+      "open-food-facts",
+      "quantified-self",
+      "typescript",
+      "usda",
+      "wellness"
+    ]
   },
   {
     "name": "dnaerys/onekgpd-mcp",
