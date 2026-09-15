@@ -667,10 +667,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 503,
-    "last_commit": "2026-09-14T20:55:01Z",
+    "stars": 504,
+    "last_commit": "2026-09-15T15:47:34Z",
     "gh_forks": 60,
-    "gh_open_issues": 27,
+    "gh_open_issues": 24,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1205,9 +1205,9 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 15,
+    "stars": 17,
     "last_commit": "2026-09-14T19:20:41Z",
-    "gh_forks": 0,
+    "gh_forks": 1,
     "gh_open_issues": 0,
     "gh_license": "MIT",
     "gh_default_branch": "main",
@@ -1312,7 +1312,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 5,
+    "stars": 6,
     "last_commit": "2026-09-15T07:29:19Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
@@ -1820,10 +1820,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 155,
-    "last_commit": "2026-09-15T08:18:31Z",
+    "stars": 154,
+    "last_commit": "2026-09-15T15:48:20Z",
     "gh_forks": 32,
-    "gh_open_issues": 105,
+    "gh_open_issues": 106,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2006,7 +2006,7 @@
     "stars": 39,
     "last_commit": "2026-09-15T04:19:04Z",
     "gh_forks": 7,
-    "gh_open_issues": 7,
+    "gh_open_issues": 8,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2698,7 +2698,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1257,
+    "stars": 1259,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 159,
     "gh_open_issues": 105,
@@ -2841,7 +2841,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 5,
-    "last_commit": "2026-09-10T01:02:57Z",
+    "last_commit": "2026-09-15T13:25:58Z",
     "gh_forks": 1,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -3263,7 +3263,29 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-13T13:19:23Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-api",
+      "anthropic-messages",
+      "embeddings",
+      "gemini",
+      "image-generation",
+      "llm-gateway",
+      "mcp",
+      "model-context-protocol",
+      "model-routing",
+      "multimodal",
+      "native-endpoints",
+      "openai-compatible",
+      "responses-api",
+      "text-to-speech",
+      "tokenlab",
+      "video-generation"
+    ]
   },
   {
     "name": "HelpCode-ai/anythingmcp",
@@ -3303,8 +3325,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 203,
+    "last_commit": "2026-09-15T15:28:42Z",
+    "gh_forks": 20,
+    "gh_open_issues": 22,
+    "gh_license": "AGPL-3.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "ai-gateway",
+      "api-gateway",
+      "chatgpt",
+      "chatgpt-apps",
+      "claude",
+      "claude-connectors",
+      "docker",
+      "hacktoberfest",
+      "knowledge-graph",
+      "mcp",
+      "mcp-gateway",
+      "mcp-server",
+      "mcp-servers",
+      "model-context-protocol",
+      "no-code",
+      "openapi-to-mcp",
+      "rest-to-mcp",
+      "self-hosted",
+      "soap-to-mcp"
+    ]
   },
   {
     "name": "isaac-levine/forage",
@@ -3344,8 +3392,21 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 17,
+    "last_commit": "2026-02-21T23:02:09Z",
+    "gh_forks": 4,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "claude",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "tool-discovery"
+    ]
   },
   {
     "name": "jabbawocky/proposalcraft",
@@ -6911,8 +6972,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-06-10T11:09:21Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "8enSmith/mcp-open-library",
