@@ -2049,7 +2049,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 154,
+    "stars": 155,
     "last_commit": "2026-09-17T12:29:47Z",
     "gh_forks": 32,
     "gh_open_issues": 105,
@@ -2233,16 +2233,15 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 39,
-    "last_commit": "2026-09-17T05:03:38Z",
+    "last_commit": "2026-09-17T18:41:31Z",
     "gh_forks": 7,
-    "gh_open_issues": 19,
+    "gh_open_issues": 20,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
       "a2a",
       "agent-commerce",
       "agent-framework",
-      "agent-marketplace",
       "agent-os",
       "agentic-ai",
       "ai-agents",
@@ -2257,6 +2256,7 @@
       "mcp-server",
       "model-context-protocol",
       "openai-agents",
+      "riskfork",
       "usdc",
       "x402"
     ]
@@ -3334,8 +3334,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 6,
+    "last_commit": "2026-03-12T22:59:03Z",
+    "gh_forks": 1,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "government",
+      "govtech",
+      "grants",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "procurement",
+      "tenders"
+    ]
   },
   {
     "name": "gzoonet/cortex",
@@ -3375,8 +3390,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 21,
+    "last_commit": "2026-09-05T16:10:24Z",
+    "gh_forks": 3,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "cli",
+      "developer-tools",
+      "gzoo",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "ollama",
+      "sqlite",
+      "web-dashboard"
+    ]
   },
   {
     "name": "hamflx/imagen3-mcp",
