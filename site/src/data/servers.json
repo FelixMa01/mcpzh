@@ -896,10 +896,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 505,
+    "stars": 506,
     "last_commit": "2026-09-15T15:47:34Z",
     "gh_forks": 60,
-    "gh_open_issues": 24,
+    "gh_open_issues": 25,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1542,7 +1542,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 6,
-    "last_commit": "2026-09-16T08:50:39Z",
+    "last_commit": "2026-09-17T11:53:18Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1700,7 +1700,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 5,
+    "stars": 6,
     "last_commit": "2026-07-02T11:15:01Z",
     "gh_forks": 2,
     "gh_open_issues": 0,
@@ -2050,7 +2050,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 154,
-    "last_commit": "2026-09-17T09:51:13Z",
+    "last_commit": "2026-09-17T12:29:47Z",
     "gh_forks": 32,
     "gh_open_issues": 105,
     "gh_license": "Apache-2.0",
@@ -3126,7 +3126,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 2,
-    "last_commit": "2026-09-15T14:26:25Z",
+    "last_commit": "2026-09-17T13:10:26Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "NOASSERTION",
@@ -3334,23 +3334,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 6,
-    "last_commit": "2026-03-12T22:59:03Z",
-    "gh_forks": 1,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "government",
-      "govtech",
-      "grants",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "procurement",
-      "tenders"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "gzoonet/cortex",
@@ -3390,24 +3375,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 21,
-    "last_commit": "2026-09-05T16:10:24Z",
-    "gh_forks": 3,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "cli",
-      "developer-tools",
-      "gzoo",
-      "knowledge-graph",
-      "llm",
-      "local-first",
-      "mcp",
-      "ollama",
-      "sqlite",
-      "web-dashboard"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -18207,21 +18176,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1,
-    "last_commit": "2026-09-12T18:10:33Z",
-    "gh_forks": 0,
-    "gh_open_issues": 2,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "iac",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "oci",
-      "oracle-cloud",
-      "terraform"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "dockndevai/mcp-azure",
