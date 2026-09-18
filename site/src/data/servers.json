@@ -898,8 +898,8 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 506,
     "last_commit": "2026-09-15T15:47:34Z",
-    "gh_forks": 60,
-    "gh_open_issues": 25,
+    "gh_forks": 61,
+    "gh_open_issues": 26,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1232,7 +1232,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-17T07:22:54Z",
+    "last_commit": "2026-09-18T07:12:33Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -2050,7 +2050,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 155,
-    "last_commit": "2026-09-18T01:28:38Z",
+    "last_commit": "2026-09-18T09:14:02Z",
     "gh_forks": 32,
     "gh_open_issues": 105,
     "gh_license": "Apache-2.0",
@@ -2356,7 +2356,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-11T11:35:12Z",
+    "last_commit": "2026-09-18T02:15:37Z",
     "gh_forks": 4,
     "gh_open_issues": 10,
     "gh_license": "",
@@ -2927,7 +2927,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1264,
+    "stars": 1267,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 160,
     "gh_open_issues": 106,
@@ -3334,23 +3334,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 6,
-    "last_commit": "2026-03-12T22:59:03Z",
-    "gh_forks": 1,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "government",
-      "govtech",
-      "grants",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "procurement",
-      "tenders"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "gzoonet/cortex",
@@ -3390,24 +3375,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 21,
-    "last_commit": "2026-09-05T16:10:24Z",
-    "gh_forks": 3,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "cli",
-      "developer-tools",
-      "gzoo",
-      "knowledge-graph",
-      "llm",
-      "local-first",
-      "mcp",
-      "ollama",
-      "sqlite",
-      "web-dashboard"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "hamflx/imagen3-mcp",
