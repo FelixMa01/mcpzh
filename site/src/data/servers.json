@@ -897,9 +897,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 506,
-    "last_commit": "2026-09-19T01:49:19Z",
+    "last_commit": "2026-09-19T08:32:25Z",
     "gh_forks": 62,
-    "gh_open_issues": 24,
+    "gh_open_issues": 23,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1232,7 +1232,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-18T07:12:33Z",
+    "last_commit": "2026-09-19T07:09:58Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1495,7 +1495,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
+    "stars": 5,
     "last_commit": "2026-02-19T17:28:58Z",
     "gh_forks": 2,
     "gh_open_issues": 1,
@@ -1542,7 +1542,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 6,
-    "last_commit": "2026-09-18T01:33:05Z",
+    "last_commit": "2026-09-19T06:11:49Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2233,9 +2233,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 39,
-    "last_commit": "2026-09-19T01:57:59Z",
+    "last_commit": "2026-09-19T02:49:17Z",
     "gh_forks": 7,
-    "gh_open_issues": 15,
+    "gh_open_issues": 19,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2749,8 +2749,8 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 13,
     "last_commit": "2026-05-26T19:28:40Z",
-    "gh_forks": 4,
-    "gh_open_issues": 4,
+    "gh_forks": 5,
+    "gh_open_issues": 5,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3334,8 +3334,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 6,
+    "last_commit": "2026-03-12T22:59:03Z",
+    "gh_forks": 1,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "government",
+      "govtech",
+      "grants",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "procurement",
+      "tenders"
+    ]
   },
   {
     "name": "gzoonet/cortex",
@@ -3375,8 +3390,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 21,
+    "last_commit": "2026-09-05T16:10:24Z",
+    "gh_forks": 3,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "cli",
+      "developer-tools",
+      "gzoo",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "ollama",
+      "sqlite",
+      "web-dashboard"
+    ]
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -3990,13 +4021,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 404,
-    "last_commit": "2026-07-20T18:02:06Z",
-    "gh_forks": 75,
-    "gh_open_issues": 0,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "kansei-link/kansei-mcp-server",
@@ -11662,8 +11688,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 114,
+    "last_commit": "2026-09-14T06:17:13Z",
+    "gh_forks": 9,
+    "gh_open_issues": 11,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "animation",
+      "dsl",
+      "dsl-syntax",
+      "llm",
+      "llms",
+      "mcp",
+      "mcp-server",
+      "threejs"
+    ]
   },
   {
     "name": "rdanieli/tentra-mcp",
