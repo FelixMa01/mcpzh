@@ -406,28 +406,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1,
-    "last_commit": "2026-09-18T22:37:12Z",
+    "stars": 0,
+    "last_commit": "2026-09-19T13:57:27Z",
     "gh_forks": 0,
-    "gh_open_issues": 2,
+    "gh_open_issues": 0,
     "gh_license": "MIT",
     "gh_default_branch": "main",
-    "gh_topics": [
-      "402",
-      "402-protocol",
-      "agent-payments",
-      "algorand",
-      "algorand-blockchain",
-      "base-blockchain",
-      "finance",
-      "pqcrypto",
-      "router",
-      "solana",
-      "x402",
-      "x402-payment",
-      "x402-protocol",
-      "x402-services"
-    ]
+    "gh_topics": []
   },
   {
     "name": "GarphenGate/moltline-mcp",
@@ -468,9 +453,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-12T23:05:51Z",
+    "last_commit": "2026-09-19T14:57:05Z",
     "gh_forks": 0,
-    "gh_open_issues": 5,
+    "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -897,9 +882,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 506,
-    "last_commit": "2026-09-19T08:32:25Z",
+    "last_commit": "2026-09-19T14:57:41Z",
     "gh_forks": 62,
-    "gh_open_issues": 23,
+    "gh_open_issues": 18,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2410,7 +2395,7 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 125,
     "last_commit": "2025-10-06T04:11:43Z",
-    "gh_forks": 18,
+    "gh_forks": 19,
     "gh_open_issues": 7,
     "gh_license": "",
     "gh_default_branch": "main",
@@ -11688,22 +11673,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 114,
-    "last_commit": "2026-09-14T06:17:13Z",
-    "gh_forks": 9,
-    "gh_open_issues": 11,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "animation",
-      "dsl",
-      "dsl-syntax",
-      "llm",
-      "llms",
-      "mcp",
-      "mcp-server",
-      "threejs"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "rdanieli/tentra-mcp",
@@ -13383,8 +13354,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-05-30T12:18:58Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "biomedical",
+      "claude",
+      "healthcare",
+      "literature-search",
+      "mcp",
+      "medical-writing",
+      "model-context-protocol",
+      "nlm",
+      "pubmed"
+    ]
   },
   {
     "name": "Rajskij/oura-mcp",
