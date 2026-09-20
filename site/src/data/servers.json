@@ -882,9 +882,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 507,
-    "last_commit": "2026-09-20T02:19:51Z",
+    "last_commit": "2026-09-20T15:01:18Z",
     "gh_forks": 62,
-    "gh_open_issues": 16,
+    "gh_open_issues": 18,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1420,9 +1420,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-09-20T07:22:36Z",
+    "last_commit": "2026-09-20T13:29:13Z",
     "gh_forks": 1,
-    "gh_open_issues": 1,
+    "gh_open_issues": 0,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1527,7 +1527,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 6,
-    "last_commit": "2026-09-20T03:19:27Z",
+    "last_commit": "2026-09-20T12:20:52Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2035,9 +2035,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 157,
-    "last_commit": "2026-09-18T17:00:48Z",
+    "last_commit": "2026-09-20T14:53:26Z",
     "gh_forks": 32,
-    "gh_open_issues": 105,
+    "gh_open_issues": 106,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2554,7 +2554,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 394,
-    "last_commit": "2026-09-16T01:37:22Z",
+    "last_commit": "2026-09-20T12:14:25Z",
     "gh_forks": 41,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -3220,7 +3220,20 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-08-23T07:36:26Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "ai",
+      "image-generation",
+      "mcp",
+      "model-context-protocol",
+      "pay-per-call",
+      "video-generation",
+      "x402"
+    ]
   },
   {
     "name": "gpu-bridge/mcp-server",
@@ -3260,8 +3273,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-03-17T11:16:23Z",
+    "gh_forks": 2,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "carlosahumada89/govrider-mcp-server",
@@ -3301,8 +3319,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 6,
+    "last_commit": "2026-03-12T22:59:03Z",
+    "gh_forks": 1,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "government",
+      "govtech",
+      "grants",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "procurement",
+      "tenders"
+    ]
   },
   {
     "name": "gzoonet/cortex",
@@ -3342,8 +3375,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 21,
+    "last_commit": "2026-09-05T16:10:24Z",
+    "gh_forks": 3,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "cli",
+      "developer-tools",
+      "gzoo",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "ollama",
+      "sqlite",
+      "web-dashboard"
+    ]
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -6089,28 +6138,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-03-11T12:16:12Z",
-    "gh_forks": 1,
-    "gh_open_issues": 7,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "base-chain",
-      "base-network",
-      "claude",
-      "coinbase",
-      "cursor",
-      "llm-tools",
-      "mcp",
-      "mcp-server",
-      "micropayments",
-      "model-context-protocol",
-      "service-discovery",
-      "usdc",
-      "x402"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "x402-index/x402search-mcp",
@@ -15375,8 +15404,18 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 426,
+    "last_commit": "2026-09-18T10:05:36Z",
+    "gh_forks": 64,
+    "gh_open_issues": 3,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "claude-code",
+      "firefox",
+      "mcp",
+      "mcp-server"
+    ]
   },
   {
     "name": "frsorrentino/chrome-bridge",
