@@ -777,7 +777,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-21T21:39:56Z",
+    "last_commit": "2026-09-23T12:33:36Z",
     "gh_forks": 2,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1420,9 +1420,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-09-23T10:04:29Z",
+    "last_commit": "2026-09-23T15:36:22Z",
     "gh_forks": 1,
-    "gh_open_issues": 1,
+    "gh_open_issues": 2,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1573,7 +1573,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 7,
-    "last_commit": "2026-09-23T03:11:44Z",
+    "last_commit": "2026-09-23T15:02:47Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1922,7 +1922,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 10,
+    "stars": 11,
     "last_commit": "2026-06-29T10:28:54Z",
     "gh_forks": 3,
     "gh_open_issues": 18,
@@ -2127,7 +2127,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 162,
-    "last_commit": "2026-09-23T10:24:19Z",
+    "last_commit": "2026-09-23T15:26:45Z",
     "gh_forks": 33,
     "gh_open_issues": 83,
     "gh_license": "Apache-2.0",
@@ -2251,7 +2251,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-23T06:18:05Z",
+    "last_commit": "2026-09-23T11:31:20Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -2310,7 +2310,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 39,
-    "last_commit": "2026-09-22T18:31:12Z",
+    "last_commit": "2026-09-23T15:14:20Z",
     "gh_forks": 8,
     "gh_open_issues": 21,
     "gh_license": "MIT",
@@ -2433,7 +2433,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-18T02:15:37Z",
+    "last_commit": "2026-09-23T14:57:34Z",
     "gh_forks": 4,
     "gh_open_issues": 10,
     "gh_license": "",
@@ -2701,7 +2701,7 @@
     "stars": 1,
     "last_commit": "2026-09-20T19:13:20Z",
     "gh_forks": 0,
-    "gh_open_issues": 6,
+    "gh_open_issues": 5,
     "gh_license": "MIT-0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2942,7 +2942,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 21,
+    "stars": 22,
     "last_commit": "2025-08-29T06:28:47Z",
     "gh_forks": 5,
     "gh_open_issues": 3,
@@ -2999,7 +2999,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 62,
+    "stars": 63,
     "last_commit": "2026-09-14T12:31:05Z",
     "gh_forks": 6,
     "gh_open_issues": 0,
@@ -3060,10 +3060,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1276,
+    "stars": 1277,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 161,
-    "gh_open_issues": 106,
+    "gh_open_issues": 107,
     "gh_license": "MPL-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3157,7 +3157,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-08-12T10:41:33Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3197,8 +3202,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 5,
+    "last_commit": "2026-09-21T03:28:01Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -13365,8 +13385,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 31,
+    "last_commit": "2025-10-27T14:48:14Z",
+    "gh_forks": 9,
+    "gh_open_issues": 7,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "longevity-genie/opengenes-mcp",
