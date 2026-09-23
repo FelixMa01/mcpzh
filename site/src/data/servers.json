@@ -407,9 +407,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-19T13:57:27Z",
+    "last_commit": "2026-09-22T23:12:27Z",
     "gh_forks": 0,
-    "gh_open_issues": 0,
+    "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": []
@@ -1420,9 +1420,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-09-22T17:52:17Z",
+    "last_commit": "2026-09-23T01:18:56Z",
     "gh_forks": 1,
-    "gh_open_issues": 4,
+    "gh_open_issues": 2,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2312,7 +2312,7 @@
     "stars": 39,
     "last_commit": "2026-09-22T18:31:12Z",
     "gh_forks": 8,
-    "gh_open_issues": 20,
+    "gh_open_issues": 21,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3365,8 +3365,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-03-17T11:16:23Z",
+    "gh_forks": 2,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "carlosahumada89/govrider-mcp-server",
@@ -3406,8 +3411,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 6,
+    "last_commit": "2026-03-12T22:59:03Z",
+    "gh_forks": 1,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "government",
+      "govtech",
+      "grants",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "procurement",
+      "tenders"
+    ]
   },
   {
     "name": "gzoonet/cortex",
@@ -3447,8 +3467,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 21,
+    "last_commit": "2026-09-05T16:10:24Z",
+    "gh_forks": 3,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "cli",
+      "developer-tools",
+      "gzoo",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "ollama",
+      "sqlite",
+      "web-dashboard"
+    ]
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -3488,8 +3524,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 70,
+    "last_commit": "2025-05-03T15:02:35Z",
+    "gh_forks": 23,
+    "gh_open_issues": 5,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": []
   },
   {
     "name": "hashgraph-online/hashnet-mcp-js",
@@ -3529,8 +3570,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 13,
+    "last_commit": "2026-09-06T18:55:54Z",
+    "gh_forks": 4,
+    "gh_open_issues": 2,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "a2a",
+      "agent",
+      "agent-discovery",
+      "agentverse",
+      "ai-agents",
+      "erc-8004",
+      "hashgraph",
+      "hedera",
+      "mcp",
+      "mcp-server",
+      "nanda",
+      "openrouter",
+      "registry-broker",
+      "virtuals"
+    ]
   },
   {
     "name": "hedging8563/tokenlab-mcp-server",
@@ -3571,7 +3632,29 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-16T20:26:02Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-api",
+      "anthropic-messages",
+      "embeddings",
+      "gemini",
+      "image-generation",
+      "llm-gateway",
+      "mcp",
+      "model-context-protocol",
+      "model-routing",
+      "multimodal",
+      "native-endpoints",
+      "openai-compatible",
+      "responses-api",
+      "text-to-speech",
+      "tokenlab",
+      "video-generation"
+    ]
   },
   {
     "name": "HelpCode-ai/anythingmcp",
@@ -3611,8 +3694,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 325,
+    "last_commit": "2026-09-22T10:23:06Z",
+    "gh_forks": 43,
+    "gh_open_issues": 19,
+    "gh_license": "AGPL-3.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "ai-gateway",
+      "api-gateway",
+      "chatgpt",
+      "chatgpt-apps",
+      "claude",
+      "claude-connectors",
+      "docker",
+      "hacktoberfest",
+      "knowledge-graph",
+      "mcp",
+      "mcp-gateway",
+      "mcp-server",
+      "mcp-servers",
+      "model-context-protocol",
+      "no-code",
+      "openapi-to-mcp",
+      "rest-to-mcp",
+      "self-hosted",
+      "soap-to-mcp"
+    ]
   },
   {
     "name": "isaac-levine/forage",
@@ -3652,8 +3761,21 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 17,
+    "last_commit": "2026-02-21T23:02:09Z",
+    "gh_forks": 4,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "claude",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "tool-discovery"
+    ]
   },
   {
     "name": "jabbawocky/proposalcraft",
@@ -3693,8 +3815,32 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-22T20:24:59Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "ai-tools",
+      "anthropic",
+      "business-development",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "consultant",
+      "cursor-ai",
+      "freelance",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "npx",
+      "productivity",
+      "proposal-generator",
+      "proposal-writing",
+      "typescript"
+    ]
   },
   {
     "name": "Jackalope-Dev/allmcps-server",
@@ -3734,8 +3880,31 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-08-22T05:41:51Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "antigravity",
+      "antigravity-cli",
+      "api",
+      "claude",
+      "cli",
+      "cline",
+      "codex",
+      "cursor",
+      "directory",
+      "grok",
+      "mcp",
+      "mcp-server",
+      "mcp-servers"
+    ]
   },
   {
     "name": "jaspertvdm/mcp-server-gemini-bridge",
@@ -3775,8 +3944,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-06-10T06:04:24Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "jaspertvdm/mcp-server-ollama-bridge",
@@ -3816,8 +3990,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-06-10T06:03:25Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "jaspertvdm/mcp-server-openai-bridge",
@@ -3857,8 +4036,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-10T06:02:01Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Jovancoding/Network-AI",
@@ -3898,8 +4082,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 76,
+    "last_commit": "2026-09-21T23:08:57Z",
+    "gh_forks": 12,
+    "gh_open_issues": 7,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-framework",
+      "agent-orchestration",
+      "ai-agents",
+      "autogen",
+      "blackboard",
+      "blackboard-architecture",
+      "crewai",
+      "hermes",
+      "hermes-agent",
+      "langchain",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "nemoclaw",
+      "nodejs",
+      "openclaw",
+      "orchestration",
+      "rlm",
+      "typescript",
+      "workflow-engine"
+    ]
   },
   {
     "name": "julien040/anyquery",
@@ -46214,6 +46424,47 @@
     "last_commit": ""
   },
   {
+    "name": "bricelancasterwcp-sudo/sensorium",
+    "url": "https://github.com/bricelancasterwcp-sudo/sensorium",
+    "github_url": "https://github.com/bricelancasterwcp-sudo/sensorium",
+    "description": "Record Python/Rust/TypeScript program runs to local SQLite; query call trees, exceptions, and value flow over MCP (refuses rather than guesses). Local-first for coding agents — not LLM-prompt tracing; not the unrelated Telegram `sensorium-mcp`.",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": true,
+      "rust": true,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "hivemindunit/llmintel-mcp",
     "url": "https://github.com/hivemindunit/llmintel-mcp",
     "github_url": "https://github.com/hivemindunit/llmintel-mcp",
@@ -58086,6 +58337,47 @@
       "macos": false,
       "windows": false,
       "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "MnemeHQ/mneme",
+    "url": "https://github.com/MnemeHQ/mneme",
+    "github_url": "https://github.com/MnemeHQ/mneme",
+    "description": "Deterministic architectural decision governance for agentic software development. Six local stdio tools let agents submit non-authoritative proposals and query canonical decisions, applicability, and lineage while human acceptance and enforcement authority remain outside the MCP surface. `uvx --from \"mneme-hq[mcp]==0.9.1\" mneme decision-mcp`",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
       "remote": false,
       "plugin": false,
       "tool": false,
@@ -117308,6 +117600,47 @@
     "last_commit": ""
   },
   {
+    "name": "dhawalshah/tiktok-ads-mcp",
+    "url": "https://github.com/dhawalshah/tiktok-ads-mcp",
+    "github_url": "https://github.com/dhawalshah/tiktok-ads-mcp",
+    "description": "TikTok Ads MCP server with video performance metrics, creative fatigue scoring, industry benchmarks, and Smart+ campaign support.",
+    "category": "Marketing",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "elfsight/beamtrace-mcp",
     "url": "https://github.com/elfsight/beamtrace-mcp",
     "github_url": "https://github.com/elfsight/beamtrace-mcp",
@@ -137685,6 +138018,47 @@
     "last_commit": ""
   },
   {
+    "name": "mambalabsdev/mcp-review-platform-reputation-enricher",
+    "url": "https://github.com/mambalabsdev/mcp-review-platform-reputation-enricher",
+    "github_url": "https://github.com/mambalabsdev/mcp-review-platform-reputation-enricher",
+    "description": "Resolves a company domain to its Trustpilot rating, review count, and claimed status.",
+    "category": "Search & Data Extraction",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "Marvy101/pod-mcp",
     "url": "https://github.com/Marvy101/pod-mcp",
     "github_url": "https://github.com/Marvy101/pod-mcp",
@@ -151793,6 +152167,47 @@
     "url": "https://github.com/HasData/instagram-mcp",
     "github_url": "https://github.com/HasData/instagram-mcp",
     "description": "Remote MCP server for public Instagram data: profiles and post feeds by handle with follower counts, captions, hashtags and mentions parsed, as JSON.",
+    "category": "Social Media",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "HasData/facebook-mcp",
+    "url": "https://github.com/HasData/facebook-mcp",
+    "github_url": "https://github.com/HasData/facebook-mcp",
+    "description": "Remote MCP server for public Facebook pages and profiles: likes, followers, talking-about counts, contact details and the post feed with reactions, as JSON.",
     "category": "Social Media",
     "subcategory": "",
     "language": "",
