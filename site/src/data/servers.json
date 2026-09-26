@@ -1420,9 +1420,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-09-25T21:33:12Z",
+    "last_commit": "2026-09-26T10:01:00Z",
     "gh_forks": 1,
-    "gh_open_issues": 2,
+    "gh_open_issues": 0,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2126,9 +2126,9 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 167,
+    "stars": 168,
     "last_commit": "2026-09-25T02:50:59Z",
-    "gh_forks": 35,
+    "gh_forks": 36,
     "gh_open_issues": 62,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
@@ -2433,9 +2433,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-25T22:56:19Z",
+    "last_commit": "2026-09-26T07:08:07Z",
     "gh_forks": 4,
-    "gh_open_issues": 12,
+    "gh_open_issues": 11,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3000,9 +3000,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 63,
-    "last_commit": "2026-09-14T12:31:05Z",
+    "last_commit": "2026-09-26T09:54:22Z",
     "gh_forks": 6,
-    "gh_open_issues": 1,
+    "gh_open_issues": 2,
     "gh_license": "NOASSERTION",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3060,7 +3060,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1280,
+    "stars": 1281,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 161,
     "gh_open_issues": 107,
@@ -3258,30 +3258,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-09-25T20:04:54Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-memory",
-      "ai-agents",
-      "claude-code",
-      "developer-tools",
-      "embeddings",
-      "hermes",
-      "knowledge-graph",
-      "llm",
-      "local-first",
-      "mcp",
-      "mcp-server",
-      "memory",
-      "openclaw",
-      "self-improving",
-      "sqlite",
-      "vector-search"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "glenngillen/mcpmcp-server",
@@ -12792,16 +12770,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 6,
-    "last_commit": "2026-09-24T19:15:57Z",
-    "gh_forks": 5,
-    "gh_open_issues": 7,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "fulcra",
-      "mcp"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "genomoncology/biomcp",
@@ -20057,8 +20027,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4298,
+    "last_commit": "2026-09-25T15:28:40Z",
+    "gh_forks": 533,
+    "gh_open_issues": 73,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "davidlandais/ovh-api-mcp",
