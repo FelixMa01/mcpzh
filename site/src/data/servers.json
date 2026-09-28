@@ -841,9 +841,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 508,
-    "last_commit": "2026-09-27T16:43:38Z",
+    "last_commit": "2026-09-28T21:04:06Z",
     "gh_forks": 61,
-    "gh_open_issues": 23,
+    "gh_open_issues": 25,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1379,9 +1379,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-09-27T13:43:07Z",
+    "last_commit": "2026-09-28T21:49:24Z",
     "gh_forks": 1,
-    "gh_open_issues": 1,
+    "gh_open_issues": 4,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2644,7 +2644,7 @@
     "stars": 1,
     "last_commit": "2026-09-20T19:13:20Z",
     "gh_forks": 0,
-    "gh_open_issues": 6,
+    "gh_open_issues": 7,
     "gh_license": "MIT-0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -7551,13 +7551,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 3,
-    "last_commit": "2025-09-13T07:37:24Z",
-    "gh_forks": 3,
-    "gh_open_issues": 0,
-    "gh_license": "",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "arikusi/nakkas",
