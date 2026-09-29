@@ -1379,9 +1379,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-09-29T13:40:22Z",
+    "last_commit": "2026-09-29T21:33:14Z",
     "gh_forks": 1,
-    "gh_open_issues": 3,
+    "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1881,7 +1881,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 11,
+    "stars": 12,
     "last_commit": "2026-06-29T10:28:54Z",
     "gh_forks": 3,
     "gh_open_issues": 18,
@@ -2085,9 +2085,9 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 171,
+    "stars": 172,
     "last_commit": "2026-09-29T11:40:09Z",
-    "gh_forks": 36,
+    "gh_forks": 37,
     "gh_open_issues": 65,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
@@ -2943,7 +2943,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 64,
-    "last_commit": "2026-09-27T10:49:33Z",
+    "last_commit": "2026-09-29T20:45:23Z",
     "gh_forks": 6,
     "gh_open_issues": 2,
     "gh_license": "NOASSERTION",
@@ -3006,7 +3006,7 @@
     "stars": 1289,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 161,
-    "gh_open_issues": 107,
+    "gh_open_issues": 108,
     "gh_license": "MPL-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3596,7 +3596,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 597,
+    "stars": 608,
     "last_commit": "2026-09-29T11:36:41Z",
     "gh_forks": 74,
     "gh_open_issues": 28,
@@ -4118,9 +4118,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 144,
-    "last_commit": "2026-09-29T17:02:12Z",
+    "last_commit": "2026-09-29T20:43:26Z",
     "gh_forks": 127,
-    "gh_open_issues": 19,
+    "gh_open_issues": 18,
     "gh_license": "MIT",
     "gh_default_branch": "release",
     "gh_topics": [
@@ -4666,10 +4666,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2694,
+    "stars": 2695,
     "last_commit": "2026-06-22T16:50:50Z",
     "gh_forks": 436,
-    "gh_open_issues": 113,
+    "gh_open_issues": 114,
     "gh_license": "MIT",
     "gh_default_branch": "ai-dev",
     "gh_topics": [
@@ -4796,9 +4796,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 76,
-    "last_commit": "2026-09-29T17:14:21Z",
+    "last_commit": "2026-09-29T21:37:51Z",
     "gh_forks": 18,
-    "gh_open_issues": 75,
+    "gh_open_issues": 78,
     "gh_license": "NOASSERTION",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -4912,30 +4912,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 6,
-    "last_commit": "2026-09-21T04:03:10Z",
-    "gh_forks": 0,
-    "gh_open_issues": 10,
-    "gh_license": "MIT",
-    "gh_default_branch": "master",
-    "gh_topics": [
-      "agent",
-      "claude",
-      "dynamic-exposure",
-      "fastapi",
-      "gateway",
-      "mcp",
-      "model-context-protocol",
-      "oauth2",
-      "oidc",
-      "openapi",
-      "openapi-to-mcp",
-      "python",
-      "sso",
-      "swagger",
-      "token-exchange",
-      "tool-shaping"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "nimbus-agent/Nimbus",
@@ -4975,34 +4953,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 6,
-    "last_commit": "2026-09-29T12:14:20Z",
-    "gh_forks": 3,
-    "gh_open_issues": 40,
-    "gh_license": "AGPL-3.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agentic",
-      "ai-agents",
-      "bun",
-      "claude",
-      "cli",
-      "devops",
-      "devsecops",
-      "hacktoberfest",
-      "hitl",
-      "incident-response",
-      "llm",
-      "local-first",
-      "mcp",
-      "observability",
-      "ollama",
-      "platform-engineering",
-      "privacy-first",
-      "self-hosted",
-      "sre",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "ni-c/mcp-hub",
@@ -5042,27 +4994,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-09-27T10:54:59Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "docker",
-      "mcp",
-      "mcp-gateway",
-      "mcp-server",
-      "model-context-protocol",
-      "oauth2",
-      "selfhosted",
-      "streamable-http",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Octodamus/octodamus-core",
@@ -5102,13 +5035,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-09-12T22:17:13Z",
-    "gh_forks": 0,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "opentabs-dev/opentabs",
@@ -5148,25 +5076,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 962,
-    "last_commit": "2026-09-19T04:47:32Z",
-    "gh_forks": 95,
-    "gh_open_issues": 6,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "browser-automation",
-      "chrome",
-      "chrome-extension",
-      "claude-code",
-      "mcp",
-      "mcp-server",
-      "open-source",
-      "opencode",
-      "plugins",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "oxgeneral/agentnet",
@@ -14104,19 +14015,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-13T16:39:13Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "fda",
-      "healthcare",
-      "mcp",
-      "model-context-protocol",
-      "regulatory"
-    ]
+    "last_commit": ""
   },
   {
     "name": "thelongevityvault/decoder-3am-mcp",
@@ -14156,8 +14055,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-04-03T10:57:01Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "wso2/fhir-mcp-server",
