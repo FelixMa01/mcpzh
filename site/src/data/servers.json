@@ -2253,9 +2253,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 40,
-    "last_commit": "2026-09-30T14:33:59Z",
+    "last_commit": "2026-09-30T19:09:05Z",
     "gh_forks": 8,
-    "gh_open_issues": 26,
+    "gh_open_issues": 27,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2709,7 +2709,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 15,
-    "last_commit": "2026-09-25T22:41:39Z",
+    "last_commit": "2026-09-30T21:14:20Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "Apache-2.0",
@@ -2942,28 +2942,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 64,
-    "last_commit": "2026-09-30T17:06:29Z",
-    "gh_forks": 6,
-    "gh_open_issues": 3,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-coding-assistant",
-      "arc-diagram",
-      "cli",
-      "code-analysis",
-      "dead-code",
-      "dependency-graph",
-      "developer-tools",
-      "go",
-      "javascript",
-      "mcp",
-      "model-context-protocl",
-      "python",
-      "rust",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -16328,13 +16308,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 55,
-    "last_commit": "2026-09-30T12:02:19Z",
-    "gh_forks": 10,
-    "gh_open_issues": 9,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "nnemirovsky/iwdp-mcp",
