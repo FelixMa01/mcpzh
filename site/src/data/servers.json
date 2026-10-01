@@ -836,9 +836,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 510,
-    "last_commit": "2026-09-28T22:50:29Z",
+    "last_commit": "2026-10-01T18:56:25Z",
     "gh_forks": 63,
-    "gh_open_issues": 26,
+    "gh_open_issues": 27,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2248,9 +2248,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 40,
-    "last_commit": "2026-09-30T23:54:20Z",
+    "last_commit": "2026-10-01T19:12:28Z",
     "gh_forks": 8,
-    "gh_open_issues": 27,
+    "gh_open_issues": 28,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2371,7 +2371,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-10-01T11:50:11Z",
+    "last_commit": "2026-10-01T21:48:50Z",
     "gh_forks": 4,
     "gh_open_issues": 13,
     "gh_license": "",
@@ -2704,7 +2704,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 15,
-    "last_commit": "2026-09-30T21:14:20Z",
+    "last_commit": "2026-10-01T21:01:06Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "Apache-2.0",
@@ -2998,7 +2998,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1289,
+    "stars": 1288,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 164,
     "gh_open_issues": 109,
@@ -3099,23 +3099,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 5,
-    "last_commit": "2026-09-29T07:12:52Z",
-    "gh_forks": 1,
-    "gh_open_issues": 2,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-catalog",
-      "ai-tools",
-      "chatgpt",
-      "claude",
-      "entire-vc",
-      "mcp",
-      "model-context-protocol",
-      "npm",
-      "workflow"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -3155,30 +3140,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-10-01T05:31:18Z",
-    "gh_forks": 1,
-    "gh_open_issues": 1,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-memory",
-      "ai-agents",
-      "claude-code",
-      "developer-tools",
-      "embeddings",
-      "hermes",
-      "knowledge-graph",
-      "llm",
-      "local-first",
-      "mcp",
-      "mcp-server",
-      "memory",
-      "openclaw",
-      "self-improving",
-      "sqlite",
-      "vector-search"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "glenngillen/mcpmcp-server",
@@ -3218,13 +3181,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 40,
-    "last_commit": "2025-04-24T04:51:41Z",
-    "gh_forks": 25,
-    "gh_open_issues": 3,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Gliana-Labs/gliana-mcp",
