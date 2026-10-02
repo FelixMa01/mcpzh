@@ -838,7 +838,7 @@
     "stars": 510,
     "last_commit": "2026-10-02T16:58:50Z",
     "gh_forks": 64,
-    "gh_open_issues": 24,
+    "gh_open_issues": 31,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1374,9 +1374,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-09-30T23:46:15Z",
+    "last_commit": "2026-10-02T18:23:56Z",
     "gh_forks": 1,
-    "gh_open_issues": 0,
+    "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2371,9 +2371,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-10-02T13:20:50Z",
+    "last_commit": "2026-10-02T20:41:36Z",
     "gh_forks": 4,
-    "gh_open_issues": 14,
+    "gh_open_issues": 15,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2704,7 +2704,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 15,
-    "last_commit": "2026-10-01T21:01:06Z",
+    "last_commit": "2026-10-02T20:33:23Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "Apache-2.0",
@@ -2880,24 +2880,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 22,
-    "last_commit": "2025-08-29T06:28:47Z",
-    "gh_forks": 5,
-    "gh_open_issues": 3,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "claude",
-      "crew-ai",
-      "cursor",
-      "langchain",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "openai",
-      "vscode"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "depwire/depwire",
@@ -2937,28 +2921,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 64,
-    "last_commit": "2026-10-02T16:41:43Z",
-    "gh_forks": 6,
-    "gh_open_issues": 3,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-coding-assistant",
-      "arc-diagram",
-      "cli",
-      "code-analysis",
-      "dead-code",
-      "dependency-graph",
-      "developer-tools",
-      "go",
-      "javascript",
-      "mcp",
-      "model-context-protocl",
-      "python",
-      "rust",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -2998,22 +2962,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1290,
-    "last_commit": "2026-08-02T15:15:01Z",
-    "gh_forks": 164,
-    "gh_open_issues": 109,
-    "gh_license": "MPL-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "infrastructure",
-      "mcp",
-      "mcp-gateway",
-      "mcp-registry",
-      "mcp-server",
-      "model-context-protocol",
-      "self-hosted"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Proofpane/releases",
@@ -3054,12 +3004,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-30T05:00:17Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3099,23 +3044,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 5,
-    "last_commit": "2026-09-29T07:12:52Z",
-    "gh_forks": 1,
-    "gh_open_issues": 2,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-catalog",
-      "ai-tools",
-      "chatgpt",
-      "claude",
-      "entire-vc",
-      "mcp",
-      "model-context-protocol",
-      "npm",
-      "workflow"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -3155,30 +3085,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-10-01T05:31:18Z",
-    "gh_forks": 1,
-    "gh_open_issues": 1,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-memory",
-      "ai-agents",
-      "claude-code",
-      "developer-tools",
-      "embeddings",
-      "hermes",
-      "knowledge-graph",
-      "llm",
-      "local-first",
-      "mcp",
-      "mcp-server",
-      "memory",
-      "openclaw",
-      "self-improving",
-      "sqlite",
-      "vector-search"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "glenngillen/mcpmcp-server",
@@ -3218,13 +3126,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 40,
-    "last_commit": "2025-04-24T04:51:41Z",
-    "gh_forks": 25,
-    "gh_open_issues": 3,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Gliana-Labs/gliana-mcp",
@@ -3265,20 +3168,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-23T09:10:26Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "",
-    "gh_default_branch": "master",
-    "gh_topics": [
-      "ai",
-      "image-generation",
-      "mcp",
-      "model-context-protocol",
-      "pay-per-call",
-      "video-generation",
-      "x402"
-    ]
+    "last_commit": ""
   },
   {
     "name": "gpu-bridge/mcp-server",
@@ -3318,13 +3208,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-03-17T11:16:23Z",
-    "gh_forks": 2,
-    "gh_open_issues": 4,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "gzoonet/cortex",
@@ -13450,8 +13335,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 270,
+    "last_commit": "2026-07-09T10:57:10Z",
+    "gh_forks": 25,
+    "gh_open_issues": 8,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "apple",
+      "apple-health",
+      "applehealth",
+      "health",
+      "healthcare",
+      "healthcare-application",
+      "healthtech",
+      "mcp-server",
+      "wearable"
+    ]
   },
   {
     "name": "the-momentum/fhir-mcp-server",
