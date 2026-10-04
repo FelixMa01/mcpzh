@@ -669,7 +669,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-03T22:41:57Z",
+    "last_commit": "2026-10-04T19:18:41Z",
     "gh_forks": 0,
     "gh_open_issues": 4,
     "gh_license": "MIT",
@@ -836,9 +836,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 513,
-    "last_commit": "2026-10-04T15:58:16Z",
+    "last_commit": "2026-10-04T17:28:12Z",
     "gh_forks": 64,
-    "gh_open_issues": 20,
+    "gh_open_issues": 22,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1029,7 +1029,7 @@
     "stars": 3,
     "last_commit": "2026-07-08T03:42:29Z",
     "gh_forks": 1,
-    "gh_open_issues": 3,
+    "gh_open_issues": 4,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": []
@@ -1374,9 +1374,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-10-04T12:31:05Z",
+    "last_commit": "2026-10-04T16:34:23Z",
     "gh_forks": 1,
-    "gh_open_issues": 1,
+    "gh_open_issues": 0,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2248,9 +2248,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 40,
-    "last_commit": "2026-10-04T16:04:41Z",
+    "last_commit": "2026-10-04T20:05:47Z",
     "gh_forks": 8,
-    "gh_open_issues": 26,
+    "gh_open_issues": 27,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2371,9 +2371,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-10-04T12:32:00Z",
+    "last_commit": "2026-10-04T19:57:04Z",
     "gh_forks": 4,
-    "gh_open_issues": 12,
+    "gh_open_issues": 11,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3265,7 +3265,20 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-23T09:10:26Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "ai",
+      "image-generation",
+      "mcp",
+      "model-context-protocol",
+      "pay-per-call",
+      "video-generation",
+      "x402"
+    ]
   },
   {
     "name": "gpu-bridge/mcp-server",
