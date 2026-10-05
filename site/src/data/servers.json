@@ -669,7 +669,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-04T19:18:41Z",
+    "last_commit": "2026-10-04T20:46:14Z",
     "gh_forks": 0,
     "gh_open_issues": 4,
     "gh_license": "MIT",
@@ -731,7 +731,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-25T20:49:13Z",
+    "last_commit": "2026-10-05T01:44:02Z",
     "gh_forks": 2,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -790,7 +790,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-30T11:50:04Z",
+    "last_commit": "2026-10-05T01:44:07Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2248,9 +2248,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 40,
-    "last_commit": "2026-10-04T20:05:47Z",
+    "last_commit": "2026-10-05T02:50:02Z",
     "gh_forks": 8,
-    "gh_open_issues": 27,
+    "gh_open_issues": 25,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2586,7 +2586,7 @@
     "stars": 393,
     "last_commit": "2026-10-02T15:11:59Z",
     "gh_forks": 40,
-    "gh_open_issues": 0,
+    "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2998,7 +2998,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1291,
+    "stars": 1290,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 164,
     "gh_open_issues": 109,
@@ -3265,20 +3265,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-23T09:10:26Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "",
-    "gh_default_branch": "master",
-    "gh_topics": [
-      "ai",
-      "image-generation",
-      "mcp",
-      "model-context-protocol",
-      "pay-per-call",
-      "video-generation",
-      "x402"
-    ]
+    "last_commit": ""
   },
   {
     "name": "gpu-bridge/mcp-server",
@@ -14224,8 +14211,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 54,
+    "last_commit": "2026-08-14T21:23:42Z",
+    "gh_forks": 8,
+    "gh_open_issues": 39,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "auspy/supasidebar-mcp",
