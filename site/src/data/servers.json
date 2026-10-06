@@ -501,7 +501,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-11T17:35:09Z",
+    "last_commit": "2026-10-06T14:52:47Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -669,7 +669,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-06T09:12:52Z",
+    "last_commit": "2026-10-06T20:24:46Z",
     "gh_forks": 0,
     "gh_open_issues": 5,
     "gh_license": "MIT",
@@ -835,10 +835,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 512,
-    "last_commit": "2026-10-06T02:42:26Z",
+    "stars": 514,
+    "last_commit": "2026-10-06T17:46:35Z",
     "gh_forks": 64,
-    "gh_open_issues": 24,
+    "gh_open_issues": 20,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -891,7 +891,7 @@
     "stars": 8,
     "last_commit": "2026-08-21T13:33:27Z",
     "gh_forks": 0,
-    "gh_open_issues": 3,
+    "gh_open_issues": 2,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": []
@@ -1374,9 +1374,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-10-06T11:16:01Z",
+    "last_commit": "2026-10-06T13:52:25Z",
     "gh_forks": 1,
-    "gh_open_issues": 1,
+    "gh_open_issues": 0,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2080,7 +2080,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 177,
+    "stars": 180,
     "last_commit": "2026-10-01T11:52:55Z",
     "gh_forks": 39,
     "gh_open_issues": 67,
@@ -2248,7 +2248,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 40,
-    "last_commit": "2026-10-06T06:48:44Z",
+    "last_commit": "2026-10-06T21:55:50Z",
     "gh_forks": 8,
     "gh_open_issues": 24,
     "gh_license": "MIT",
@@ -2583,10 +2583,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 393,
-    "last_commit": "2026-10-05T12:48:06Z",
+    "stars": 392,
+    "last_commit": "2026-10-06T15:53:41Z",
     "gh_forks": 40,
-    "gh_open_issues": 2,
+    "gh_open_issues": 3,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2938,9 +2938,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 64,
-    "last_commit": "2026-10-06T12:20:43Z",
+    "last_commit": "2026-10-06T13:20:20Z",
     "gh_forks": 6,
-    "gh_open_issues": 6,
+    "gh_open_issues": 5,
     "gh_license": "NOASSERTION",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2998,7 +2998,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1288,
+    "stars": 1291,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 164,
     "gh_open_issues": 109,
@@ -13574,19 +13574,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-13T16:39:13Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "fda",
-      "healthcare",
-      "mcp",
-      "model-context-protocol",
-      "regulatory"
-    ]
+    "last_commit": ""
   },
   {
     "name": "thelongevityvault/decoder-3am-mcp",
