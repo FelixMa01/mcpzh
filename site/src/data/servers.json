@@ -837,8 +837,8 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 515,
     "last_commit": "2026-10-07T15:55:39Z",
-    "gh_forks": 64,
-    "gh_open_issues": 16,
+    "gh_forks": 65,
+    "gh_open_issues": 17,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2586,7 +2586,7 @@
     "stars": 391,
     "last_commit": "2026-10-08T02:56:34Z",
     "gh_forks": 40,
-    "gh_open_issues": 4,
+    "gh_open_issues": 5,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3000,7 +3000,7 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1295,
     "last_commit": "2026-08-02T15:15:01Z",
-    "gh_forks": 165,
+    "gh_forks": 167,
     "gh_open_issues": 109,
     "gh_license": "MPL-2.0",
     "gh_default_branch": "main",
