@@ -1171,7 +1171,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-10T08:14:54Z",
+    "last_commit": "2026-10-11T08:30:02Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1527,7 +1527,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 8,
-    "last_commit": "2026-10-11T01:05:50Z",
+    "last_commit": "2026-10-11T09:15:14Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1923,7 +1923,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-10-08T12:07:40Z",
+    "last_commit": "2026-10-11T09:21:18Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2314,7 +2314,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 20,
+    "stars": 21,
     "last_commit": "2026-10-02T01:53:09Z",
     "gh_forks": 11,
     "gh_open_issues": 12,
@@ -2371,9 +2371,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-10-09T21:34:09Z",
+    "last_commit": "2026-10-11T11:05:50Z",
     "gh_forks": 4,
-    "gh_open_issues": 11,
+    "gh_open_issues": 12,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2637,9 +2637,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-09-29T07:23:52Z",
+    "last_commit": "2026-10-11T08:47:35Z",
     "gh_forks": 0,
-    "gh_open_issues": 10,
+    "gh_open_issues": 9,
     "gh_license": "MIT-0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2998,7 +2998,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1293,
+    "stars": 1294,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 167,
     "gh_open_issues": 118,
@@ -3054,12 +3054,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-30T05:00:17Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -7978,8 +7973,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-10-08T16:41:47Z",
+    "gh_forks": 1,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Cifero74/mcp-apple-music",
