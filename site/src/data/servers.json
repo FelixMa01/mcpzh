@@ -669,9 +669,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-09T17:11:06Z",
+    "last_commit": "2026-10-13T16:14:16Z",
     "gh_forks": 0,
-    "gh_open_issues": 5,
+    "gh_open_issues": 4,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -836,9 +836,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 516,
-    "last_commit": "2026-10-12T17:52:25Z",
+    "last_commit": "2026-10-13T17:15:12Z",
     "gh_forks": 65,
-    "gh_open_issues": 25,
+    "gh_open_issues": 22,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1029,7 +1029,7 @@
     "stars": 3,
     "last_commit": "2026-07-08T03:42:29Z",
     "gh_forks": 1,
-    "gh_open_issues": 5,
+    "gh_open_issues": 3,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": []
@@ -1217,9 +1217,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 21,
-    "last_commit": "2026-03-30T07:08:15Z",
+    "last_commit": "2026-10-13T20:35:07Z",
     "gh_forks": 0,
-    "gh_open_issues": 1,
+    "gh_open_issues": 5,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1374,7 +1374,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 18,
-    "last_commit": "2026-10-13T01:23:20Z",
+    "last_commit": "2026-10-13T14:53:45Z",
     "gh_forks": 1,
     "gh_open_issues": 3,
     "gh_license": "MIT",
@@ -2080,7 +2080,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 185,
+    "stars": 186,
     "last_commit": "2026-10-13T07:31:51Z",
     "gh_forks": 40,
     "gh_open_issues": 70,
@@ -2249,7 +2249,7 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 40,
     "last_commit": "2026-10-10T00:31:32Z",
-    "gh_forks": 8,
+    "gh_forks": 9,
     "gh_open_issues": 20,
     "gh_license": "MIT",
     "gh_default_branch": "main",
@@ -2314,7 +2314,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 22,
+    "stars": 24,
     "last_commit": "2026-10-02T01:53:09Z",
     "gh_forks": 11,
     "gh_open_issues": 12,
@@ -2371,9 +2371,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-10-13T12:24:39Z",
+    "last_commit": "2026-10-13T20:09:20Z",
     "gh_forks": 4,
-    "gh_open_issues": 12,
+    "gh_open_issues": 10,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2938,9 +2938,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 64,
-    "last_commit": "2026-10-13T06:58:01Z",
+    "last_commit": "2026-10-13T17:37:39Z",
     "gh_forks": 6,
-    "gh_open_issues": 6,
+    "gh_open_issues": 5,
     "gh_license": "NOASSERTION",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3100,7 +3100,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 5,
-    "last_commit": "2026-10-03T21:27:41Z",
+    "last_commit": "2026-10-13T17:33:19Z",
     "gh_forks": 1,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -3218,13 +3218,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 41,
-    "last_commit": "2025-04-24T04:51:41Z",
-    "gh_forks": 25,
-    "gh_open_issues": 3,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Gliana-Labs/gliana-mcp",
@@ -3265,20 +3260,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-23T09:10:26Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "",
-    "gh_default_branch": "master",
-    "gh_topics": [
-      "ai",
-      "image-generation",
-      "mcp",
-      "model-context-protocol",
-      "pay-per-call",
-      "video-generation",
-      "x402"
-    ]
+    "last_commit": ""
   },
   {
     "name": "gpu-bridge/mcp-server",
@@ -4999,8 +4981,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 3,
+    "last_commit": "2026-06-02T05:51:47Z",
+    "gh_forks": 0,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "supertrained/rhumb",
@@ -5491,23 +5478,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 7,
-    "last_commit": "2026-07-23T00:16:36Z",
-    "gh_forks": 2,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agents",
-      "ai",
-      "directory",
-      "l402",
-      "lightning-network",
-      "marketplace",
-      "mpp",
-      "search",
-      "x402"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "VeriTeknik/pluggedin-mcp-proxy",
