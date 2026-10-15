@@ -617,7 +617,18 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-15T23:07:47Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "gateway",
+      "mcp",
+      "model-context-protocol",
+      "zero-trust"
+    ]
   },
   {
     "name": "daedalusdevelopmentgroup/ddg-agent-payable-services",
@@ -658,7 +669,28 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-13T16:14:16Z",
+    "gh_forks": 0,
+    "gh_open_issues": 4,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-commerce",
+      "agent-payments",
+      "ai-agents",
+      "base",
+      "llm-gateway",
+      "machine-payments",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "openai-compatible",
+      "openapi",
+      "python",
+      "security",
+      "usdc",
+      "x402"
+    ]
   },
   {
     "name": "forgemeshlabs/coinopai-mcp",
@@ -698,8 +730,26 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-10-08T16:55:46Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-commerce",
+      "ai-agents",
+      "base",
+      "crypto",
+      "forgemesh",
+      "mcp",
+      "micropayments",
+      "model-context-protocol",
+      "monetization",
+      "signals",
+      "usdc",
+      "x402"
+    ]
   },
   {
     "name": "forgemeshlabs/anomaly-mcp",
@@ -740,7 +790,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-08T17:48:05Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "master",
+    "gh_topics": []
   },
   {
     "name": "1mcp/agent",
@@ -780,8 +835,20 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 517,
+    "last_commit": "2026-10-14T17:46:53Z",
+    "gh_forks": 67,
+    "gh_open_issues": 26,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "mcp",
+      "mcp-client",
+      "mcp-gateway",
+      "mcp-proxy",
+      "mcp-server",
+      "unified-mcp-server"
+    ]
   },
   {
     "name": "2s-io/sdk",
@@ -821,8 +888,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 8,
+    "last_commit": "2026-08-21T13:33:27Z",
+    "gh_forks": 0,
+    "gh_open_issues": 2,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "8randonpickart5/alderpost-mcp",
@@ -862,8 +934,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-04-21T20:23:36Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "forgemeshlabs/utility-grid-mcp",
@@ -904,7 +981,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-08T16:56:40Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "GTCC777/pulsenetwork-mcp",
@@ -944,8 +1026,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 3,
+    "last_commit": "2026-07-08T03:42:29Z",
+    "gh_forks": 1,
+    "gh_open_issues": 3,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "mcpqueen/mcpqueen",
@@ -986,7 +1073,18 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-13T15:28:33Z",
+    "gh_forks": 0,
+    "gh_open_issues": 2,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-tools",
+      "mcp",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol"
+    ]
   },
   {
     "name": "minia2auk/minia2a-mcp",
@@ -1026,8 +1124,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-10-13T08:50:21Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "szp2005/llm-prices-cn",
@@ -1068,7 +1171,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-15T07:09:12Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "CC-BY-4.0",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "tadas-github/a2asearch-mcp",
@@ -1108,8 +1216,21 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 21,
+    "last_commit": "2026-10-13T20:35:07Z",
+    "gh_forks": 0,
+    "gh_open_issues": 5,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "a2asearch",
+      "ai-agents",
+      "claude",
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ]
   },
   {
     "name": "Aganium/agenium",
@@ -1149,8 +1270,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 5,
+    "last_commit": "2026-10-10T07:45:16Z",
+    "gh_forks": 2,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "a2a",
+      "agent-discovery",
+      "agent-protocol",
+      "agent-registry",
+      "ai-agents",
+      "dns",
+      "mcp",
+      "mtls",
+      "python",
+      "typescript"
+    ]
   },
   {
     "name": "agentbodegastore/agentbodega",
@@ -1190,8 +1327,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 3,
+    "last_commit": "2026-07-09T02:56:02Z",
+    "gh_forks": 1,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "elisymlabs/elisym",
@@ -1231,8 +1373,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 18,
+    "last_commit": "2026-10-15T09:08:41Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "ai-agents",
+      "autonomous-agent",
+      "decentralized",
+      "discovery",
+      "infrastructure",
+      "marketplace",
+      "mcp",
+      "nostr",
+      "payments",
+      "peer-to-peer",
+      "sdk",
+      "solana",
+      "typescript"
+    ]
   },
   {
     "name": "PHONGUIT22/nostrpulse-full",
@@ -1272,8 +1434,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-09-28T11:38:30Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "espadaw/Agent47",
@@ -1313,8 +1480,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 5,
+    "last_commit": "2026-02-19T17:28:58Z",
+    "gh_forks": 2,
+    "gh_open_issues": 1,
+    "gh_license": "",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "gzchenhao/openhire",
@@ -1354,8 +1526,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 10,
+    "last_commit": "2026-10-15T03:44:37Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "ashby",
+      "ats",
+      "autonomous-driving",
+      "claude",
+      "cursor",
+      "embodied-ai",
+      "greenhouse",
+      "job-search",
+      "jobs",
+      "lever",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "privacy",
+      "python",
+      "recruiting",
+      "remote-work",
+      "robotics"
+    ]
   },
   {
     "name": "doggychip/agentforge",
@@ -1395,8 +1593,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-04-21T17:13:00Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "AgentHotspot",
@@ -1436,8 +1639,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 3,
+    "last_commit": "2026-01-21T14:12:57Z",
+    "gh_forks": 4,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "aidevelopers2/remoteopenclaw-mcp",
@@ -1477,8 +1685,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 6,
+    "last_commit": "2026-07-02T11:15:01Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "garasegae/aiskillstore",
@@ -1518,8 +1731,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-05-14T04:39:30Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "getanyapi-com/mcp",
@@ -1559,8 +1777,20 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-09-06T02:11:30Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "anyapi",
+      "data-api",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "web-scraping"
+    ]
   },
   {
     "name": "alexanderclapp/clirank-mcp-server",
@@ -1600,8 +1830,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 6,
+    "last_commit": "2026-08-17T07:04:03Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Work90210/APIFold",
@@ -1641,8 +1876,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 13,
+    "last_commit": "2026-06-29T10:28:54Z",
+    "gh_forks": 3,
+    "gh_open_issues": 18,
+    "gh_license": "AGPL-3.0",
+    "gh_default_branch": "master",
+    "gh_topics": []
   },
   {
     "name": "alexar76/aimarket-plugins",
@@ -1682,8 +1922,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-10-14T10:29:16Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "aimarket",
+      "channels",
+      "escrow",
+      "plugins",
+      "python",
+      "reputation",
+      "safety",
+      "tee"
+    ]
   },
   {
     "name": "Alepha188838884/context-firewall",
@@ -1723,8 +1978,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-09-03T00:45:23Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "claude",
+      "context-window",
+      "llm",
+      "mcp",
+      "mcp-proxy",
+      "mcp-server",
+      "modelcontextprotocol",
+      "token-optimization"
+    ]
   },
   {
     "name": "AIsa-public/AIsa-mcp-server",
@@ -1765,7 +2035,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-17T02:19:46Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "api7/aisix",
@@ -1805,8 +2080,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 190,
+    "last_commit": "2026-10-14T10:24:57Z",
+    "gh_forks": 40,
+    "gh_open_issues": 61,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "ai-gateway",
+      "ai-gateway-rust",
+      "aisix",
+      "anthropic",
+      "bedrock",
+      "gateway",
+      "gemini",
+      "guardrails",
+      "inference-gateway",
+      "llm",
+      "llm-gateway",
+      "llm-proxy",
+      "llm-router",
+      "llmops",
+      "observability",
+      "openai",
+      "openai-compatible",
+      "rust",
+      "self-hosted"
+    ]
   },
   {
     "name": "reefapi/reefapi-mcp",
@@ -1888,7 +2189,25 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-03T17:35:55Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-economy",
+      "agent-marketplace",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "cli",
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "npm-package"
+    ]
   },
   {
     "name": "rhein1/agoragentic-integrations",
@@ -1928,8 +2247,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 41,
+    "last_commit": "2026-10-14T20:57:40Z",
+    "gh_forks": 9,
+    "gh_open_issues": 22,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "a2a",
+      "agent-commerce",
+      "agent-framework",
+      "agent-os",
+      "agentic-ai",
+      "ai-agents",
+      "autogen",
+      "base",
+      "claude-code-plugin",
+      "crewai",
+      "cursor-plugin",
+      "gemini-cli-extension",
+      "langchain",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "openai-agents",
+      "riskfork",
+      "usdc",
+      "x402"
+    ]
   },
   {
     "name": "arikusi/deepseek-mcp-server",
@@ -1969,8 +2314,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 25,
+    "last_commit": "2026-10-14T09:01:19Z",
+    "gh_forks": 11,
+    "gh_open_issues": 13,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "claude-code",
+      "deepseek",
+      "deepseek-v4",
+      "gemini-cli",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "typescript"
+    ]
   },
   {
     "name": "ariekogan/ateam-mcp",
@@ -2010,8 +2370,20 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-10-14T11:18:53Z",
+    "gh_forks": 4,
+    "gh_open_issues": 11,
+    "gh_license": "",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "adas",
+      "ai-agents",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "multi-agent"
+    ]
   },
   {
     "name": "askbudi/roundtable",
@@ -2051,8 +2423,20 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 126,
+    "last_commit": "2025-10-06T04:11:43Z",
+    "gh_forks": 19,
+    "gh_open_issues": 7,
+    "gh_license": "",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "claude-code",
+      "cursor",
+      "gemini-cli",
+      "mcp-server",
+      "openai-codex",
+      "vibe-coding"
+    ]
   },
   {
     "name": "adw0rd/awesome-mcp-tools-mcp",
@@ -2093,7 +2477,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-06-20T23:35:27Z",
+    "gh_forks": 0,
+    "gh_open_issues": 2,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "avotsai/avots-mcp",
@@ -2134,7 +2523,27 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-10T07:21:27Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "gpt",
+      "image-generation",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "openai",
+      "seedance",
+      "text-to-speech",
+      "video-generation"
+    ]
   },
   {
     "name": "blockrunai/blockrun-mcp",
@@ -2174,8 +2583,20 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 392,
+    "last_commit": "2026-10-12T19:53:01Z",
+    "gh_forks": 39,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "claude-code",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "x402"
+    ]
   },
   {
     "name": "bridgenode-ai/bridgenode-mcp",
@@ -2215,8 +2636,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-10-11T08:47:35Z",
+    "gh_forks": 0,
+    "gh_open_issues": 10,
+    "gh_license": "MIT-0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agentic-commerce",
+      "ai-agents",
+      "autonomous-agents",
+      "gasless",
+      "gpt-oss",
+      "http-402",
+      "inference",
+      "llm",
+      "mcp",
+      "micropayments",
+      "minimax",
+      "moonshot",
+      "no-api-key",
+      "openai-compatible",
+      "pay-per-request",
+      "solana",
+      "stablecoin",
+      "usdc",
+      "vision",
+      "x402"
+    ]
   },
   {
     "name": "cgrtml/reasongate",
@@ -2256,8 +2703,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 16,
+    "last_commit": "2026-10-07T21:14:26Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-safety",
+      "explainable-ai",
+      "guardrails",
+      "jailbreak-detection",
+      "llm-guardrails",
+      "llm-security",
+      "owasp-llm",
+      "prompt-injection",
+      "python"
+    ]
   },
   {
     "name": "cinderwright-ai/cinderwright-api",
@@ -2297,8 +2759,26 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-08-30T13:00:19Z",
+    "gh_forks": 2,
+    "gh_open_issues": 5,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent",
+      "ai-agent",
+      "api",
+      "autonomous-agent",
+      "base",
+      "discovery",
+      "mcp",
+      "mcp-server",
+      "micropayments",
+      "openclaw",
+      "usdc",
+      "x402"
+    ]
   },
   {
     "name": "Continuum-AI-Corp/orcarouter-mcp-server",
@@ -2338,8 +2818,29 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 13,
+    "last_commit": "2026-05-26T19:28:40Z",
+    "gh_forks": 5,
+    "gh_open_issues": 6,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-gateway",
+      "anthropic",
+      "claude-code",
+      "claude-desktop",
+      "cursor",
+      "deepseek",
+      "gemini",
+      "grok",
+      "llm",
+      "mcp",
+      "minimax",
+      "model-context-protocol",
+      "openai",
+      "orcarouter",
+      "windsur"
+    ]
   },
   {
     "name": "Data-Everything/mcp-server-templates",
@@ -2379,8 +2880,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 22,
+    "last_commit": "2025-08-29T06:28:47Z",
+    "gh_forks": 5,
+    "gh_open_issues": 3,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "claude",
+      "crew-ai",
+      "cursor",
+      "langchain",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "openai",
+      "vscode"
+    ]
   },
   {
     "name": "depwire/depwire",
@@ -2420,8 +2937,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 64,
+    "last_commit": "2026-10-13T17:37:39Z",
+    "gh_forks": 6,
+    "gh_open_issues": 5,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-coding-assistant",
+      "arc-diagram",
+      "cli",
+      "code-analysis",
+      "dead-code",
+      "dependency-graph",
+      "developer-tools",
+      "go",
+      "javascript",
+      "mcp",
+      "model-context-protocl",
+      "python",
+      "rust",
+      "typescript"
+    ]
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -2461,8 +2998,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1296,
+    "last_commit": "2026-08-02T15:15:01Z",
+    "gh_forks": 167,
+    "gh_open_issues": 118,
+    "gh_license": "MPL-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "infrastructure",
+      "mcp",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "self-hosted"
+    ]
   },
   {
     "name": "Proofpane/releases",
@@ -2503,7 +3054,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-30T05:00:17Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -2543,8 +3099,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 5,
+    "last_commit": "2026-10-15T03:14:02Z",
+    "gh_forks": 1,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -2584,8 +3155,30 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 3,
+    "last_commit": "2026-10-07T12:12:15Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-memory",
+      "ai-agents",
+      "claude-code",
+      "developer-tools",
+      "embeddings",
+      "hermes",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "openclaw",
+      "self-improving",
+      "sqlite",
+      "vector-search"
+    ]
   },
   {
     "name": "glenngillen/mcpmcp-server",
@@ -2625,8 +3218,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 41,
+    "last_commit": "2025-04-24T04:51:41Z",
+    "gh_forks": 25,
+    "gh_open_issues": 3,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Gliana-Labs/gliana-mcp",
@@ -2667,7 +3265,20 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-23T09:10:26Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "ai",
+      "image-generation",
+      "mcp",
+      "model-context-protocol",
+      "pay-per-call",
+      "video-generation",
+      "x402"
+    ]
   },
   {
     "name": "gpu-bridge/mcp-server",
@@ -2707,8 +3318,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-03-17T11:16:23Z",
+    "gh_forks": 2,
+    "gh_open_issues": 4,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "gzoonet/cortex",
@@ -2748,8 +3364,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 23,
+    "last_commit": "2026-09-30T17:12:10Z",
+    "gh_forks": 3,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "cli",
+      "developer-tools",
+      "gzoo",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "ollama",
+      "sqlite",
+      "web-dashboard"
+    ]
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -2789,8 +3421,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 74,
+    "last_commit": "2025-05-03T15:02:35Z",
+    "gh_forks": 23,
+    "gh_open_issues": 6,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": []
   },
   {
     "name": "hashgraph-online/hashnet-mcp-js",
@@ -2830,8 +3467,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 13,
+    "last_commit": "2026-10-01T14:44:17Z",
+    "gh_forks": 4,
+    "gh_open_issues": 2,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "a2a",
+      "agent",
+      "agent-discovery",
+      "agentverse",
+      "ai-agents",
+      "erc-8004",
+      "hashgraph",
+      "hedera",
+      "mcp",
+      "mcp-server",
+      "nanda",
+      "openrouter",
+      "registry-broker",
+      "virtuals"
+    ]
   },
   {
     "name": "hedging8563/tokenlab-mcp-server",
@@ -2872,7 +3529,29 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-15T06:21:30Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-api",
+      "anthropic-messages",
+      "embeddings",
+      "gemini",
+      "image-generation",
+      "llm-gateway",
+      "mcp",
+      "model-context-protocol",
+      "model-routing",
+      "multimodal",
+      "native-endpoints",
+      "openai-compatible",
+      "responses-api",
+      "text-to-speech",
+      "tokenlab",
+      "video-generation"
+    ]
   },
   {
     "name": "HelpCode-ai/anythingmcp",
@@ -2912,8 +3591,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 745,
+    "last_commit": "2026-10-15T09:21:38Z",
+    "gh_forks": 86,
+    "gh_open_issues": 39,
+    "gh_license": "AGPL-3.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "chatgpt",
+      "claude",
+      "claude-connectors",
+      "ecommerce",
+      "erp",
+      "graphql-to-mcp",
+      "hacktoberfest",
+      "mcp",
+      "mcp-gateway",
+      "mcp-server",
+      "model-context-protocol",
+      "odata",
+      "openapi-to-mcp",
+      "rest-to-mcp",
+      "s4hana",
+      "sap",
+      "self-hosted",
+      "soap-to-mcp",
+      "sql-to-mcp"
+    ]
   },
   {
     "name": "isaac-levine/forage",
@@ -2953,8 +3658,21 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 19,
+    "last_commit": "2026-02-21T23:02:09Z",
+    "gh_forks": 4,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "claude",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "tool-discovery"
+    ]
   },
   {
     "name": "jabbawocky/proposalcraft",
@@ -2994,8 +3712,32 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-22T20:24:59Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "ai-tools",
+      "anthropic",
+      "business-development",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "consultant",
+      "cursor-ai",
+      "freelance",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "npx",
+      "productivity",
+      "proposal-generator",
+      "proposal-writing",
+      "typescript"
+    ]
   },
   {
     "name": "Jackalope-Dev/allmcps-server",
@@ -3035,8 +3777,31 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-10-15T05:16:39Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "antigravity",
+      "antigravity-cli",
+      "api",
+      "claude",
+      "cli",
+      "cline",
+      "codex",
+      "cursor",
+      "directory",
+      "grok",
+      "mcp",
+      "mcp-server",
+      "mcp-servers"
+    ]
   },
   {
     "name": "jaspertvdm/mcp-server-gemini-bridge",
@@ -3076,8 +3841,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-06-10T06:04:24Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "jaspertvdm/mcp-server-ollama-bridge",
@@ -3117,8 +3887,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-06-10T06:03:25Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "jaspertvdm/mcp-server-openai-bridge",
@@ -3158,8 +3933,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-06-10T06:02:01Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Jovancoding/Network-AI",
@@ -3199,8 +3979,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 78,
+    "last_commit": "2026-10-14T08:35:01Z",
+    "gh_forks": 13,
+    "gh_open_issues": 4,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-framework",
+      "agent-orchestration",
+      "ai-agents",
+      "autogen",
+      "blackboard",
+      "blackboard-architecture",
+      "crewai",
+      "hermes",
+      "hermes-agent",
+      "langchain",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "nemoclaw",
+      "nodejs",
+      "openclaw",
+      "orchestration",
+      "rlm",
+      "typescript",
+      "workflow-engine"
+    ]
   },
   {
     "name": "julien040/anyquery",
@@ -3240,8 +4046,33 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1784,
+    "last_commit": "2026-10-08T18:53:36Z",
+    "gh_forks": 138,
+    "gh_open_issues": 4,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "analytics",
+      "api",
+      "business-intelligence",
+      "chatgpt",
+      "csv",
+      "data-visualization",
+      "database",
+      "github",
+      "go",
+      "json",
+      "llm",
+      "mcp",
+      "mysql",
+      "notion",
+      "parquet",
+      "salesforce",
+      "sql",
+      "sqlite"
+    ]
   },
   {
     "name": "juspay/neurolink",
@@ -3281,8 +4112,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 157,
+    "last_commit": "2026-10-15T09:58:16Z",
+    "gh_forks": 130,
+    "gh_open_issues": 21,
+    "gh_license": "MIT",
+    "gh_default_branch": "release",
+    "gh_topics": [
+      "agents",
+      "ai",
+      "ai-sdk",
+      "anthropic",
+      "automation",
+      "decision-model",
+      "developer-tools",
+      "jev",
+      "llm",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "neurolink",
+      "openai",
+      "rag",
+      "stt",
+      "tts",
+      "typesafe-ai",
+      "typescript",
+      "voice-ai"
+    ]
   },
   {
     "name": "K-Dense-AI/claude-skills-mcp",
@@ -3322,8 +4179,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 407,
+    "last_commit": "2026-07-20T18:02:06Z",
+    "gh_forks": 77,
+    "gh_open_issues": 0,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "kansei-link/kansei-mcp-server",
@@ -11280,6 +12142,47 @@
     "last_commit": ""
   },
   {
+    "name": "swebsy/MCP",
+    "url": "https://github.com/swebsy/MCP",
+    "github_url": "https://github.com/swebsy/MCP",
+    "description": "Build and edit real websites from the coding agent you already pay for — no per-token AI fees. Browse the template catalogue, create and open a site, rewrite sections, add and link pages, insert blocks, keep reusable symbols in sync, screenshot any viewport, and export static HTML/CSS/JS. Drives an open Swebsy Studio tab over a local `127.0.0.1` WebSocket relay; nothing is proxied through our servers and Studio redacts secrets before anything crosses the bridge. Install via NPM: `npx -y @swebsy/mcp setup`",
+    "category": "Architecture & Design",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": true,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "Tommkruix/archprint",
     "url": "https://github.com/Tommkruix/archprint",
     "github_url": "https://github.com/Tommkruix/archprint",
@@ -16159,6 +17062,47 @@
     "last_commit": ""
   },
   {
+    "name": "Miladmet/quickcast-mcp",
+    "url": "https://github.com/Miladmet/quickcast-mcp",
+    "github_url": "https://github.com/Miladmet/quickcast-mcp",
+    "description": "Screen-to-Action Protocol: Turn screen recordings directly into automated Playwright E2E reproduction tests, structured GitHub bug reports with video timestamps, and SOP walkthroughs.",
+    "category": "Browser Automation",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "Mingye-Lu/AgenticCrawler",
     "url": "https://github.com/Mingye-Lu/AgenticCrawler",
     "github_url": "https://github.com/Mingye-Lu/AgenticCrawler",
@@ -16894,7 +17838,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-30T14:01:04Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "ScrapeUnblocker/scrapeunblocker-mcp",
@@ -18332,6 +19281,47 @@
     "last_commit": ""
   },
   {
+    "name": "AIops-tools/Proxmox-AIops",
+    "url": "https://github.com/AIops-tools/Proxmox-AIops",
+    "github_url": "https://github.com/AIops-tools/Proxmox-AIops",
+    "description": "Governed Proxmox VE operations — VM/LXC lifecycle, snapshots, cluster, storage, backup, and HA (43 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.",
+    "category": "Cloud Platforms",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "agentmetal/mcp",
     "url": "https://github.com/agentmetal/mcp",
     "github_url": "https://github.com/agentmetal/mcp",
@@ -19503,6 +20493,47 @@
       "macos": false,
       "windows": false,
       "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "gitayg/appcrane-mcp",
+    "url": "https://github.com/gitayg/appcrane-mcp",
+    "github_url": "https://github.com/gitayg/appcrane-mcp",
+    "description": "Self-hosted, MCP-native deployment platform (AppCrane): AI agents deploy apps, manage secrets, read logs, and roll back on your own server. Enterprise SSO (SAML/OIDC/SCIM) and per-user audit.",
+    "category": "Cloud Platforms",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": true,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": true,
       "remote": false,
       "plugin": false,
       "tool": false,
@@ -25220,6 +26251,47 @@
     "last_commit": ""
   },
   {
+    "name": "EngMarchG/agent-bridge",
+    "url": "https://github.com/EngMarchG/agent-bridge",
+    "github_url": "https://github.com/EngMarchG/agent-bridge",
+    "description": "Lets Claude Code and Codex steer each other's live desktop chats through Windows UI Automation: list and read chats, send messages or mid-turn steers, and pause, resume or edit Codex goals.",
+    "category": "Coding Agents",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": true,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "ezyang/codemcp",
     "url": "https://github.com/ezyang/codemcp",
     "github_url": "https://github.com/ezyang/codemcp",
@@ -28951,6 +30023,47 @@
     "last_commit": ""
   },
   {
+    "name": "A1-x-Tech/mcp-google-chat",
+    "url": "https://github.com/A1-x-Tech/mcp-google-chat",
+    "github_url": "https://github.com/A1-x-Tech/mcp-google-chat",
+    "description": "Google Chat API: list and search spaces, read and send messages, and work with threads and reactions.",
+    "category": "Communication",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "A1-x-Tech/mcp-google-gmail",
     "url": "https://github.com/A1-x-Tech/mcp-google-gmail",
     "github_url": "https://github.com/A1-x-Tech/mcp-google-gmail",
@@ -31628,6 +32741,47 @@
       "fast": false,
       "cloud": true,
       "local_install": true,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "phuryn/askone",
+    "url": "https://github.com/phuryn/askone",
+    "github_url": "https://github.com/phuryn/askone",
+    "description": "Run live audience Q&A and polls with AskOne, with free AI moderation: start rooms, launch polls, moderate and answer questions, and draft a FAQ from the Q&A. Also hosted at `https://askone.org/api/mcp`.",
+    "category": "Communication",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
       "python": false,
       "nodejs": true,
       "rust": false,
@@ -35183,6 +36337,47 @@
     "last_commit": ""
   },
   {
+    "name": "wsapi-chat/wsapi-mcp",
+    "url": "https://github.com/wsapi-chat/wsapi-mcp",
+    "github_url": "https://github.com/wsapi-chat/wsapi-mcp",
+    "description": "WhatsApp through the WSAPI REST API: send messages and media, and manage chats, groups, communities and contacts on a connected number. Open source, self-hosted or managed.",
+    "category": "Communication",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "wyattjoh/imessage-mcp",
     "url": "https://github.com/wyattjoh/imessage-mcp",
     "github_url": "https://github.com/wyattjoh/imessage-mcp",
@@ -35933,6 +37128,47 @@
       "fast": false,
       "cloud": false,
       "local_install": true,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "zihin-ai/zihin-mcp",
+    "url": "https://github.com/zihin-ai/zihin-mcp",
+    "github_url": "https://github.com/zihin-ai/zihin-mcp",
+    "description": "Build and operate AI agents on the Zihin.ai platform: manage agents, schemas, triggers, budgets and approvals, run diagnostics and chat with your agents.",
+    "category": "Conversational AI",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": true,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
       "python": false,
       "nodejs": true,
       "rust": false,
@@ -37092,6 +38328,47 @@
       "macos": true,
       "windows": true,
       "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "AIops-tools/Queue-AIops",
+    "url": "https://github.com/AIops-tools/Queue-AIops",
+    "github_url": "https://github.com/AIops-tools/Queue-AIops",
+    "description": "Governed Redis + RabbitMQ operations — memory-pressure, latency, backlog, and churn RCA, plus guardrailed queue and key operations (28 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, and undo/rollback.",
+    "category": "Databases",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
       "remote": false,
       "plugin": false,
       "tool": false,
@@ -38445,6 +39722,47 @@
       "macos": false,
       "windows": false,
       "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "elekto-com-br/elekto-mcp-sql",
+    "url": "https://github.com/elekto-com-br/elekto-mcp-sql",
+    "github_url": "https://github.com/elekto-com-br/elekto-mcp-sql",
+    "description": "Read-only SQL Server introspection for .NET projects: schema, DDL, dependency graphs, index health and data profiling, reading connection strings from appsettings.json or web.config, and reporting which GRANTs the login lacks.",
+    "category": "Databases",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
       "remote": false,
       "plugin": false,
       "tool": false,
@@ -44668,6 +45986,47 @@
       "local_install": true,
       "python": false,
       "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "huanglizhuo/OctoCounts",
+    "url": "https://github.com/huanglizhuo/OctoCounts",
+    "github_url": "https://github.com/huanglizhuo/OctoCounts",
+    "description": "SLOC counts for any public GitHub repository from any MCP client: files, code, comment and blank lines per language, plus side-by-side repo comparisons.",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": true,
       "rust": false,
       "go": false,
       "java": false,
@@ -52670,6 +54029,47 @@
       "cli": false,
       "embedded": false,
       "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "FidelisMM/shipstores",
+    "url": "https://github.com/FidelisMM/shipstores",
+    "github_url": "https://github.com/FidelisMM/shipstores",
+    "description": "Ship iOS and Android apps end to end: App Store Connect, Google Play Console and Expo EAS builds, listings, screenshots, privacy labels, review submission and App Review replies.",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
       "windows": false,
       "linux": false,
       "remote": false,
@@ -61956,6 +63356,47 @@
     "last_commit": ""
   },
   {
+    "name": "toprakahmetaydogmus/TZeroAlgorithm",
+    "url": "https://github.com/toprakahmetaydogmus/TZeroAlgorithm",
+    "github_url": "https://github.com/toprakahmetaydogmus/TZeroAlgorithm",
+    "description": "Hierarchical context tree and 13-tool MCP server for AI code context management.",
+    "category": "Developer Tools",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "tosin2013/mcp-adr-analysis-server",
     "url": "https://github.com/tosin2013/mcp-adr-analysis-server",
     "github_url": "https://github.com/tosin2013/mcp-adr-analysis-server",
@@ -70115,6 +71556,47 @@
     "last_commit": ""
   },
   {
+    "name": "TantiE100/pktctl",
+    "url": "https://github.com/TantiE100/pktctl",
+    "github_url": "https://github.com/TantiE100/pktctl",
+    "description": "Drive Cisco Packet Tracer for CCNA labs: build and cable topologies, configure IOS, test with ping and simulation mode, and reach its whole IPC API over native PTMP.",
+    "category": "Education",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": false,
+      "rust": true,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "peopleworks/SignsofAI",
     "url": "https://github.com/peopleworks/SignsofAI/tree/main/src/SignsOfAI.Mcp",
     "github_url": "https://github.com/peopleworks/SignsofAI/tree/main/src/SignsOfAI.Mcp",
@@ -74689,6 +76171,47 @@
       "macos": false,
       "windows": false,
       "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "bartosz-kuc/honest-vies-mcp",
+    "url": "https://github.com/bartosz-kuc/honest-vies-mcp",
+    "github_url": "https://github.com/bartosz-kuc/honest-vies-mcp",
+    "description": "Validates EU VAT numbers against the European Commission's VIES API, locally with no API key or third-party middleman. `check_vat` returns validity, name and address where available, and a consultation number as audit proof when you pass your own VAT; `list_supported_countries` lists the 27 EU states plus XI (Northern Ireland).",
+    "category": "Finance & Fintech",
+    "subcategory": "",
+    "language": "check_vat",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
       "remote": false,
       "plugin": false,
       "tool": false,
@@ -92296,6 +93819,47 @@
     "last_commit": ""
   },
   {
+    "name": "D-Asce/pandastocksdk",
+    "url": "https://github.com/D-Asce/pandastocksdk",
+    "github_url": "https://github.com/D-Asce/pandastocksdk",
+    "description": "A-share realtime market data via MCP: NATS-pushed quotes, Level2, DDX, capital flow, news. 22 tools, free public test account. Install: `pip install pandastock-mcp`",
+    "category": "Finance & Fintech",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "26048608982lp-ai/gamenumerics",
     "url": "https://github.com/26048608982lp-ai/gamenumerics",
     "github_url": "https://github.com/26048608982lp-ai/gamenumerics",
@@ -94656,6 +96220,47 @@
       "macos": false,
       "windows": false,
       "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "Sarg338/steam-mcp",
+    "url": "https://github.com/Sarg338/steam-mcp",
+    "github_url": "https://github.com/Sarg338/steam-mcp",
+    "description": "Read-only Steam, 41 tools. Store details, reviews that match the store page, sales, regional prices, community tags, live player counts, Steam Deck compatibility, one-call game briefs, side-by-side game comparisons and how each patch moved the reviews all need **no API key**; a free Steam Web API key adds library, playtime, friends, achievements, wishlist and inventory. Also does backlog analysis, taste-based recommendations and co-op night planning across a group's libraries.",
+    "category": "Gaming",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
       "remote": false,
       "plugin": false,
       "tool": false,
@@ -102874,6 +104479,47 @@
     "last_commit": ""
   },
   {
+    "name": "jaydubya818/Agentic-KB",
+    "url": "https://github.com/jaydubya818/Agentic-KB",
+    "github_url": "https://github.com/jaydubya818/Agentic-KB",
+    "description": "Persistent engineering knowledge base with source-backed wiki, agent-runtime and repository-context tools, contradiction and staleness checks, and PIN-gated private scopes and writes.",
+    "category": "Knowledge & Memory",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "jcdickinson/simplemem",
     "url": "https://github.com/jcdickinson/simplemem",
     "github_url": "https://github.com/jcdickinson/simplemem",
@@ -105931,6 +107577,47 @@
       "macos": true,
       "windows": true,
       "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "renezander030/graphiti-local",
+    "url": "https://github.com/renezander030/graphiti-local",
+    "github_url": "https://github.com/renezander030/graphiti-local",
+    "description": "Local temporal knowledge graph with six read-only retrieval tools, Ollama inference, embedded LadybugDB, and a separate human-approved CLI write queue.",
+    "category": "Knowledge & Memory",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
       "remote": false,
       "plugin": false,
       "tool": false,
@@ -111320,6 +113007,47 @@
     "last_commit": ""
   },
   {
+    "name": "bartosz-kuc/honest-imgw-mcp",
+    "url": "https://github.com/bartosz-kuc/honest-imgw-mcp",
+    "github_url": "https://github.com/bartosz-kuc/honest-imgw-mcp",
+    "description": "Polish weather and hydrology data from the IMGW-PIB public API, no API key: hourly synoptic observations (`get_weather`), river levels and flow with a computed normal/warning/alarm status (`get_hydro`), active weather warnings (`get_warnings`), and station lists. Queries IMGW directly, no middleman.",
+    "category": "Location Services",
+    "subcategory": "",
+    "language": "get_weather",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "HasData/yellowpages-mcp",
     "url": "https://github.com/HasData/yellowpages-mcp",
     "github_url": "https://github.com/HasData/yellowpages-mcp",
@@ -115023,6 +116751,47 @@
       "cloud": true,
       "local_install": false,
       "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "dhawalshah/google-tag-manager-mcp",
+    "url": "https://github.com/dhawalshah/google-tag-manager-mcp",
+    "github_url": "https://github.com/dhawalshah/google-tag-manager-mcp",
+    "description": "Google Tag Manager MCP server for managing tags, triggers, and variables from Claude, local or remote.",
+    "category": "Marketing",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": true,
+      "python": false,
       "nodejs": false,
       "rust": false,
       "go": false,
@@ -119050,6 +120819,47 @@
       "embedded": false,
       "macos": false,
       "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "Edge-Echo/mcp-netassist",
+    "url": "https://github.com/Edge-Echo/mcp-netassist",
+    "github_url": "https://github.com/Edge-Echo/mcp-netassist",
+    "description": "Network and proxy diagnostics: GitHub reachability, system proxy status, local proxy port probing, DNS/TCP/HTTP checks, hosts conflict scan, and a doctor that suggests what to change.",
+    "category": "Monitoring",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": true,
       "linux": false,
       "remote": false,
       "plugin": false,
@@ -129046,6 +130856,47 @@
       "local_install": false,
       "python": false,
       "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "SokolskyNikita/annas-mcp",
+    "url": "https://github.com/SokolskyNikita/annas-mcp",
+    "github_url": "https://github.com/SokolskyNikita/annas-mcp",
+    "description": "Search Anna's Archive for books and journal articles by title, author, topic or DOI, and download the chosen file.",
+    "category": "Research",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": true,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": false,
       "rust": false,
       "go": false,
       "java": false,
@@ -139897,6 +141748,47 @@
     "last_commit": ""
   },
   {
+    "name": "retracn/automationnation-mcp",
+    "url": "https://github.com/retracn/automationnation-mcp",
+    "github_url": "https://github.com/retracn/automationnation-mcp",
+    "description": "17 data tools backed by Apify Actors: Google Flights and Hotels prices, Google Shopping, News, Images, Videos, Jobs and Trends, YouTube transcripts, Google Maps leads, Ads Transparency, app reviews and AI-search visibility; pay per result with a spending cap on every run.",
+    "category": "Search & Data Extraction",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "smeet666/mcp-ptitchef",
     "url": "https://github.com/smeet666/mcp-ptitchef",
     "github_url": "https://github.com/smeet666/mcp-ptitchef",
@@ -140485,6 +142377,47 @@
       "local_install": true,
       "python": true,
       "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "noor202401938-netizen/cyber-chef-mcp",
+    "url": "https://github.com/noor202401938-netizen/cyber-chef-mcp",
+    "github_url": "https://github.com/noor202401938-netizen/cyber-chef-mcp",
+    "description": "CyberChef MCP server providing 28 core data transformations, ciphers, hashing, JWT decoding, representation-calibrated Shannon entropy, and multi-layer payload deobfuscation for AI coding and security agents. `npx -y @noorfatima123456/cyber-chef-mcp`",
+    "category": "Security",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": false,
+      "nodejs": true,
       "rust": false,
       "go": false,
       "java": false,
@@ -154944,6 +156877,47 @@
     "last_commit": ""
   },
   {
+    "name": "Trainzilla/tzilla-mcp",
+    "url": "https://github.com/Trainzilla/tzilla-mcp",
+    "github_url": "https://github.com/Trainzilla/tzilla-mcp",
+    "description": "Trainzilla for personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing (hosted OAuth endpoint or local).",
+    "category": "Sports",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": true,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
     "name": "XWeaponX7/rundida-mcp",
     "url": "https://github.com/XWeaponX7/rundida-mcp",
     "github_url": "https://github.com/XWeaponX7/rundida-mcp",
@@ -156484,6 +158458,47 @@
       "macos": true,
       "windows": true,
       "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "cuqu-net/cuqu-skill",
+    "url": "https://github.com/cuqu-net/cuqu-skill",
+    "github_url": "https://github.com/cuqu-net/cuqu-skill",
+    "description": "Find, book, and pay for local offline social activities (board games, badminton, hiking, frisbee and 100+ hobby categories) across cities in China via natural language. Hosted MCP gateway (agent.cuqu.net) with per-user API keys; also supports organizer-side event creation and venue search.",
+    "category": "Travel & Transportation",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": true,
+      "python": false,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
       "remote": false,
       "plugin": false,
       "tool": false,
@@ -160319,6 +162334,47 @@
     "url": "https://github.com/A1-x-Tech/mcp-google-slides",
     "github_url": "https://github.com/A1-x-Tech/mcp-google-slides",
     "description": "Google Slides API: create and edit presentations, slides, shapes, tables and images, speaker notes and exports.",
+    "category": "Workplace & Productivity",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": true,
+      "local_install": false,
+      "python": false,
+      "nodejs": true,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": false,
+      "windows": false,
+      "linux": false,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "A1-x-Tech/mcp-google-tasks",
+    "url": "https://github.com/A1-x-Tech/mcp-google-tasks",
+    "github_url": "https://github.com/A1-x-Tech/mcp-google-tasks",
+    "description": "Google Tasks API: manage task lists, and create and organize tasks with due dates, notes and subtasks.",
     "category": "Workplace & Productivity",
     "subcategory": "",
     "language": "",
