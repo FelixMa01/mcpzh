@@ -836,8 +836,8 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 517,
-    "last_commit": "2026-10-15T16:15:09Z",
-    "gh_forks": 68,
+    "last_commit": "2026-10-16T12:36:08Z",
+    "gh_forks": 69,
     "gh_open_issues": 26,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
@@ -1374,7 +1374,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 18,
-    "last_commit": "2026-10-15T13:50:44Z",
+    "last_commit": "2026-10-16T15:31:36Z",
     "gh_forks": 1,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -2080,8 +2080,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 193,
-    "last_commit": "2026-10-16T09:52:54Z",
+    "stars": 195,
+    "last_commit": "2026-10-16T14:19:07Z",
     "gh_forks": 40,
     "gh_open_issues": 61,
     "gh_license": "Apache-2.0",
@@ -2314,7 +2314,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 25,
+    "stars": 26,
     "last_commit": "2026-10-14T09:01:19Z",
     "gh_forks": 11,
     "gh_open_issues": 13,
@@ -2880,24 +2880,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 22,
-    "last_commit": "2025-08-29T06:28:47Z",
-    "gh_forks": 5,
-    "gh_open_issues": 3,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "claude",
-      "crew-ai",
-      "cursor",
-      "langchain",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "openai",
-      "vscode"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "depwire/depwire",
@@ -2937,28 +2921,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 64,
-    "last_commit": "2026-10-13T17:37:39Z",
-    "gh_forks": 6,
-    "gh_open_issues": 5,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-coding-assistant",
-      "arc-diagram",
-      "cli",
-      "code-analysis",
-      "dead-code",
-      "dependency-graph",
-      "developer-tools",
-      "go",
-      "javascript",
-      "mcp",
-      "model-context-protocl",
-      "python",
-      "rust",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -7344,8 +7308,20 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 18,
+    "last_commit": "2026-03-17T03:55:03Z",
+    "gh_forks": 5,
+    "gh_open_issues": 7,
+    "gh_license": "",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "ai-agents",
+      "mcp",
+      "mcp-server",
+      "memes",
+      "soundboard"
+    ]
   },
   {
     "name": "ahujasid/blender-mcp",
