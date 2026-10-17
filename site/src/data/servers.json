@@ -835,9 +835,9 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 517,
+    "stars": 518,
     "last_commit": "2026-10-16T12:36:08Z",
-    "gh_forks": 69,
+    "gh_forks": 70,
     "gh_open_issues": 26,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
@@ -1127,7 +1127,7 @@
     "stars": 1,
     "last_commit": "2026-10-13T08:50:21Z",
     "gh_forks": 0,
-    "gh_open_issues": 2,
+    "gh_open_issues": 3,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": []
@@ -1171,7 +1171,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-16T06:52:25Z",
+    "last_commit": "2026-10-17T06:44:47Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -2080,7 +2080,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 196,
+    "stars": 197,
     "last_commit": "2026-10-16T14:19:07Z",
     "gh_forks": 40,
     "gh_open_issues": 61,
@@ -3000,7 +3000,7 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1300,
     "last_commit": "2026-08-02T15:15:01Z",
-    "gh_forks": 167,
+    "gh_forks": 166,
     "gh_open_issues": 118,
     "gh_license": "MPL-2.0",
     "gh_default_branch": "main",
@@ -3054,12 +3054,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-30T05:00:17Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -20484,12 +20479,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-08-27T03:23:56Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "Ilmar7786/marzban-sdk",
