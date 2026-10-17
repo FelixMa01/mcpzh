@@ -2998,22 +2998,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1300,
-    "last_commit": "2026-08-02T15:15:01Z",
-    "gh_forks": 166,
-    "gh_open_issues": 118,
-    "gh_license": "MPL-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "infrastructure",
-      "mcp",
-      "mcp-gateway",
-      "mcp-registry",
-      "mcp-server",
-      "model-context-protocol",
-      "self-hosted"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Proofpane/releases",
@@ -12237,8 +12223,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 70,
+    "last_commit": "2026-10-08T14:25:40Z",
+    "gh_forks": 11,
+    "gh_open_issues": 2,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-ready",
+      "ai-agent-tools",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-desktop",
+      "cursor",
+      "fitbit",
+      "google-health",
+      "google-health-api",
+      "health-data",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "oauth",
+      "pixel-watch",
+      "typescript",
+      "wearable-data",
+      "wearables"
+    ]
   },
   {
     "name": "davidmosiah/wellness-cgm-mcp",
