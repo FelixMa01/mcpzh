@@ -898,7 +898,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 518,
-    "last_commit": "2026-10-16T12:36:08Z",
+    "last_commit": "2026-10-18T14:56:36Z",
     "gh_forks": 73,
     "gh_open_issues": 26,
     "gh_license": "Apache-2.0",
@@ -2251,7 +2251,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-03T17:35:55Z",
+    "last_commit": "2026-10-18T12:24:21Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -3060,7 +3060,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1300,
+    "stars": 1301,
     "last_commit": "2026-08-02T15:15:01Z",
     "gh_forks": 166,
     "gh_open_issues": 118,
@@ -3327,7 +3327,20 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-23T09:10:26Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "ai",
+      "image-generation",
+      "mcp",
+      "model-context-protocol",
+      "pay-per-call",
+      "video-generation",
+      "x402"
+    ]
   },
   {
     "name": "gpu-bridge/mcp-server",
