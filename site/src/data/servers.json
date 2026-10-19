@@ -897,8 +897,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 518,
-    "last_commit": "2026-10-19T17:41:35Z",
+    "stars": 519,
+    "last_commit": "2026-10-19T19:42:56Z",
     "gh_forks": 73,
     "gh_open_issues": 22,
     "gh_license": "Apache-2.0",
@@ -19488,8 +19488,20 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-10-19T03:55:59Z",
+    "gh_forks": 0,
+    "gh_open_issues": 2,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "azure",
+      "cloud",
+      "governance",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ]
   },
   {
     "name": "dockndevai/mcp-openshift",
@@ -20431,23 +20443,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 9794,
-    "last_commit": "2026-10-16T20:30:35Z",
-    "gh_forks": 1817,
-    "gh_open_issues": 244,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "aws",
-      "mcp",
-      "mcp-client",
-      "mcp-clients",
-      "mcp-host",
-      "mcp-server",
-      "mcp-servers",
-      "mcp-tools",
-      "modelcontextprotocol"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "backblaze-labs/b2-mcp",
