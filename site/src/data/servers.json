@@ -1288,7 +1288,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 21,
-    "last_commit": "2026-10-13T20:35:07Z",
+    "last_commit": "2026-10-20T01:34:52Z",
     "gh_forks": 0,
     "gh_open_issues": 5,
     "gh_license": "MIT",
@@ -1598,7 +1598,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 12,
-    "last_commit": "2026-10-19T15:09:36Z",
+    "last_commit": "2026-10-20T01:07:20Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2152,7 +2152,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 200,
-    "last_commit": "2026-10-19T11:02:14Z",
+    "last_commit": "2026-10-20T02:28:31Z",
     "gh_forks": 42,
     "gh_open_issues": 61,
     "gh_license": "Apache-2.0",
@@ -3008,28 +3008,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 64,
-    "last_commit": "2026-10-13T17:37:39Z",
-    "gh_forks": 6,
-    "gh_open_issues": 5,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-coding-assistant",
-      "arc-diagram",
-      "cli",
-      "code-analysis",
-      "dead-code",
-      "dependency-graph",
-      "developer-tools",
-      "go",
-      "javascript",
-      "mcp",
-      "model-context-protocl",
-      "python",
-      "rust",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -3069,22 +3049,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1303,
-    "last_commit": "2026-08-02T15:15:01Z",
-    "gh_forks": 165,
-    "gh_open_issues": 117,
-    "gh_license": "MPL-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "infrastructure",
-      "mcp",
-      "mcp-gateway",
-      "mcp-registry",
-      "mcp-server",
-      "model-context-protocol",
-      "self-hosted"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Proofpane/releases",
@@ -3125,12 +3091,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-30T05:00:17Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -5630,8 +5591,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 64,
+    "last_commit": "2025-09-10T06:42:53Z",
+    "gh_forks": 19,
+    "gh_open_issues": 2,
+    "gh_license": "",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "wegotdocs/open-mcp",
@@ -19488,20 +19454,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1,
-    "last_commit": "2026-10-19T03:55:59Z",
-    "gh_forks": 0,
-    "gh_open_issues": 2,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "azure",
-      "cloud",
-      "governance",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "dockndevai/mcp-openshift",
