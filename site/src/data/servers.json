@@ -407,9 +407,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 2,
-    "last_commit": "2026-10-08T12:03:01Z",
+    "last_commit": "2026-10-21T02:02:54Z",
     "gh_forks": 0,
-    "gh_open_issues": 2,
+    "gh_open_issues": 17,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -898,9 +898,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 519,
-    "last_commit": "2026-10-20T17:00:22Z",
-    "gh_forks": 71,
-    "gh_open_issues": 20,
+    "last_commit": "2026-10-21T00:49:21Z",
+    "gh_forks": 70,
+    "gh_open_issues": 21,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1598,7 +1598,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 12,
-    "last_commit": "2026-10-20T03:37:19Z",
+    "last_commit": "2026-10-21T02:14:23Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2152,9 +2152,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 200,
-    "last_commit": "2026-10-20T20:40:03Z",
+    "last_commit": "2026-10-21T02:14:18Z",
     "gh_forks": 42,
-    "gh_open_issues": 62,
+    "gh_open_issues": 61,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2656,8 +2656,8 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 391,
     "last_commit": "2026-10-20T19:26:50Z",
-    "gh_forks": 40,
-    "gh_open_issues": 2,
+    "gh_forks": 41,
+    "gh_open_issues": 3,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3069,8 +3069,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1305,
+    "last_commit": "2026-08-02T15:15:01Z",
+    "gh_forks": 167,
+    "gh_open_issues": 117,
+    "gh_license": "MPL-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "infrastructure",
+      "mcp",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "self-hosted"
+    ]
   },
   {
     "name": "Proofpane/releases",
@@ -3111,7 +3125,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-30T05:00:17Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3151,8 +3170,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-10-20T22:04:55Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
