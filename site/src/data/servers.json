@@ -1445,7 +1445,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 18,
-    "last_commit": "2026-10-16T15:31:36Z",
+    "last_commit": "2026-10-21T21:20:33Z",
     "gh_forks": 1,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -1598,7 +1598,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 12,
-    "last_commit": "2026-10-21T08:42:33Z",
+    "last_commit": "2026-10-22T00:53:33Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1993,8 +1993,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-10-21T13:42:38Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "aimarket",
+      "channels",
+      "escrow",
+      "plugins",
+      "python",
+      "reputation",
+      "safety",
+      "tee"
+    ]
   },
   {
     "name": "Alepha188838884/context-firewall",
@@ -2034,8 +2049,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-09-03T00:45:23Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "claude",
+      "context-window",
+      "llm",
+      "mcp",
+      "mcp-proxy",
+      "mcp-server",
+      "modelcontextprotocol",
+      "token-optimization"
+    ]
   },
   {
     "name": "AIsa-public/AIsa-mcp-server",
@@ -2076,7 +2106,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-17T02:19:46Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "api7/aisix",
@@ -2116,8 +2151,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 201,
+    "last_commit": "2026-10-22T02:11:28Z",
+    "gh_forks": 42,
+    "gh_open_issues": 62,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "ai-gateway",
+      "ai-gateway-rust",
+      "aisix",
+      "anthropic",
+      "bedrock",
+      "gateway",
+      "gemini",
+      "guardrails",
+      "inference-gateway",
+      "llm",
+      "llm-gateway",
+      "llm-proxy",
+      "llm-router",
+      "llmops",
+      "observability",
+      "openai",
+      "openai-compatible",
+      "rust",
+      "self-hosted"
+    ]
   },
   {
     "name": "reefapi/reefapi-mcp",
