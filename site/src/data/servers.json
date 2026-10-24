@@ -898,7 +898,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 524,
-    "last_commit": "2026-10-22T16:22:56Z",
+    "last_commit": "2026-10-24T14:36:29Z",
     "gh_forks": 68,
     "gh_open_issues": 27,
     "gh_license": "Apache-2.0",
@@ -952,8 +952,8 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 8,
     "last_commit": "2026-08-21T13:33:27Z",
-    "gh_forks": 0,
-    "gh_open_issues": 3,
+    "gh_forks": 1,
+    "gh_open_issues": 4,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": []
@@ -3184,7 +3184,7 @@
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1309,
     "last_commit": "2026-08-02T15:15:01Z",
-    "gh_forks": 167,
+    "gh_forks": 168,
     "gh_open_issues": 118,
     "gh_license": "MPL-2.0",
     "gh_default_branch": "main",
@@ -8178,29 +8178,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-23T10:42:59Z",
-    "gh_forks": 0,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "3d",
-      "ai-agents",
-      "blender",
-      "blender-mcp",
-      "chatgpt-apps",
-      "claude-code",
-      "cloud-rendering",
-      "codex",
-      "gemini-cli-extension",
-      "gltf",
-      "gpu",
-      "mcp",
-      "mcp-server",
-      "product-rendering",
-      "render-farm",
-      "rendering"
-    ]
+    "last_commit": ""
   },
   {
     "name": "albertnahas/icogenie-mcp",
@@ -13693,8 +13671,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1,
+    "last_commit": "2026-10-08T12:35:51Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "cgm",
+      "glucose",
+      "health-data",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "quantified-self",
+      "wellness"
+    ]
   },
   {
     "name": "davidmosiah/wellness-nourish",
