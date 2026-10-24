@@ -2365,9 +2365,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 41,
-    "last_commit": "2026-10-21T11:26:15Z",
+    "last_commit": "2026-10-24T01:53:59Z",
     "gh_forks": 9,
-    "gh_open_issues": 23,
+    "gh_open_issues": 29,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2770,7 +2770,7 @@
     "stars": 392,
     "last_commit": "2026-10-20T19:26:50Z",
     "gh_forks": 41,
-    "gh_open_issues": 6,
+    "gh_open_issues": 7,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3238,12 +3238,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-30T05:00:17Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3283,23 +3278,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-10-22T06:05:56Z",
-    "gh_forks": 1,
-    "gh_open_issues": 3,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-catalog",
-      "ai-tools",
-      "chatgpt",
-      "claude",
-      "entire-vc",
-      "mcp",
-      "model-context-protocol",
-      "npm",
-      "workflow"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -8669,13 +8649,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 294,
-    "last_commit": "2025-10-09T03:27:58Z",
-    "gh_forks": 42,
-    "gh_open_issues": 7,
-    "gh_license": "",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "cantian-ai/bazi-mcp",
