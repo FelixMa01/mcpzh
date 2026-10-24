@@ -1279,7 +1279,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-19T12:22:40Z",
+    "last_commit": "2026-10-24T07:01:04Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1491,9 +1491,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 19,
-    "last_commit": "2026-10-23T12:09:58Z",
+    "last_commit": "2026-10-24T07:56:17Z",
     "gh_forks": 1,
-    "gh_open_issues": 1,
+    "gh_open_issues": 2,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2306,7 +2306,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-18T12:24:21Z",
+    "last_commit": "2026-10-24T04:20:57Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -2365,9 +2365,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 41,
-    "last_commit": "2026-10-24T01:53:59Z",
+    "last_commit": "2026-10-24T04:35:50Z",
     "gh_forks": 9,
-    "gh_open_issues": 29,
+    "gh_open_issues": 30,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3238,7 +3238,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-30T05:00:17Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3278,8 +3283,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-10-22T06:05:56Z",
+    "gh_forks": 1,
+    "gh_open_issues": 3,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -8158,7 +8178,29 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-23T10:42:59Z",
+    "gh_forks": 0,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "3d",
+      "ai-agents",
+      "blender",
+      "blender-mcp",
+      "chatgpt-apps",
+      "claude-code",
+      "cloud-rendering",
+      "codex",
+      "gemini-cli-extension",
+      "gltf",
+      "gpu",
+      "mcp",
+      "mcp-server",
+      "product-rendering",
+      "render-farm",
+      "rendering"
+    ]
   },
   {
     "name": "albertnahas/icogenie-mcp",
