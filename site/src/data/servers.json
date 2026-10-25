@@ -898,9 +898,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 524,
-    "last_commit": "2026-10-24T17:17:17Z",
+    "last_commit": "2026-10-24T23:53:05Z",
     "gh_forks": 68,
-    "gh_open_issues": 32,
+    "gh_open_issues": 33,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3182,8 +3182,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1309,
+    "last_commit": "2026-08-02T15:15:01Z",
+    "gh_forks": 167,
+    "gh_open_issues": 118,
+    "gh_license": "MPL-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "infrastructure",
+      "mcp",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "self-hosted"
+    ]
   },
   {
     "name": "Proofpane/releases",
@@ -3224,7 +3238,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-09-30T05:00:17Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3264,8 +3283,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-10-25T01:50:43Z",
+    "gh_forks": 1,
+    "gh_open_issues": 4,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -13556,12 +13590,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-10T11:33:12Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "davidmosiah/google-health-mcp",
