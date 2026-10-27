@@ -898,9 +898,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 524,
-    "last_commit": "2026-10-27T16:54:19Z",
+    "last_commit": "2026-10-27T20:41:42Z",
     "gh_forks": 69,
-    "gh_open_issues": 30,
+    "gh_open_issues": 32,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3185,7 +3185,7 @@
     "stars": 1311,
     "last_commit": "2026-10-26T16:02:51Z",
     "gh_forks": 168,
-    "gh_open_issues": 114,
+    "gh_open_issues": 116,
     "gh_license": "MPL-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3283,8 +3283,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-10-26T06:04:06Z",
+    "gh_forks": 1,
+    "gh_open_issues": 5,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -3324,8 +3339,30 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 3,
+    "last_commit": "2026-10-07T12:12:15Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-memory",
+      "ai-agents",
+      "claude-code",
+      "developer-tools",
+      "embeddings",
+      "hermes",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "openclaw",
+      "self-improving",
+      "sqlite",
+      "vector-search"
+    ]
   },
   {
     "name": "glenngillen/mcpmcp-server",
@@ -3365,8 +3402,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 43,
+    "last_commit": "2025-04-24T04:51:41Z",
+    "gh_forks": 25,
+    "gh_open_issues": 4,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "Gliana-Labs/gliana-mcp",
@@ -3407,7 +3449,20 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-27T15:03:03Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "",
+    "gh_default_branch": "master",
+    "gh_topics": [
+      "ai",
+      "image-generation",
+      "mcp",
+      "model-context-protocol",
+      "pay-per-call",
+      "video-generation",
+      "x402"
+    ]
   },
   {
     "name": "gpu-bridge/mcp-server",
@@ -3447,8 +3502,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 2,
+    "last_commit": "2026-03-17T11:16:23Z",
+    "gh_forks": 2,
+    "gh_open_issues": 4,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "gzoonet/cortex",
@@ -3488,8 +3548,24 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 24,
+    "last_commit": "2026-10-26T16:55:20Z",
+    "gh_forks": 4,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "cli",
+      "developer-tools",
+      "gzoo",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "mcp",
+      "ollama",
+      "sqlite",
+      "web-dashboard"
+    ]
   },
   {
     "name": "hamflx/imagen3-mcp",
@@ -20585,8 +20661,33 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-10-27T10:23:50Z",
+    "gh_forks": 2,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "2captcha",
+      "2captcha-alternative",
+      "browser-automation",
+      "capmonster",
+      "capmonster-cloud",
+      "capsolver",
+      "capsolver-alternative",
+      "captcha-bypass",
+      "captcha-solver",
+      "claude",
+      "cloudflare-turnstile-solver",
+      "cursor",
+      "datadome-solver",
+      "deepseek",
+      "mcp",
+      "mcp-servers",
+      "model-context-protocol",
+      "recaptcha-bypass",
+      "web-scraping"
+    ]
   },
   {
     "name": "AIops-tools/Ceph-AIops",
