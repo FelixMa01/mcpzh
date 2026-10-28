@@ -407,9 +407,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 2,
-    "last_commit": "2026-10-28T13:58:51Z",
+    "last_commit": "2026-10-28T21:46:32Z",
     "gh_forks": 1,
-    "gh_open_issues": 7,
+    "gh_open_issues": 6,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2040,7 +2040,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 3,
-    "last_commit": "2026-10-27T15:28:05Z",
+    "last_commit": "2026-10-28T19:45:21Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -3240,7 +3240,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-30T05:00:17Z",
+    "last_commit": "2026-10-28T19:09:38Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -3285,8 +3285,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-10-26T06:04:06Z",
+    "gh_forks": 1,
+    "gh_open_issues": 5,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -5704,25 +5719,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 506,
-    "last_commit": "2026-10-28T16:53:42Z",
-    "gh_forks": 56,
-    "gh_open_issues": 22,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-skills",
-      "api-proxy",
-      "mcp",
-      "mcp-client",
-      "mcp-gateway",
-      "mcp-security",
-      "mcp-server",
-      "mcp-servers",
-      "rate-limit",
-      "throttling",
-      "visibility"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "thinkchainai/mcpbundles",
@@ -8632,8 +8630,34 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 12,
+    "last_commit": "2026-10-28T00:09:19Z",
+    "gh_forks": 0,
+    "gh_open_issues": 3,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agent",
+      "ai-music",
+      "chord-analysis",
+      "chord-progression",
+      "chords",
+      "claude",
+      "cursor",
+      "deterministic",
+      "harmony",
+      "jazz",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "music",
+      "music-theory",
+      "music-theory-api",
+      "reharmonization",
+      "roman-numeral-analysis",
+      "voice-leading",
+      "voicing"
+    ]
   },
   {
     "name": "burningion/video-editing-mcp",
