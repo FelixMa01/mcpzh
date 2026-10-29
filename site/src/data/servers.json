@@ -407,9 +407,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 2,
-    "last_commit": "2026-10-29T17:12:43Z",
+    "last_commit": "2026-10-29T21:19:36Z",
     "gh_forks": 1,
-    "gh_open_issues": 3,
+    "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -898,9 +898,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 525,
-    "last_commit": "2026-10-29T17:51:24Z",
+    "last_commit": "2026-10-29T18:32:36Z",
     "gh_forks": 70,
-    "gh_open_issues": 14,
+    "gh_open_issues": 15,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2040,7 +2040,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 3,
-    "last_commit": "2026-10-29T03:50:26Z",
+    "last_commit": "2026-10-29T19:54:19Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -3123,8 +3123,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 65,
+    "last_commit": "2026-10-13T17:37:39Z",
+    "gh_forks": 6,
+    "gh_open_issues": 5,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-coding-assistant",
+      "arc-diagram",
+      "cli",
+      "code-analysis",
+      "dead-code",
+      "dependency-graph",
+      "developer-tools",
+      "go",
+      "javascript",
+      "mcp",
+      "model-context-protocl",
+      "python",
+      "rust",
+      "typescript"
+    ]
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -3164,8 +3184,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1314,
+    "last_commit": "2026-10-26T16:02:51Z",
+    "gh_forks": 168,
+    "gh_open_issues": 117,
+    "gh_license": "MPL-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "infrastructure",
+      "mcp",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "self-hosted"
+    ]
   },
   {
     "name": "Proofpane/releases",
@@ -3206,7 +3240,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-29T03:49:11Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3246,8 +3285,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-10-26T06:04:06Z",
+    "gh_forks": 1,
+    "gh_open_issues": 5,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -12677,7 +12731,24 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-27T08:23:51Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-rendering",
+      "architecture",
+      "chatgpt",
+      "claude",
+      "gemini-cli-extension",
+      "interior-design",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "real-estate",
+      "virtual-staging"
+    ]
   },
   {
     "name": "Narasimhaponnada/mermaid-mcp",
@@ -18539,34 +18610,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 3,
-    "last_commit": "2026-10-17T03:18:29Z",
-    "gh_forks": 3,
-    "gh_open_issues": 7,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "accessibility",
-      "agent",
-      "ai",
-      "browser-automation",
-      "cdp",
-      "chromium",
-      "claude",
-      "cursor",
-      "firefox",
-      "geckodriver",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "playwright-alternative",
-      "python",
-      "scraping",
-      "selenium-alternative",
-      "testing",
-      "web-automation",
-      "webdriver"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "microsoft/playwright-mcp",
