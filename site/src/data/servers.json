@@ -1279,7 +1279,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-30T08:19:38Z",
+    "last_commit": "2026-10-31T08:10:06Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1491,7 +1491,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 19,
-    "last_commit": "2026-10-30T07:03:59Z",
+    "last_commit": "2026-10-31T09:06:15Z",
     "gh_forks": 1,
     "gh_open_issues": 3,
     "gh_license": "MIT",
@@ -1644,7 +1644,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 14,
-    "last_commit": "2026-10-31T01:48:00Z",
+    "last_commit": "2026-10-31T06:59:00Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2197,7 +2197,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 206,
+    "stars": 207,
     "last_commit": "2026-10-30T07:32:50Z",
     "gh_forks": 46,
     "gh_open_issues": 65,
@@ -2823,9 +2823,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-10-30T14:34:57Z",
+    "last_commit": "2026-10-31T07:35:59Z",
     "gh_forks": 0,
-    "gh_open_issues": 13,
+    "gh_open_issues": 15,
     "gh_license": "MIT-0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -10523,20 +10523,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 136,
-    "last_commit": "2026-10-15T20:57:23Z",
-    "gh_forks": 18,
-    "gh_open_issues": 61,
-    "gh_license": "Apache-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-tools",
-      "build123d",
-      "cad",
-      "mcp",
-      "mcp-server",
-      "python3"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Psalmustrack/lambdacad-mcp",
@@ -17300,8 +17288,29 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-09-04T15:56:35Z",
+    "gh_forks": 1,
+    "gh_open_issues": 1,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agentic-web",
+      "browser-automation",
+      "claude-code",
+      "cursor-ide",
+      "cypress",
+      "devtools",
+      "dom-inspector",
+      "mcp",
+      "mcp-servers",
+      "model-context-protocol",
+      "model-context-protocol-server",
+      "model-context-protocol-servers",
+      "web-debugging",
+      "websocket-bridge",
+      "windsurf"
+    ]
   },
   {
     "name": "firecrawl/firecrawl-mcp-server",
