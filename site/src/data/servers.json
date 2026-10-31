@@ -793,7 +793,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-10-08T16:55:46Z",
+    "last_commit": "2026-10-31T16:31:06Z",
     "gh_forks": 2,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -852,7 +852,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-23T13:21:50Z",
+    "last_commit": "2026-10-31T16:31:03Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1043,7 +1043,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-08T16:56:40Z",
+    "last_commit": "2026-10-31T18:27:30Z",
     "gh_forks": 0,
     "gh_open_issues": 2,
     "gh_license": "MIT",
@@ -3004,7 +3004,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 13,
+    "stars": 14,
     "last_commit": "2026-10-22T07:05:30Z",
     "gh_forks": 5,
     "gh_open_issues": 9,
@@ -3184,8 +3184,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1315,
+    "last_commit": "2026-10-30T18:52:17Z",
+    "gh_forks": 168,
+    "gh_open_issues": 117,
+    "gh_license": "MPL-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "infrastructure",
+      "mcp",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "self-hosted"
+    ]
   },
   {
     "name": "Proofpane/releases",
@@ -4456,22 +4470,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-27T14:53:56Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "japan",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "python",
-      "saas"
-    ]
+    "last_commit": ""
   },
   {
     "name": "merterbak/Grok-MCP",
