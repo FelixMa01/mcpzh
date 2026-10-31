@@ -1644,7 +1644,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 14,
-    "last_commit": "2026-10-30T16:27:48Z",
+    "last_commit": "2026-10-31T01:48:00Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -10523,8 +10523,20 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 136,
+    "last_commit": "2026-10-15T20:57:23Z",
+    "gh_forks": 18,
+    "gh_open_issues": 61,
+    "gh_license": "Apache-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-tools",
+      "build123d",
+      "cad",
+      "mcp",
+      "mcp-server",
+      "python3"
+    ]
   },
   {
     "name": "Psalmustrack/lambdacad-mcp",
