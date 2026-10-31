@@ -1491,7 +1491,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 19,
-    "last_commit": "2026-10-31T09:06:15Z",
+    "last_commit": "2026-10-31T12:43:34Z",
     "gh_forks": 1,
     "gh_open_issues": 3,
     "gh_license": "MIT",
@@ -1644,7 +1644,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 14,
-    "last_commit": "2026-10-31T06:59:00Z",
+    "last_commit": "2026-10-31T14:39:14Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -4456,7 +4456,22 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-27T14:53:56Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "japan",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "python",
+      "saas"
+    ]
   },
   {
     "name": "merterbak/Grok-MCP",
@@ -17288,29 +17303,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-09-04T15:56:35Z",
-    "gh_forks": 1,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agentic-web",
-      "browser-automation",
-      "claude-code",
-      "cursor-ide",
-      "cypress",
-      "devtools",
-      "dom-inspector",
-      "mcp",
-      "mcp-servers",
-      "model-context-protocol",
-      "model-context-protocol-server",
-      "model-context-protocol-servers",
-      "web-debugging",
-      "websocket-bridge",
-      "windsurf"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "firecrawl/firecrawl-mcp-server",
