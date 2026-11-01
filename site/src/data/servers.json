@@ -897,7 +897,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 525,
+    "stars": 526,
     "last_commit": "2026-10-30T16:40:17Z",
     "gh_forks": 72,
     "gh_open_issues": 18,
@@ -1089,7 +1089,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-30T09:28:27Z",
+    "last_commit": "2026-11-01T00:46:21Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1644,7 +1644,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 14,
-    "last_commit": "2026-10-31T14:39:14Z",
+    "last_commit": "2026-11-01T02:38:26Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -3123,7 +3123,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 65,
+    "stars": 66,
     "last_commit": "2026-10-13T17:37:39Z",
     "gh_forks": 6,
     "gh_open_issues": 5,
@@ -3184,22 +3184,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1315,
-    "last_commit": "2026-10-30T18:52:17Z",
-    "gh_forks": 168,
-    "gh_open_issues": 117,
-    "gh_license": "MPL-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "infrastructure",
-      "mcp",
-      "mcp-gateway",
-      "mcp-registry",
-      "mcp-server",
-      "model-context-protocol",
-      "self-hosted"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Proofpane/releases",
