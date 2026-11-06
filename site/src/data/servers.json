@@ -1279,7 +1279,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-11-05T09:11:11Z",
+    "last_commit": "2026-11-06T12:10:50Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1552,7 +1552,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-11-04T06:15:06Z",
+    "last_commit": "2026-11-06T10:41:49Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -1652,7 +1652,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 14,
-    "last_commit": "2026-11-05T08:21:51Z",
+    "last_commit": "2026-11-06T06:50:03Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -2206,7 +2206,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 214,
-    "last_commit": "2026-11-05T17:28:40Z",
+    "last_commit": "2026-11-06T07:45:33Z",
     "gh_forks": 48,
     "gh_open_issues": 64,
     "gh_license": "Apache-2.0",
@@ -2498,7 +2498,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-11-06T00:20:00Z",
+    "last_commit": "2026-11-06T12:21:45Z",
     "gh_forks": 4,
     "gh_open_issues": 13,
     "gh_license": "",
@@ -2778,7 +2778,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 389,
-    "last_commit": "2026-11-05T10:31:52Z",
+    "last_commit": "2026-11-06T06:25:05Z",
     "gh_forks": 42,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -3131,28 +3131,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 67,
-    "last_commit": "2026-11-03T23:06:01Z",
-    "gh_forks": 6,
-    "gh_open_issues": 6,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-coding-assistant",
-      "arc-diagram",
-      "cli",
-      "code-analysis",
-      "dead-code",
-      "dependency-graph",
-      "developer-tools",
-      "go",
-      "javascript",
-      "mcp",
-      "model-context-protocl",
-      "python",
-      "rust",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -3192,22 +3172,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1606,
-    "last_commit": "2026-11-03T22:51:07Z",
-    "gh_forks": 202,
-    "gh_open_issues": 117,
-    "gh_license": "MPL-2.0",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "infrastructure",
-      "mcp",
-      "mcp-gateway",
-      "mcp-registry",
-      "mcp-server",
-      "model-context-protocol",
-      "self-hosted"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "Proofpane/releases",
@@ -12063,20 +12029,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-10-18T10:34:59Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-tools",
-      "claude",
-      "diagrams",
-      "excalidraw",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol"
-    ]
+    "last_commit": ""
   },
   {
     "name": "cisco-open/network-sketcher",
@@ -13798,7 +13751,23 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-08-09T02:26:58Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai",
+      "calories",
+      "claude",
+      "computer-vision",
+      "food",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nutrition",
+      "nutrition-api"
+    ]
   },
   {
     "name": "forever-healthy/evipedia-mcp",
