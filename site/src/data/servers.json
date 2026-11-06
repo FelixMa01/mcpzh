@@ -897,7 +897,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 528,
+    "stars": 529,
     "last_commit": "2026-11-05T15:20:24Z",
     "gh_forks": 71,
     "gh_open_issues": 16,
@@ -2498,9 +2498,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-11-06T12:21:45Z",
+    "last_commit": "2026-11-06T18:10:42Z",
     "gh_forks": 4,
-    "gh_open_issues": 13,
+    "gh_open_issues": 14,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2778,7 +2778,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 389,
-    "last_commit": "2026-11-06T06:25:05Z",
+    "last_commit": "2026-11-06T22:15:37Z",
     "gh_forks": 42,
     "gh_open_issues": 1,
     "gh_license": "MIT",
@@ -3131,8 +3131,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 67,
+    "last_commit": "2026-11-06T10:19:24Z",
+    "gh_forks": 6,
+    "gh_open_issues": 3,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-coding-assistant",
+      "arc-diagram",
+      "cli",
+      "code-analysis",
+      "dead-code",
+      "dependency-graph",
+      "developer-tools",
+      "go",
+      "javascript",
+      "mcp",
+      "model-context-protocl",
+      "python",
+      "rust",
+      "typescript"
+    ]
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -3172,8 +3192,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1611,
+    "last_commit": "2026-11-03T22:51:07Z",
+    "gh_forks": 203,
+    "gh_open_issues": 117,
+    "gh_license": "MPL-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "infrastructure",
+      "mcp",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "self-hosted"
+    ]
   },
   {
     "name": "Proofpane/releases",
@@ -3214,7 +3248,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-11-04T16:10:37Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3254,8 +3293,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-11-04T13:00:22Z",
+    "gh_forks": 1,
+    "gh_open_issues": 6,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -13751,23 +13805,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-08-09T02:26:58Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "calories",
-      "claude",
-      "computer-vision",
-      "food",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "nutrition",
-      "nutrition-api"
-    ]
+    "last_commit": ""
   },
   {
     "name": "forever-healthy/evipedia-mcp",
@@ -27632,6 +27670,47 @@
     "url": "https://github.com/ly8427/mcp-review-board",
     "github_url": "https://github.com/ly8427/mcp-review-board",
     "description": "Localhost review board where different coding agents (Claude Code, Codex, OpenCode, Trae, ZCode) review each other's work: objections must state flip conditions, revisions clear all verdicts, resolution requires the whole active quorum, and every vote is append-only audited. Ships its own audited self-review history as evidence. Install: `pipx install mcp-review-board`.",
+    "category": "Coding Agents",
+    "subcategory": "",
+    "language": "",
+    "badges": {
+      "official": false,
+      "fast": false,
+      "cloud": false,
+      "local_install": true,
+      "python": true,
+      "nodejs": false,
+      "rust": false,
+      "go": false,
+      "java": false,
+      "ai_native": false,
+      "cli": false,
+      "embedded": false,
+      "macos": true,
+      "windows": true,
+      "linux": true,
+      "remote": false,
+      "plugin": false,
+      "tool": false,
+      "package": false
+    },
+    "compatible_clients": [
+      "claude_code",
+      "cursor",
+      "codex",
+      "windsurf",
+      "continue",
+      "cline"
+    ],
+    "source": "punkpeye/awesome-mcp-servers",
+    "stars": 0,
+    "last_commit": ""
+  },
+  {
+    "name": "Arkz-Deepak/neurocode",
+    "url": "https://github.com/Arkz-Deepak/neurocode",
+    "github_url": "https://github.com/Arkz-Deepak/neurocode",
+    "description": "In-memory Code Property Graph context slicer for local models (Ollama, Cursor, Claude Desktop): extracts sub-1,200 token reachability closures for autonomous repository bug repair on consumer edge hardware (4GB–8GB VRAM) without cloud API dependency.",
     "category": "Coding Agents",
     "subcategory": "",
     "language": "",
