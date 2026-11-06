@@ -1654,7 +1654,7 @@
     "stars": 14,
     "last_commit": "2026-11-05T08:21:51Z",
     "gh_forks": 0,
-    "gh_open_issues": 0,
+    "gh_open_issues": 1,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2205,7 +2205,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 213,
+    "stars": 214,
     "last_commit": "2026-11-05T17:28:40Z",
     "gh_forks": 48,
     "gh_open_issues": 64,
@@ -2498,7 +2498,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-11-05T21:59:31Z",
+    "last_commit": "2026-11-06T00:20:00Z",
     "gh_forks": 4,
     "gh_open_issues": 13,
     "gh_license": "",
@@ -3131,8 +3131,28 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 67,
+    "last_commit": "2026-11-03T23:06:01Z",
+    "gh_forks": 6,
+    "gh_open_issues": 6,
+    "gh_license": "NOASSERTION",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-coding-assistant",
+      "arc-diagram",
+      "cli",
+      "code-analysis",
+      "dead-code",
+      "dependency-graph",
+      "developer-tools",
+      "go",
+      "javascript",
+      "mcp",
+      "model-context-protocl",
+      "python",
+      "rust",
+      "typescript"
+    ]
   },
   {
     "name": "duaraghav8/MCPJungle",
@@ -3172,8 +3192,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1606,
+    "last_commit": "2026-11-03T22:51:07Z",
+    "gh_forks": 202,
+    "gh_open_issues": 117,
+    "gh_license": "MPL-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "infrastructure",
+      "mcp",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "self-hosted"
+    ]
   },
   {
     "name": "Proofpane/releases",
@@ -12029,7 +12063,20 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-10-18T10:34:59Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-tools",
+      "claude",
+      "diagrams",
+      "excalidraw",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ]
   },
   {
     "name": "cisco-open/network-sketcher",
