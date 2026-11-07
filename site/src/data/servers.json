@@ -1654,7 +1654,7 @@
     "stars": 14,
     "last_commit": "2026-11-06T06:50:03Z",
     "gh_forks": 0,
-    "gh_open_issues": 1,
+    "gh_open_issues": 0,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2498,9 +2498,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-11-06T18:10:42Z",
+    "last_commit": "2026-11-06T23:48:50Z",
     "gh_forks": 4,
-    "gh_open_issues": 14,
+    "gh_open_issues": 15,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3131,7 +3131,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 67,
+    "stars": 68,
     "last_commit": "2026-11-06T10:19:24Z",
     "gh_forks": 6,
     "gh_open_issues": 3,
@@ -3293,23 +3293,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-11-04T13:00:22Z",
-    "gh_forks": 1,
-    "gh_open_issues": 6,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-catalog",
-      "ai-tools",
-      "chatgpt",
-      "claude",
-      "entire-vc",
-      "mcp",
-      "model-context-protocol",
-      "npm",
-      "workflow"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "gamaze-labs/hicortex",
