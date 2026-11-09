@@ -2440,9 +2440,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 26,
-    "last_commit": "2026-11-02T03:09:14Z",
+    "last_commit": "2026-11-09T03:09:26Z",
     "gh_forks": 10,
-    "gh_open_issues": 2,
+    "gh_open_issues": 3,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2498,7 +2498,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-11-08T11:37:19Z",
+    "last_commit": "2026-11-09T01:59:01Z",
     "gh_forks": 4,
     "gh_open_issues": 13,
     "gh_license": "",
@@ -3192,8 +3192,22 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 1616,
+    "last_commit": "2026-11-03T22:51:07Z",
+    "gh_forks": 203,
+    "gh_open_issues": 117,
+    "gh_license": "MPL-2.0",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "infrastructure",
+      "mcp",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "self-hosted"
+    ]
   },
   {
     "name": "Proofpane/releases",
@@ -3234,7 +3248,12 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": ""
+    "last_commit": "2026-11-07T22:52:38Z",
+    "gh_forks": 0,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3274,8 +3293,23 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 4,
+    "last_commit": "2026-11-04T13:00:22Z",
+    "gh_forks": 1,
+    "gh_open_issues": 6,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "agent-catalog",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "entire-vc",
+      "mcp",
+      "model-context-protocol",
+      "npm",
+      "workflow"
+    ]
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -13811,13 +13845,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 2,
-    "last_commit": "2026-09-09T12:49:08Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "fulcradynamics/fulcra-context-mcp",
