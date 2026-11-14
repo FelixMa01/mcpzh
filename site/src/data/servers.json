@@ -1491,9 +1491,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 20,
-    "last_commit": "2026-11-13T21:39:19Z",
+    "last_commit": "2026-11-14T18:37:09Z",
     "gh_forks": 3,
-    "gh_open_issues": 7,
+    "gh_open_issues": 6,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2205,10 +2205,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 219,
-    "last_commit": "2026-11-14T11:54:43Z",
+    "stars": 220,
+    "last_commit": "2026-11-14T17:32:00Z",
     "gh_forks": 48,
-    "gh_open_issues": 67,
+    "gh_open_issues": 66,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2373,7 +2373,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 44,
-    "last_commit": "2026-11-14T07:11:07Z",
+    "last_commit": "2026-11-14T18:20:23Z",
     "gh_forks": 10,
     "gh_open_issues": 28,
     "gh_license": "MIT",
@@ -2711,7 +2711,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 4,
-    "last_commit": "2026-11-14T11:16:21Z",
+    "last_commit": "2026-11-14T21:44:52Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "BSD-3-Clause",
@@ -3248,12 +3248,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-11-09T14:37:47Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -10714,8 +10709,13 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 72,
+    "last_commit": "2025-02-07T09:28:40Z",
+    "gh_forks": 14,
+    "gh_open_issues": 5,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": []
   },
   {
     "name": "raveenb/fal-mcp-server",
