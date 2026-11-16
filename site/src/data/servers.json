@@ -898,9 +898,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 529,
-    "last_commit": "2026-11-15T15:42:02Z",
+    "last_commit": "2026-11-16T13:22:42Z",
     "gh_forks": 72,
-    "gh_open_issues": 17,
+    "gh_open_issues": 16,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1279,7 +1279,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-11-15T08:57:51Z",
+    "last_commit": "2026-11-16T09:12:52Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "CC-BY-4.0",
@@ -1491,9 +1491,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 20,
-    "last_commit": "2026-11-15T22:34:11Z",
+    "last_commit": "2026-11-16T11:00:48Z",
     "gh_forks": 3,
-    "gh_open_issues": 7,
+    "gh_open_issues": 6,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2205,8 +2205,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 221,
-    "last_commit": "2026-11-16T03:03:18Z",
+    "stars": 222,
+    "last_commit": "2026-11-16T04:47:31Z",
     "gh_forks": 48,
     "gh_open_issues": 66,
     "gh_license": "Apache-2.0",
@@ -2375,7 +2375,7 @@
     "stars": 45,
     "last_commit": "2026-11-14T18:20:23Z",
     "gh_forks": 10,
-    "gh_open_issues": 28,
+    "gh_open_issues": 27,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2711,7 +2711,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 4,
-    "last_commit": "2026-11-16T01:49:59Z",
+    "last_commit": "2026-11-16T14:06:56Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "BSD-3-Clause",
@@ -3192,7 +3192,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 1625,
+    "stars": 1626,
     "last_commit": "2026-11-03T22:51:07Z",
     "gh_forks": 204,
     "gh_open_issues": 122,
@@ -3248,12 +3248,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-11-09T14:37:47Z",
-    "gh_forks": 0,
-    "gh_open_issues": 0,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": []
+    "last_commit": ""
   },
   {
     "name": "entire-vc/evc-spark-mcp",
@@ -3293,23 +3288,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 4,
-    "last_commit": "2026-11-15T23:55:14Z",
-    "gh_forks": 1,
-    "gh_open_issues": 2,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "agent-catalog",
-      "ai-tools",
-      "chatgpt",
-      "claude",
-      "entire-vc",
-      "mcp",
-      "model-context-protocol",
-      "npm",
-      "workflow"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "gamaze-labs/hicortex",
@@ -12533,8 +12513,33 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 0,
-    "last_commit": ""
+    "stars": 45,
+    "last_commit": "2026-11-16T12:52:12Z",
+    "gh_forks": 1,
+    "gh_open_issues": 0,
+    "gh_license": "MIT",
+    "gh_default_branch": "main",
+    "gh_topics": [
+      "ai-agents",
+      "brand",
+      "claude-code",
+      "codex",
+      "design",
+      "design-automation",
+      "design-tools",
+      "gemini-cli-extension",
+      "graphic-design",
+      "imgly",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nodejs",
+      "pdf-tools",
+      "print",
+      "video-editing",
+      "video-processing"
+    ]
   },
   {
     "name": "jgsystemsconsulting/jgs-magic-sysmlv1-mcp",
@@ -21185,21 +21190,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 0,
-    "last_commit": "2026-09-03T09:51:22Z",
-    "gh_forks": 0,
-    "gh_open_issues": 1,
-    "gh_license": "MIT",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-agents",
-      "claude",
-      "containers",
-      "cursor",
-      "deployment",
-      "mcp",
-      "model-context-protocol",
-      "paas"
-    ]
+    "last_commit": ""
   },
   {
     "name": "AIops-tools/Network-AIops",
