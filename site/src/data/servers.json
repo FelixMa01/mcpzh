@@ -460,7 +460,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 3,
-    "last_commit": "2026-11-17T19:07:04Z",
+    "last_commit": "2026-11-18T15:59:25Z",
     "gh_forks": 1,
     "gh_open_issues": 6,
     "gh_license": "MIT",
@@ -996,8 +996,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 533,
-    "last_commit": "2026-11-17T11:58:53Z",
+    "stars": 534,
+    "last_commit": "2026-11-18T15:59:15Z",
     "gh_forks": 72,
     "gh_open_issues": 21,
     "gh_license": "Apache-2.0",
@@ -1332,12 +1332,19 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-11-16T14:55:35Z",
+    "last_commit": "2026-11-18T16:53:29Z",
     "gh_forks": 0,
     "gh_open_issues": 3,
     "gh_license": "MIT",
     "gh_default_branch": "main",
-    "gh_topics": []
+    "gh_topics": [
+      "ai-agents",
+      "base",
+      "mcp",
+      "model-context-protocol",
+      "usdc",
+      "x402"
+    ]
   },
   {
     "name": "Nutshell2000/agent-data-tools",
@@ -1378,9 +1385,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 1,
-    "last_commit": "2026-11-18T14:29:46Z",
+    "last_commit": "2026-11-18T23:24:33Z",
     "gh_forks": 0,
-    "gh_open_issues": 13,
+    "gh_open_issues": 14,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1655,7 +1662,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 20,
-    "last_commit": "2026-11-18T14:12:47Z",
+    "last_commit": "2026-11-18T23:06:45Z",
     "gh_forks": 3,
     "gh_open_issues": 6,
     "gh_license": "MIT",
@@ -1816,7 +1823,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 16,
-    "last_commit": "2026-11-18T02:45:04Z",
+    "last_commit": "2026-11-18T14:56:30Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2369,10 +2376,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 225,
-    "last_commit": "2026-11-18T14:39:59Z",
+    "stars": 226,
+    "last_commit": "2026-11-18T14:56:31Z",
     "gh_forks": 47,
-    "gh_open_issues": 64,
+    "gh_open_issues": 63,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -2537,9 +2544,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 45,
-    "last_commit": "2026-11-18T11:25:18Z",
+    "last_commit": "2026-11-18T22:32:05Z",
     "gh_forks": 11,
-    "gh_open_issues": 18,
+    "gh_open_issues": 14,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -3120,7 +3127,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 17,
-    "last_commit": "2026-10-07T21:14:26Z",
+    "last_commit": "2026-11-18T21:14:34Z",
     "gh_forks": 0,
     "gh_open_issues": 1,
     "gh_license": "Apache-2.0",
@@ -3296,24 +3303,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 22,
-    "last_commit": "2025-08-29T06:28:47Z",
-    "gh_forks": 5,
-    "gh_open_issues": 4,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai",
-      "claude",
-      "crew-ai",
-      "cursor",
-      "langchain",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "openai",
-      "vscode"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "depwire/depwire",
@@ -3353,28 +3344,8 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 73,
-    "last_commit": "2026-11-10T17:58:40Z",
-    "gh_forks": 6,
-    "gh_open_issues": 2,
-    "gh_license": "NOASSERTION",
-    "gh_default_branch": "main",
-    "gh_topics": [
-      "ai-coding-assistant",
-      "arc-diagram",
-      "cli",
-      "code-analysis",
-      "dead-code",
-      "dependency-graph",
-      "developer-tools",
-      "go",
-      "javascript",
-      "mcp",
-      "model-context-protocl",
-      "python",
-      "rust",
-      "typescript"
-    ]
+    "stars": 0,
+    "last_commit": ""
   },
   {
     "name": "duaraghav8/MCPJungle",
