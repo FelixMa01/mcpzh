@@ -998,10 +998,10 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 535,
+    "stars": 536,
     "last_commit": "2026-11-21T14:47:17Z",
     "gh_forks": 74,
-    "gh_open_issues": 15,
+    "gh_open_issues": 16,
     "gh_license": "Apache-2.0",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1336,7 +1336,7 @@
     "stars": 1,
     "last_commit": "2026-11-19T03:57:24Z",
     "gh_forks": 0,
-    "gh_open_issues": 3,
+    "gh_open_issues": 4,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1664,9 +1664,9 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 20,
-    "last_commit": "2026-11-21T20:49:13Z",
+    "last_commit": "2026-11-21T23:25:31Z",
     "gh_forks": 3,
-    "gh_open_issues": 4,
+    "gh_open_issues": 5,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1727,7 +1727,7 @@
     "stars": 4,
     "last_commit": "2026-11-21T14:39:33Z",
     "gh_forks": 0,
-    "gh_open_issues": 1,
+    "gh_open_issues": 2,
     "gh_license": "MIT",
     "gh_default_branch": "main",
     "gh_topics": [
@@ -1781,7 +1781,7 @@
     "stars": 5,
     "last_commit": "2026-02-19T17:28:58Z",
     "gh_forks": 2,
-    "gh_open_issues": 1,
+    "gh_open_issues": 2,
     "gh_license": "",
     "gh_default_branch": "main",
     "gh_topics": []
@@ -1825,7 +1825,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 16,
-    "last_commit": "2026-11-20T00:54:34Z",
+    "last_commit": "2026-11-22T00:54:46Z",
     "gh_forks": 0,
     "gh_open_issues": 0,
     "gh_license": "MIT",
@@ -2546,7 +2546,7 @@
     ],
     "source": "punkpeye/awesome-mcp-servers",
     "stars": 45,
-    "last_commit": "2026-11-19T23:37:38Z",
+    "last_commit": "2026-11-22T00:53:28Z",
     "gh_forks": 11,
     "gh_open_issues": 12,
     "gh_license": "MIT",
@@ -2950,7 +2950,7 @@
       "cline"
     ],
     "source": "punkpeye/awesome-mcp-servers",
-    "stars": 390,
+    "stars": 391,
     "last_commit": "2026-11-18T03:00:12Z",
     "gh_forks": 42,
     "gh_open_issues": 0,
